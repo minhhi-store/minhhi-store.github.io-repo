@@ -1,0 +1,21 @@
+{
+  "name": "Fruit CC",
+  "package": "com.tqm-storer.fruitcc",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.1",
+  "dependency": "N/A",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes).<br><br>* Hiển thị thay đổi icon trung tâm kiểm soát.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "1.1": [
+      "Cải tiến & Sửa lỗi"
+    ]
+  },
+  "screenshots": {
+    "fruitcc1.png": "",
+    "fruitcc2.png": ""
+  },
+  "links": {}
+}

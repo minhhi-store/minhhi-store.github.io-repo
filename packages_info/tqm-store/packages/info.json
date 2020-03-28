@@ -1,0 +1,21 @@
+{
+  "name": "Icon Repo",
+  "package": "com.tqm-store.iconrepo",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Gói Icon hiểm thị danh sách .<br><br>Ứng dụng ( Application ).<br><br><strong>Chủ đề ( Themes ).</strong> Tinh chỉnh ( Tweaks ).</div>",
+  "changelog": {
+    "1.0": [
+      "Phiên bản đầu tiên."
+    ]
+  },
+  "screenshots": {
+    "iconrepo1.png": "",
+    "iconrepo2.png": ""
+  },
+  "links": {}
+}

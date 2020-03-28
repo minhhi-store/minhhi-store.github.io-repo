@@ -1,0 +1,21 @@
+{
+  "name": "Merlen",
+  "package": "com.tqm-store.merlen",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.6",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "1.6": [
+      "Cải tiến & Sửa lỗi"
+    ]
+  },
+  "screenshots": {
+    "merlen1.png": "",
+    "merlen2.png": ""
+  },
+  "links": {}
+}

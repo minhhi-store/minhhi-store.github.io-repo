@@ -1,0 +1,809 @@
+Package: com.tqm-store.iconrepo
+Name: Icon Repo
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: yes
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Section: System
+Description: Gói icon cho source TQM-Store,hiển thị danh sách icon gói cài đặt!
+Sileodepiction: https://tqm-store.github.io/Sileo/tqm-store.json
+Depiction: https://tqm-store.github.io/packages_info/tqm-store/?p=info
+Icon: file:///Applications/Cydia.app/Sections/mos.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.iconrepo_1.0_iphoneos-arm.deb
+Size: 109432
+MD5sum: 58d3434c92b73b31548ae8f178d1f8eb
+SHA1: 05a41055a3f59be5f76e2fc64e064d6ab59f12df
+SHA256: 99e5ee8ad4b496ffd1e09dc8808b9d154d6feae1845f806fa99a1a4337337c43
+
+
+Package: com.tqm-store.immaterialis
+Name: Immaterialis
+Version: 1.0
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Section: TQM Themes
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://tqm-store.github.io/Sileo/immaterialis.json
+Depiction: https://tqm-store.github.io/packages_info/immaterialis/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/immaterialis.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.immaterialis_1.0_iphoneos-arm.deb
+Size: 3662320
+MD5sum: 5a4523fb9905826c7adbafbb36b4bf41
+SHA1: c6a8e988b2b43816bca843f7e44f9f266398ff20
+SHA256: 1bd0575b43d67d3166a9fcb5db7ce326501db086d92dd5246f43facd94f1f143
+
+
+Package: com.tqm-store.carnival2
+Name: Carnival2
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Sileodepiction: https://tqm-store.github.io/Sileo/carnival2.json
+Depiction: https://tqm-store.github.io/packages_info/carnival2/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/carnival21.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.carnival2_1.0_iphoneos-arm.deb
+Size: 18779996
+MD5sum: 29a32069725a8bd163476310c3a78b0d
+SHA1: 16f7723238304666728e9ebf1d69e17bd2f53241
+SHA256: a95b834aa6be4be595c38f057c648513deb190e93f8f728df0b696bdc874e0b2
+
+
+Package: com.tqm-store.kobu
+Name: Kobu
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Unique theme created with Procreate on my iPad Pro, using an Apple Pencil.
+Sileodepiction: https://tqm-store.github.io/Sileo/kobu.json
+Depiction: https://tqm-store.github.io/packages_info/kobu/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/kobu1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.kobu_1.0_iphoneos-arm.deb
+Size: 19054632
+MD5sum: 6e9c44094c66a4d0154afe802544b779
+SHA1: d5499f9291ddaa3fac1a66c53fdbde60849d3196
+SHA256: a3c6b7334dc230285d0c82e22165c7769f58ebd64e9549c78cabe9169d19d3c5
+
+
+Package: com.tqm-store.diddly
+Name: Diddly
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Arrows CC theme with Prysm support
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://tqm-store.github.io/Sileo/diddly.json
+Depiction: https://tqm-store.github.io/packages_info/diddly/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/diddly.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.diddly_1.0_iphoneos-arm.deb
+Size: 39113646
+MD5sum: 93f2064f5a7c0b6eae18aa5c39701abb
+SHA1: be57133311d72d1aca926f8a7d6d7583ba338ba6
+SHA256: 2205435207f0853d72b1c8ab9724824e65083188d363701d68dd0e60ee939803
+
+
+Package: com.tqm-store.caramel
+Name: Caramel
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes mod by Tqm
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://tqm-store.github.io/Sileo/caramel.json
+Depiction: https://tqm-store.github.io/packages_info/caramel/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/caramel.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.caramel_1.0_iphoneos-arm.deb
+Size: 10757950
+MD5sum: cac82b3aaeb29627d009194ea94cd38f
+SHA1: fe063edd0a9545f11dfe45c334d43759c6b97665
+SHA256: 069d8b78ee0db9e77f540036749a0aae4b54f12936817f1d4077f13b55a22a3a
+
+
+Package: com.tqm-store.timesskap
+Name: Times Skap
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widgets mod by Tqm
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Widgets
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://tqm-store.github.io/Sileo/timesskap.json
+Depiction: https://tqm-store.github.io/packages_info/timesskap/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/timesskap.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.timesskap_1.0_iphoneos-arm.deb
+Size: 141320
+MD5sum: d941dc3eadf5c671c1aa1da606215e1f
+SHA1: 215db9f3d88c46244ea472f567936d4fb895d45c
+SHA256: d70ad29f787953692bb7b3b356b77388e0014f6cb8e2d0b6e5d0c9f84f5aae91
+
+
+Package: com.tqm-store.weatherstack
+Name: Weather Stack
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widgets mod by Tqm
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Widgets
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://tqm-store.github.io/Sileo/weatherstack.json
+Depiction: https://tqm-store.github.io/packages_info/weatherstack/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/weatherstack.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.weatherstack_1.0_iphoneos-arm.deb
+Size: 1425534
+MD5sum: a28f20fa6a7489962f400b215dc3459b
+SHA1: 20a5a371f63dceb40b0a4c4507227ba067895160
+SHA256: b2dc29da98ac25669722f3cc106b182a845ed694ed2e78446f6c1f326f70f9b5
+
+
+Package: com.tqm-store.aiircc
+Name: Aiir CC
+Version: 1.4
+Architecture: iphoneos-arm
+Description: A Custom Control Centre Theme!
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/aiircc.png
+Sileodepiction: https://tqm-store.github.io/Sileo/aiircc.json
+Depiction: https://tqm-store.github.io/packages_info/aiircc/?p=info
+Filename: ./debs/com.tqm-store.aiircc_1.4_iphoneos-arm.deb
+Size: 2692584
+MD5sum: 54dae85bdb0c94396c0384d2a2226dc9
+SHA1: 4a13328c84e15eef0932d309f14e83be77e89a5e
+SHA256: 97edec377a69bbb2ecd6744b347f41a603394d836f73fcb962e461eaef9c0406
+
+
+Package: com.tqm-store.arete
+Name: Arete
+Version: 1.4
+Architecture: iphoneos-arm
+Description: A dope theme with 2000+ icons 🔥🔥🔥
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/arete1.png
+Sileodepiction: https://tqm-store.github.io/Sileo/arete.json
+Depiction: https://tqm-store.github.io/packages_info/arete/?p=info
+Filename: ./debs/com.tqm-store.arete_1.4_iphoneos-arm.deb
+Size: 13358724
+MD5sum: f92318665bf579f0ff1a8041f677905b
+SHA1: b81045ce36dc4cf1e4f3e320940a7bb985adf8c3
+SHA256: 2548df8aacd48cec590ae596a8cf00bc62597c3c28da205effa73edec73f78f6
+
+
+Package: com.tqm-store.arrowscc
+Name: Arrows CC
+Version: 1.3.4
+Architecture: iphoneos-arm
+Description: Arrows CC theme with Prysm support
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/arrowscc.png
+Sileodepiction: https://tqm-store.github.io/Sileo/arrowscc.json
+Depiction: https://tqm-store.github.io/packages_info/arrowscc/?p=info
+Filename: ./debs/com.tqm-store.arrowscc_1.3.4_iphoneos-arm.deb
+Size: 263302
+MD5sum: 0eadf1514195199550b663d8a534b95b
+SHA1: 81529cb336c17964762fbfa0a7bb26be80a68f07
+SHA256: 2aa61ce65b780111406ffaaa1befec857cdab8c675ea09db0dbf5019001b10e8
+
+
+Package: com.tqm-store.tiktoknowatermark
+Name: TikTok No Watermark
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Download TikTok videos without watermark.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: pxcex
+Section: Tweaks
+Version: 0.0.4
+Installed-Size: 432
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/tiktoknowatermark.png
+Sileodepiction: https://tqm-store.github.io/Sileo/tiktoknowatermark.json
+Depiction: https://tqm-store.github.io/packages_info/tiktoknowatermark/?p=info
+Filename: ./debs/com.tqm-store.tiktoknowatermark_0.0.4_iphoneos-arm.deb
+Size: 125216
+MD5sum: 8ebe3e33c9e4797a859daf7a52194abd
+SHA1: 6797dabf9cc9df72a98b0e506eb3d1ad0bb05a3d
+SHA256: 0878fce99d0873e2c3fbc43021566afba118fc38bf4577f36e29e0d59f5bcaba
+
+
+Package: com.tqm-store.funkong
+Name: FunKong
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Sileodepiction: https://tqm-store.github.io/Sileo/funkong.json
+Depiction: https://tqm-store.github.io/packages_info/funkong/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/funkong.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.funkong_1.0_iphoneos-arm.deb
+Size: 11315404
+MD5sum: bb447b1ffc72f9310638478a9f694c3e
+SHA1: e511ce2f7fcb1f753d705bb5e68ccdfab6ad911c
+SHA256: 81b32cbc4b9ea466262861219ccbb3d4db3278258509d3a8af804057c39daa49
+
+
+Package: com.tqm-store.retrorika
+Name: Retrorika
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Sileodepiction: https://tqm-store.github.io/Sileo/retrorika.json
+Depiction: https://tqm-store.github.io/packages_info/retrorika/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/retrorika.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.retrorika_1.0_iphoneos-arm.deb
+Size: 24181650
+MD5sum: 9bb8a5727bda074c9a372d421aedb53b
+SHA1: e1237cdeb63f66850f7338c28d9c283be95700a7
+SHA256: cbc43255800b56eecd885ea88264b437a9f2d04d43db3571286a629b2c4c3c51
+
+
+Package: com.tqm-store.arete
+Name: Arete
+Version: 1.3
+Architecture: iphoneos-arm
+Description: A dope theme with 2000+ icons 🔥🔥🔥
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Sileodepiction: https://tqm-store.github.io/Sileo/arete.json
+Depiction: https://tqm-store.github.io/packages_info/arete/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/arete1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.arete_1.3_iphoneos-arm.deb
+Size: 29303374
+MD5sum: df3c6488565533d75f6848ede4430545
+SHA1: 8436b714e7a0228bf2acb867c7c6b372f6d257e3
+SHA256: 5d1e49ba72373f6342b127fecd7963849d03d580307738f580a941f440b07aef
+
+
+Package: com.tqm-store.bwicons
+Name: BWIcons
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - iThemer - Snowboard - Winterboard
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Version: 1.1.4
+Sileodepiction: https://tqm-store.github.io/Sileo/bwicons.json
+Depiction: https://tqm-store.github.io/packages_info/bwicons/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/bwicons1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.bwicons_1.1.4_iphoneos-arm.deb
+Size: 21410938
+MD5sum: 9dbea7dea40685d19d4b8f7bec524df2
+SHA1: a27c9ffa0c0a93daec4efd8bb61c9be87dfad01d
+SHA256: 3bd80a6937735d6802853fc28b2b07d760f51b8adad37c19c8d270b1ce2b70b0
+
+
+Package: com.tqm-store.merlen
+Name: Merlen
+Version: 1.6
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Simple icons with shadow
+Sileodepiction: https://tqm-store.github.io/Sileo/merlen.json
+Depiction: https://tqm-store.github.io/packages_info/merlen/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/merlen1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.merlen_1.6_iphoneos-arm.deb
+Size: 5671182
+MD5sum: 652f05c41fa1d875eea2d69e818b957a
+SHA1: 4316c6bbd4b3c7381db76540131946ee783750f5
+SHA256: 21454ccdd23dbc8b7c9d9db962c232715b13d3d96f3e665ab0a361780c95867e
+
+
+Package: com.tqm-store.newglyph
+Name: NewGlyph
+Version: 2.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Glyph color icons
+Sileodepiction: https://tqm-store.github.io/Sileo/newglyph.json
+Depiction: https://tqm-store.github.io/packages_info/newglyph/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/newglyph1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.newglyph_2.0_iphoneos-arm.deb
+Size: 11270658
+MD5sum: 8ef6bfdc8050c12f5374ff2a8c44c1a6
+SHA1: 12e565cc8f41defd9aed814f4762280a1a2def5a
+SHA256: e911e4757f54a4107d5662ea9f94970feec390a7f09e7d0e9507f28565bb2905
+
+
+Package: com.tqm-store.reddead
+Name: RedDead
+Version: 1.2.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Black icons with red logo
+Sileodepiction: https://tqm-store.github.io/Sileo/reddead.json
+Depiction: https://tqm-store.github.io/packages_info/reddead/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/reddead1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.reddead_1.2.0_iphoneos-arm.deb
+Size: 4626192
+MD5sum: be79125027a37886660d8edc7250b62c
+SHA1: 43ffa0d85239783350b0617d54f83956d4222d55
+SHA256: 1fe08d29b7a17a7289bdaa5fecdbdbd0a90bb0a258de380b1a0139e6f6656647
+
+
+Package: com.tqm-store.sopaxcc
+Name: Sopax CC
+Version: 1.0
+Architecture: iphoneos-arm
+Description: icon controlcenter for Prysm ( Snowboard - iThemer )
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Sileodepiction: https://tqm-store.github.io/Sileo/sopaxcc.json
+Depiction: https://tqm-store.github.io/packages_info/sopaxcc/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/sopaxcc.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.sopaxcc_1.0_iphoneos-arm.deb
+Size: 266376
+MD5sum: 80a09a3c5ae1962423a71077984360e9
+SHA1: 0daff945a78242ba5dfc87fec6c5054a82f31d21
+SHA256: 27fffeeb1a009754e5a2163ea0bd59b88550301697fab1c1af934797da04722d
+
+
+Package: com.tqm-store.calmcc
+Name: Calm CC
+Version: 1.1
+Section: TQM CC
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Unique customization to Your Control Centre.
+Sileodepiction: https://tqm-store.github.io/Sileo/calmcc.json
+Depiction: https://tqm-store.github.io/packages_info/calmcc/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/calmcc3.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.calmcc_1.1_iphoneos-arm.deb
+Size: 488732
+MD5sum: 6bd1824f258eef946d7ed8d6cf5aa552
+SHA1: 1ff30c7cdc2142b6469989b9c6442adb95f117a7
+SHA256: 60620e94aa0fa120b7995da888c3ff2ebd4293641478037fe2784f51d822cfb3
+
+
+Package: com.tqm-store.fruitcc
+Name: Fruit CC
+Version: 1.1
+Section: TQM CC
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Bring Fresh Fruits to Your Control Centre.
+Sileodepiction: https://tqm-store.github.io/Sileo/fruitcc.json
+Depiction: https://tqm-store.github.io/packages_info/fruitcc/?p=info
+Icon: https://tqm-store.github.io/packages_info/screenshots/fruitcc1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.fruitcc_1.1_iphoneos-arm.deb
+Size: 524202
+MD5sum: 799496ecaf7e73fb891a8ca8237b7e08
+SHA1: f61e914277d543b183dc79c217729a48a2882b27
+SHA256: bada155a55ffdb0e8459d9b623b0d9da66f68fe7f2a8d29448182f01a4b9f262
+
+
+Package: com.tqm-store.gushicc
+Name: Gushi CC
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Thay đổi icon (biểu tượng) trung tâm kiểm soát,trung tâm điều khiển.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.2
+Section: TQM CC
+Architecture: iphoneos-arm
+Icon: https://www.yourepo.com/images/sections/users/1662.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/gushicc.json
+Depiction: https://tqm-store.github.io/packages_info/gushicc/?p=info
+Filename: ./debs/com.tqm-store.gushicc_1.2_iphoneos-arm.deb
+Size: 438590
+MD5sum: 18f45425e2e1627184a591c93e8675d7
+SHA1: 02e81c26f71b7a02a9e4e6eec8c55c74a2e673f4
+SHA256: c4496c3aa5ebec82ab444244689a382414716bedcd0307e15b28378acb3e7a3b
+
+
+Package: com.tqm-store.devycc
+Name: Devy CC
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Thay đổi icon (biểu tượng) trung tâm kiểm soát,trung tâm điều khiển.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.1
+Section: TQM CC
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5e60f1e510df79001a18f312/icon/download?size=medium
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/devycc.json
+Depiction: https://tqm-store.github.io/packages_info/devycc/?p=info
+Filename: ./debs/com.tqm-store.devycc_1.1_iphoneos-arm.deb
+Size: 484822
+MD5sum: 715194319e9f762aa58daca042b90c3a
+SHA1: 39de92cb7bd4ed2ad7d8a1456af8b9b325a00288
+SHA256: ea6ccabd0bfdff58f55b8a0b42198d54c87cfb6df248a9b56fd5644b7d3e9599
+
+
+Package: com.tqm-store.devycc
+Name: Devy CC
+Version: 1.3
+Section: TQM CC
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Reimagine CC with most beautiful style.
+Icon: https://repo.packix.com/api/Packages/5e60f1e510df79001a18f312/icon/download?size=medium
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/devycc.json
+Depiction: https://tqm-store.github.io/packages_info/devycc/?p=info
+Filename: ./debs/com.tqm-store.devycc_1.3_iphoneos-arm.deb
+Size: 508808
+MD5sum: 475fac7b398b95a35026eb6bad34c27a
+SHA1: cf9520eb6f7664dc896d84b1aa90305b17641fc6
+SHA256: fed89c1de4b2df09a315203620fd3d5919b5e76c30ba595a6bec293e02325ead
+
+
+Package: com.tqm-store.spacecc
+Name: Space CC
+Version: 1.0
+Section: TQM CC
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Most Fav Space Elements for Your Prysm Control Centre.
+Icon: https://tqm-store.github.io/packages_info/screenshots/spacecc.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/spacecc.json
+Depiction: https://tqm-store.github.io/packages_info/spacecc/?p=info
+Filename: ./debs/com.tqm-store.spacecc_1.0_iphoneos-arm.deb
+Size: 507690
+MD5sum: c397704b3cb22f2a4a5f387adeaf5145
+SHA1: fe87bab3c76e6b5dd4c73132ea7320687bb79810
+SHA256: 1c1140a3a9ea338ceb7f32a788bb12892fc0402bc74e31f8b64faa666d0c24d4
+
+
+Package: com.tqm-store.inkcc
+Name: Ink CC
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Thay đổi icon (biểu tượng) trung tâm kiểm soát,trung tâm điều khiển.
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/inkcc.png
+Sileodepiction: https://tqm-store.github.io/Sileo/inkcc.json
+Depiction: https://tqm-store.github.io/packages_info/inkcc/?p=info
+Filename: ./debs/com.tqm-store.inkcc_1.1_iphoneos-arm.deb
+Size: 230922
+MD5sum: 31ee67ab870964ccef78d59a4571ef2a
+SHA1: dbc4a5ff6950820249691805e22288b9591e7597
+SHA256: e84308398ad23b1bd16c0c2ae447f75d9669a072b48d4b8cae8c2d037350bbaf
+
+
+Package: com.tqm-store.midnight
+Name: Midnight
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes of anemone - snowboard ....
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/midnight.png
+Sileodepiction: https://tqm-store.github.io/Sileo/midnight.json
+Depiction: https://tqm-store.github.io/packages_info/midnight/?p=info
+Filename: ./debs/com.tqm-store.midnight_1.0_iphoneos-arm.deb
+Size: 8233978
+MD5sum: 3ecde42c6d2af4163b77f09d70888365
+SHA1: 949b058a5af2670f8f6f18ed7337f0382b076d18
+SHA256: f521ef0ff16bec70248f54cf8f069adfd517eddbed6b175cdf3bfc75a111d47a
+
+
+Package: com.tqm-store.aiircc
+Name: Aiir CC
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Thay đổi icon (biểu tượng) trung tâm kiểm soát,trung tâm điều khiển.
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/aiircc.png
+Sileodepiction: https://tqm-store.github.io/Sileo/aiircc.json
+Depiction: https://tqm-store.github.io/packages_info/aiircc/?p=info
+Filename: ./debs/com.tqm-store.aiircc_1.1_iphoneos-arm.deb
+Size: 2174340
+MD5sum: 80178209f6270ca06b319cb83499063b
+SHA1: 7c24d2c665fc148da9c94c6e2da30716df186e95
+SHA256: 704212d84a175aa86b4c5eb14414394fec811ea6f09059aa4ab4f6c18b131a48
+
+
+Package: com.tqm-store.elate
+Name: Elate
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/elate.png
+Sileodepiction: https://tqm-store.github.io/Sileo/elate.json
+Depiction: https://tqm-store.github.io/packages_info/elate/?p=info
+Filename: ./debs/com.tqm-store.elate_1.0_iphoneos-arm.deb
+Size: 1336988
+MD5sum: d1bc1e781a3099cd629c3b35e2e921e8
+SHA1: e7ef9970ba98ba3d8acfeda6f94f8cdd34d9988f
+SHA256: 69f50c11e19018503961ba5b4bd04a61746059738e4ce7d1b39dddfc3a263588
+
+
+Package: com.tqm-store.cocaine
+Name: Cocaine
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/cocaine.png
+Sileodepiction: https://tqm-store.github.io/Sileo/cocaine.json
+Depiction: https://tqm-store.github.io/packages_info/cocaine/?p=info
+Filename: ./debs/com.tqm-store.cocaine_1.0_iphoneos-arm.deb
+Size: 57309882
+MD5sum: 514744dd9506e2c2d78698bad4522d58
+SHA1: abac3783cc4b8de5860a7d640918303dd75e87ea
+SHA256: 096fd20946289cda48879bcc2f2e994b462d27e9f5907fc945764536274db494
+
+
+Package: com.tqm-store.dai
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Dai
+Description: enjoy Free theme for your iPhone
+Section: TQM Themes
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/dai.png
+Sileodepiction: https://tqm-store.github.io/Sileo/dai.json
+Depiction: https://tqm-store.github.io/packages_info/dai/?p=info
+Filename: ./debs/com.tqm-store.dai_1.0_iphoneos-arm.deb
+Size: 50246230
+MD5sum: 38196932a5301f97d589ae135b0db0c7
+SHA1: be613639fbea86d786e494711c4e75f091cb9b72
+SHA256: 7846835388a64672e1d45392b50481ae7eef029a843e96b6f7ff06d455b0007e
+
+
+Package: com.tqm-store.krimy
+Name: Krimy
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Themes - Anemone - Anemone 3 - Snowboard - iThemer
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0.2
+Section: TQM Themes
+Architecture: iphoneos-arm
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/krimy1.png
+Sileodepiction: https://tqm-store.github.io/Sileo/krimy.json
+Depiction: https://tqm-store.github.io/packages_info/krimy/?p=info
+Filename: ./debs/com.tqm-store.krimy_1.0.2_iphoneos-arm.deb
+Size: 23506042
+MD5sum: 0ffb435b60843ce1f659fcebdd8235c2
+SHA1: 57acdf83a4f260909fa40b38645817bb026d07e2
+SHA256: 06cd273fa196a394bc29f854b53c50fd92b32124e46bfd1f7d18cc86e0b5c8cd
+
+
+Package: com.tqm-store.liacaglyphs
+Name: Liaca Glyphs
+Version: 1.7
+Description: Тема Liaca Glyphs
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 9166
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/liacaglyphs1.png
+Sileodepiction: https://tqm-store.github.io/Sileo/liacaglyphs.json
+Depiction: https://tqm-store.github.io/packages_info/liacaglyphs/?p=info
+Filename: ./debs/com.tqm-store.liacaglyphs_1.7_iphoneos-arm.deb
+Size: 6367834
+MD5sum: a97dd717e05d44205047985fea9d3bd6
+SHA1: 82b78a1d1c574e2724f85ef643916e98edf3bbe0
+SHA256: 97afb030f077bbb4290609b7140f84ba4ac9693711a9795ccf98dcb2190a7125
+
+
+Package: com.tqm-store.malibu
+Name: Malibu
+Author: @tqmmos <anhminhclub@gmail.com>
+Description: Malibu Sunsets Theme.
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Version: 1.4
+Section: TQM Themes
+Architecture: iphoneos-arm
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://tqm-store.github.io/packages_info/screenshots/malibu1.png
+Sileodepiction: https://tqm-store.github.io/Sileo/malibu.json
+Depiction: https://tqm-store.github.io/packages_info/malibu/?p=info
+Filename: ./debs/com.tqm-store.malibu_1.4_iphoneos-arm.deb
+Size: 27063372
+MD5sum: fa341143d00c9c0f1a3ea9244ac16f95
+SHA1: 2b845a0daaa5aa1e6cb3df559022ebdf43bb0189
+SHA256: 2b5308da93d0f35a94f424d4b55dc4492c578b47aca4c0862197a2d6c790bd2d
+
+
+Package: com.tqm-store.utopia
+Name: Utopia
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Utopia
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer:  @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Icon: https://tqm-store.github.io/packages_info/screenshots/utopia1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/utopia.json
+Depiction: https://tqm-store.github.io/packages_info/utopia/?p=info
+Filename: ./debs/com.tqm-store.utopia_1.1_iphoneos-arm.deb
+Size: 39644226
+MD5sum: 43c5fa2097ac99cc37b0361ec3fff6ab
+SHA1: 5b10bd9ac571cb53eea2dab73ae53a4196f06dbd
+SHA256: 05bbbcc5991ec88cd5b995c9447db79408252bd414ab53bea41f6be107aaa331
+
+
+Package: com.tqm-store.violaglyphs
+Name: Viola Glyphs
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: The glyph version of Viola! (3 modes)
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0.2
+Section: TQM Themes
+Architecture: iphoneos-arm
+Icon: https://tqm-store.github.io/packages_info/screenshots/violaglyphs.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/violaglyphs.json
+Depiction: https://tqm-store.github.io/packages_info/violaglyphs/?p=info
+Filename: ./debs/com.tqm-store.violaglyphs_1.0.2_iphoneos-arm.deb
+Size: 12743576
+MD5sum: 76f710bfb5ed573d250f8ac9821a1373
+SHA1: f00c79ca8982abe6e0e72baa39c96baf1f512800
+SHA256: c7c640ef10f7bab77553b21bdd17a0a5f33c6f02746acc0a1533529e79fa2a20
+
+
+Package: com.tqm-store.sileou0
+Version: 1.0
+Section: Addons
+Maintainer: @tqmmos
+Depends: org.swift.libswift (>=5.0), zsh, curl, cydia (=1.1.32~b19)
+Architecture: iphoneos-arm
+Name: Sileo cho unc0ver
+Author: @tqmmos
+Description: Trình cài đặt Sileo cho unc0ver jailbreak
+Icon: https://tqm-store.github.io/packages_info/screenshots/sileo.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/sileou0.json
+Depiction: https://tqm-store.github.io/packages_info/sileou0/?p=info
+Filename: ./debs/com.tqm-store.sileou0_1.0_iphoneos-arm.deb
+Size: 7904
+MD5sum: d81abf9b93663ab1d87ee98137b42752
+SHA1: d5a2e2aceaf094695ae5c0140659602d424ee018
+SHA256: 372ee1b6614defac77409bdfc278e7a94bfcb5096f43cb2a41d8ec5bdcd1dd6f
+
+
+Package: com.tqm-store.unablecc
+Name: Unable CC
+Version: 1.11
+Architecture: iphoneos-arm
+Description: A simple style CC theme.
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://tqm-store.github.io/packages_info/screenshots/unablecc1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/unablecc.json
+Depiction: https://tqm-store.github.io/packages_info/unablecc/?p=info
+Filename: ./debs/com.tqm-store.unablecc_1.11_iphoneos-arm.deb
+Size: 523508
+MD5sum: 5c038221edf74a5ecd2f27092083a170
+SHA1: 012cefee9b063548098805771f4c70f6a0ef46b6
+SHA256: 8d6f48bbf9b8052a8ac657e2ac13654442559aceeb8fbf7277a236c324026cec
+
+
+Package: com.tqm-store.stikaz
+Name: Stikaz
+Version: 1.0
+Architecture: iphoneos-arm
+Description: stikaz them
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://tqm-store.github.io/packages_info/screenshots/stikaz1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/stikaz.json
+Depiction: https://tqm-store.github.io/packages_info/stikaz/?p=info
+Filename: ./debs/com.tqm-store.stikaz_1.0_iphoneos-arm.deb
+Size: 9896958
+MD5sum: a75df5c23917c7d72e3d271685214b39
+SHA1: 574b888a361c4cb2bd2807b7788be131ffa423b9
+SHA256: 9661cf3ed8b6017632de43e74f5caf9a886aee9615156161fdef8df2c2637cc8
+
+
+Package: com.tqm-store.linealcc
+Version: 1.0
+Section: TQM CC
+Architecture: iphoneos-arm
+Name: Lineal CC
+Description: Lineal CC Theme.
+Maintainer: TQM <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Icon: https://tqm-store.github.io/packages_info/screenshots/linealcc1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/linealcc.json
+Depiction: https://tqm-store.github.io/packages_info/linealcc/?p=info
+Filename: ./debs/com.tqm-store.linealcc_1.0_iphoneos-arm.deb
+Size: 1772788
+MD5sum: ba5100f9446fe9f9df304d649c43838a
+SHA1: 9800ad20f814b058e834edca443d7dc800c70790
+SHA256: e2c39af4f8c181fcc8cb502f2c81d13e150bb59573063383424c16f460dd3471
+
+
+Package: com.tqm-store.prysm
+Name: Prysm
+Version: 1.4
+Description: Thiết kế lại điểm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 1823
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://tqm-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://tqm-store.github.io/Sileo/prysm.json
+Depiction: https://tqm-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.tqm-store.prysm_1.4_iphoneos-arm.deb
+Size: 385698
+MD5sum: 6799a9a740e4d9e4a3fec011f0adce86
+SHA1: 420240ab2fe36edf241e4d713bc34e9cd8986436
+SHA256: 4257324405fbced0aa015dc787c95078d5115f22be1dad9122435944d17c8735
+
+

@@ -1,0 +1,189 @@
+
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://tqm-store.github.io/icons/logosileo.png",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Thông tin",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:25pt;\">Một trung tâm điều khiển giàu tính năng cho iOS.</p>\n<p style=\"font-size:20pt;\">* Giới thiệu sơ lược về Prysm. </p>\n<p style=\"font-size:10pt;\">* Prysm bao gồm một số mô-đun có thể được gỡ bỏ và sắp xếp lại từ trang cài đặt. </p>\n<p style=\"font-size:10pt;\">* Các mô-đun có sẵn bao gồm: </p>\n<p style=\"font-size:15pt;\">• Kết nối bật tắt. </p>\n<p style=\"font-size:15pt;\">• Độ sáng và thanh trượt âm thanh. </p>\n<p style=\"font-size:15pt;\">• Truy cập nhanh các toggles. </p>\n<p style=\"font-size:15pt;\">• Tiện ích phương tiện truyền thông. </p>\n<p style=\"font-size:15pt;\">• Điều kiện thời tiết. </p>\n<p style=\"font-size:10pt;\">* Mô-đun chuyển đổi truy cập nhanh đáp ứng cấu hình trung tâm điều khiển hiện có của bạn. Nó hỗ trợ tất cả các mô-đun chuyển đổi nhỏ. Bất kỳ mô-đun nào không được đặt trong mô-đun truy cập nhanh có thể được tìm thấy bằng cách vuốt lên trên trung tâm điều khiển Prysm. </p>\n<p style=\"font-size:20pt;\">* Cảm ứng xúc giác: </p>\n<p style=\"font-size:10pt;\">• Hầu hết các mô-đun Prysm đều hỗ trợ Haptic Touch. Chỉ cần nhấn và giữ một yếu tố để tiết lộ nội dung mở rộng. </p>\n<p style=\"font-size:10pt;\">• Haptic Touch cũng được hỗ trợ trên hầu hết các mô-đun chuyển đổi được kích hoạt thông qua cấu hình trung tâm điều khiển iOS. </p>\n<p style=\"font-size:20pt;\">* Cử chỉ: </p>\n<p style=\"font-size:10pt;\">• Prysm cung cấp một phương tiện mới để truy cập trung tâm điều khiển.  Chỉ cần vuốt lên từ các góc dưới cùng của thiết bị hoặc kích hoạt cử chỉ chứng khoán để truy cập Prysm như trung tâm điều khiển thông thường. </p>\n<p style=\"font-size:20pt;\">* Các widget trạng thái: </p>\n<p style=\"font-size:10pt;\">• Dễ dàng xem các thông tin quan trọng nhất bằng cách sử dụng các widget trạng thái.  Một cụm chỉ báo (iOS 13+) và tiện ích pin được đặt phía trên thẻ Prysm và cập nhật ngay lập tức. </p>\n<p style=\"font-size:20pt;\">* Hỗ trợ tinh chỉnh: </p>\n<p style=\"font-size:10pt;\">• Prysm hỗ trợ hầu hết các tinh chỉnh trung tâm điều khiển ngay lập tức.  Tất cả các mô-đun chuyển đổi bổ sung có thể được hiển thị trong mô-đun truy cập nhanh hoặc ẩn trong cụm chuyển đổi bên dưới trung tâm điều khiển. Magma Evo yêu thích cộng đồng tích hợp liền mạch với Prysm để mang đến tiềm năng tùy biến gần như vô hạn.  </p>\n<p style=\"font-size:10pt;\">• Prysm hỗ trợ tất cả các thiết bị bẻ khóa chạy iOS 11 trở lên. </p>\n<p style=\"font-size:20pt;\">* Các chỉnh sửa mới. </p>\n<p style=\"font-size:15pt;\">• Đã thêm chế độ thanh công cụ mới (BETA). </p>\n<p style=\"font-size:15pt;\">• Đã sửa lỗi vô hiệu hóa trên màn hình khóa. </p>\n<p style=\"font-size:15pt;\">• Đã sửa lỗi chuyển đổi không xuất hiện. </p>\n<p style=\"font-size:15pt;\">• Đã sửa lỗi các mô-đun mở rộng trống. </p>\n<p style=\"font-size:15pt;\">• Cải thiện khả năng đáp ứng phụ tùng pin. </p>\n<p style=\"font-size:15pt;\">• Loại bỏ chỉ báo điện thoại dư thừa.</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hình ảnh",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, 586}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-store.github.io/packages_info/screenshots/prysm1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-store.github.io/packages_info/screenshots/prysm2.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Mở rộng",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Tqm-Mos (@tqmmos)",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.4",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS11.0 - 13.4",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Việt Nam",
+          "title": "Ngôn ngữ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "376 KB",
+          "title": "Dung lượng"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://www.facebook.com/quangminhdx",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Facebook (@minhhí)",
+          "openExternal": true
+        },
+        {
+          "action": "https://twitter.com/tqmmos",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Twitter (@tqmmos)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Trợ giúp & Hỗ Trợ"
+        },
+        {
+          "action": "https://paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://tqm-store.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.4",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm chế độ thanh công cụ mới (BETA).</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã sửa lỗi vô hiệu hóa trên màn hình khóa.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã sửa lỗi chuyển đổi không xuất hiện.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã sửa lỗi các mô-đun mở rộng trống.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Cải thiện khả năng đáp ứng phụ tùng pin.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Loại bỏ chỉ báo điện thoại dư thừa.</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

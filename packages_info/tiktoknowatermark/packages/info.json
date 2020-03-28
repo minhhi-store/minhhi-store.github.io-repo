@@ -1,0 +1,20 @@
+{
+  "name": "Tiktoknowatermark",
+  "package": "com.tqm-store.tiktoknowatermark",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "0.0.4",
+  "dependency": "N/A",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Gói Tinh chỉnh (Tweaks)<br><br>* Có thể cho phép bạn tải video trên TikTok mà không còn logo.<br><br>* Hãy giữ vào màn hình sau đó sẽ xuất hiện nút tải video<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "0.0.4": [
+      "Cải tiến & Sửa lỗi"
+    ]
+  },
+  "screenshots": {
+    "tiktoknowatermark.png": ""
+  },
+  "links": {}
+}

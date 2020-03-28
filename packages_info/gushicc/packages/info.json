@@ -1,0 +1,20 @@
+{
+  "name": "Gushi CC",
+  "package": "com.tqm-store.gushicc",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.2",
+  "dependency": "N/A",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes).<br><br>* Hiển thị thay đổi icon trung tâm kiểm soát.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "1.2": [
+      "Cải tiến & Sửa lỗi"
+    ]
+  },
+  "screenshots": {
+    "gushicc.png": ""
+  },
+  "links": {}
+}
