@@ -1,7 +1,7 @@
 
 {
   "class": "DepictionTabView",
-  "headerImage": "https://tqm-store.github.io/icons/logosileo.png",
+  "headerImage": "https://minhhi-store.github.io/icons/logosileo.png",
   "minVersion": "0.3",
   "itemSize": "{330, 110}",
   "tabs": [
@@ -37,19 +37,19 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/carnival21.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/carnival21.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/carnival22.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/carnival22.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/carnival23.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/carnival23.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/carnival24.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/carnival24.png"
             }
           ]
         },

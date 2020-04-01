@@ -1,7 +1,7 @@
 
 {
   "class": "DepictionTabView",
-  "headerImage": "https://tqm-store.github.io/icons/logosileo.png",
+  "headerImage": "https://minhhi-store.github.io/icons/logosileo.png",
   "minVersion": "0.3",
   "itemSize": "{330, 110}",
   "tabs": [
@@ -37,15 +37,15 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/kobu1.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/kobu1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/kobu2.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/kobu2.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/kobu3.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/kobu3.png"
             }
           ]
         },

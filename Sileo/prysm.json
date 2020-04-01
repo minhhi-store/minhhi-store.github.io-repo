@@ -1,7 +1,7 @@
 
 {
   "class": "DepictionTabView",
-  "headerImage": "https://tqm-store.github.io/icons/logosileo.png",
+  "headerImage": "https://minhhi-store.github.io/icons/logosileo.png",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -36,11 +36,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/prysm1.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/prysm1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/prysm2.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/prysm2.png"
             }
           ]
         },
@@ -72,7 +72,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.4",
+          "text": "1.5",
           "title": "Phiên bản"
         },
         {
@@ -87,7 +87,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "376 KB",
+          "text": "427 KB",
           "title": "Dung lượng"
         },
         {
@@ -146,6 +146,42 @@
       "tabname": "Lịch sử",
       "tintColor": "#1182c4",
       "views": [
+       {
+          "class": "DepictionSubheaderView",
+          "title": "1.5",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm tất cả Mô-đun Power mới.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Thêm tùy chọn để trao đổi âm lượng và độ sáng.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Thêm tùy chọn cho bán kính góc liên tục.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm tùy chọn để vô hiệu hóa hành vi RealCC.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm hỗ trợ cho BioProtect cho chuyển đổi Chế độ năng lượng thấp.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã sửa lỗi bỏ qua với hiện tại từ đầu kích hoạt.</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.4",

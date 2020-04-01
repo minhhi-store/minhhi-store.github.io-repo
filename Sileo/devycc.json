@@ -1,7 +1,7 @@
 
 {
   "class": "DepictionTabView",
-  "headerImage": "https://tqm-store.github.io/icons/logosileo.png",
+  "headerImage": "https://minhhi-store.github.io/icons/logosileo.png",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -36,11 +36,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/devycc1.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/devycc1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/devycc2.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/devycc2.png"
             }
           ]
         },
