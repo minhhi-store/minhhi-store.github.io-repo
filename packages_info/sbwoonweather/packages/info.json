@@ -1,0 +1,22 @@
+{
+  "name": "SB Woon Weather",
+  "package": "com.tqm-store.sbwoonweather",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Gói Tiện ích (Widgets).<br><br>* Hiển thị thay đổi cho màn hình khóa.<br><br>* Hoạt động qua (Xen HTML và Xeninfo).<br><br>* Trang trí cho thiết bị của bạn thêm phần xinh động.<br><br>* Xem video bên dưới để biết rõ. ( Mod by Tqm) .<br><br>* Có 3 màu để lựa chọn ( Trắng - Đen - Blur ).<br><br>* LS chỉ phù hợp với các loại màn hình ( ipX - ipXMAX - ipProMax).</div>",
+  "changelog": {
+    "1.0": [
+      "Phiên bản đầu tiên"
+    ]
+  },
+  "screenshots": {
+    "sbwoonweather1.mp4": "",
+    "sbwoonweather2.mp4": "",
+    "sbwoonweather3.mp4": ""
+  },
+  "links": {}
+}

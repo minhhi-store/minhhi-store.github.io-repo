@@ -56,6 +56,44 @@ SHA1: dae54692f02e432c030f18604bdd0d432ab91349
 SHA256: fc6777eec3548e81a40f3a527c9bb4d6a7ef0ea7008aeca31b11b3911be2f087
 
 
+Package: com.minhhi-store.sbwoonweather
+Name: SB Woon Weather
+Version: 1.0
+Section: Widgets
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: SB cho màn hình chính , mod by TQM -Mos
+Sileodepiction: https://minhhi-store.github.io/Sileo/sbwoonweather.json
+Depiction: https://minhhi-store.github.io/packages_info/sbwoonweather/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/sbwoonweather.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.sbwoonweather_1.0_iphoneos-arm.deb
+Size: 1091608
+MD5sum: 055cc0d02b47b31ccdf2906f604b4a7c
+SHA1: 234b8f61fd888f168ea3f2bdaa00401ec4e18fed
+SHA256: 234b8f61fd888f168ea3f2bdaa00401ec4e18fed
+
+
+Package: com.minhhi.blacksoul
+Name: BlackSoul
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Beautiful black theme
+Sileodepiction: https://minhhi-store.github.io/Sileo/blacksoul.json
+Depiction: https://minhhi-store.github.io/packages_info/blacksoul/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/blacksoul1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi.blacksoul_1.0_iphoneos-arm.deb
+Size: 9239854
+MD5sum: 06cdba20ca9c07e1d7cce4d10b47d288
+SHA1: 88c8c400fffe841c8e95e06337c00eb663ce898b
+SHA256: ba23d151c175e87752e9331a882821c3ceac93b2df5acbeb8ed7b3a9b136b3e1
+
+
 Package: com.tqm-store.carnival2
 Name: Carnival2
 Author: @tqmmos <anhminh311105@gmail.com>

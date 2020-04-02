@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Gói Tiện ích (Widgets).</p>\n<p style=\"font-size:10pt;\"> * Hiển thị thay đổi cho màn hình chính và khóa.</p>\n<p style=\"font-size:10pt;\"> * Hoạt động qua (Xen HTML và Xeninfo).</p>\n<p style=\"font-size:10pt;\"> * Trang trí cho thiết bị của bạn thêm phần xinh động.</p>\n<p style=\"font-size:10pt;\"> * Xem ảnh bên dưới để biết rõ. ( Mod by Tqm) .</p>\n<p style=\"font-size:10pt;\"> * Có 3 màu để lựa chọn ( Trắng - Đen - Blur ).</p>\n<p style=\"font-size:10pt;\"> * LS chỉ phù hợp với các loại màn hình ( ipX - ipXMAX - ipProMax).</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Gói Tiện ích (Widgets).</p>\n<p style=\"font-size:10pt;\"> * Hiển thị thay đổi cho màn hình khóa.</p>\n<p style=\"font-size:10pt;\"> * Hoạt động qua (Xen HTML và Xeninfo).</p>\n<p style=\"font-size:10pt;\"> * Trang trí cho thiết bị của bạn thêm phần xinh động.</p>\n<p style=\"font-size:10pt;\"> * Xem video bên dưới để biết rõ. ( Mod by Tqm) .</p>\n<p style=\"font-size:10pt;\"> * Có 3 màu để lựa chọn ( Trắng - Đen - Blur ).</p>\n<p style=\"font-size:10pt;\"> * LS chỉ phù hợp với các loại màn hình ( ipX - ipXMAX - ipProMax).</p>",
           "useRawFormat": true
         },
         {
