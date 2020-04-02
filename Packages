@@ -37,6 +37,25 @@ SHA1: c6a8e988b2b43816bca843f7e44f9f266398ff20
 SHA256: 1bd0575b43d67d3166a9fcb5db7ce326501db086d92dd5246f43facd94f1f143
 
 
+Package: com.minhhi-store.woonweather
+Name: LS Woon Weather
+Version: 1.0
+Architecture: iphoneos-arm
+Description: LS for XenHTML, mod by TQM
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Widgets
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/woonweather.json
+Depiction: https://minhhi-store.github.io/packages_info/woonweather/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/woonweather.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.woonweather_1.0_iphoneos-arm.deb
+Size: 1083890
+MD5sum: f7727d8bd5e6fce2ec5e6accb7444bb5
+SHA1: dae54692f02e432c030f18604bdd0d432ab91349
+SHA256: fc6777eec3548e81a40f3a527c9bb4d6a7ef0ea7008aeca31b11b3911be2f087
+
+
 Package: com.tqm-store.carnival2
 Name: Carnival2
 Author: @tqmmos <anhminh311105@gmail.com>
