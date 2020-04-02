@@ -2,13 +2,17 @@
   "name": "Prysm",
   "package": "com.tqm-store.prysm",
   "author": "Tqm-Mos (@tqmmos)",
-  "version": "1.4",
+  "version": "1.5.2",
   "dependency": "N/A",
   "minOSVersion": "11.0",
   "maxOSVersion": "13.4",
   "otheriOS": "untested",
   "description": "<div>Một trung tâm điều khiển giàu tính năng cho iOS.<br><br>* Giới thiệu sơ lược về Prysm. <br><br>• Prysm bao gồm một số mô-đun có thể được gỡ bỏ và sắp xếp lại từ trang cài đặt.<br><br>* Các mô-đun có sẵn bao gồm:<br><br>• Kết nối bật tắt.<br><br>• Độ sáng và thanh trượt âm thanh.<br><br>• Truy cập nhanh các toggles.<br><br>• Tiện ích phương tiện truyền thông.<br><br>• Điều kiện thời tiết.<br><br>* Mô-đun chuyển đổi truy cập nhanh đáp ứng cấu hình trung tâm điều khiển hiện có của bạn. Nó hỗ trợ tất cả các mô-đun chuyển đổi nhỏ. Bất kỳ mô-đun nào không được đặt trong mô-đun truy cập nhanh có thể được tìm thấy bằng cách vuốt lên trên trung tâm điều khiển Prysm.<br><br>* Cảm ứng xúc giác:<br><br>• Hầu hết các mô-đun Prysm đều hỗ trợ Haptic Touch. Chỉ cần nhấn và giữ một yếu tố để tiết lộ nội dung mở rộng.<br><br>• Haptic Touch cũng được hỗ trợ trên hầu hết các mô-đun chuyển đổi được kích hoạt thông qua cấu hình trung tâm điều khiển iOS.<br><br>* Cử chỉ:<br><br>• Prysm cung cấp một phương tiện mới để truy cập trung tâm điều khiển.  Chỉ cần vuốt lên từ các góc dưới cùng của thiết bị hoặc kích hoạt cử chỉ chứng khoán để truy cập Prysm như trung tâm điều khiển thông thường.<br><br>* Các widget trạng thái:<br><br>• Dễ dàng xem các thông tin quan trọng nhất bằng cách sử dụng các widget trạng thái.  Một cụm chỉ báo (iOS 13+) và tiện ích pin được đặt phía trên thẻ Prysm và cập nhật ngay lập tức.<br><br>* Hỗ trợ tinh chỉnh:<br><br>• Prysm hỗ trợ hầu hết các tinh chỉnh trung tâm điều khiển ngay lập tức.  Tất cả các mô-đun chuyển đổi bổ sung có thể được hiển thị trong mô-đun truy cập nhanh hoặc ẩn trong cụm chuyển đổi bên dưới trung tâm điều khiển. Magma Evo yêu thích cộng đồng tích hợp liền mạch với Prysm để mang đến tiềm năng tùy biến gần như vô hạn.  Kiểm tra Magma Evo ở đây.<br><br>• Prysm hỗ trợ tất cả các thiết bị bẻ khóa chạy iOS 11 trở lên.</div>",
   "changelog": {
+    "1.5.2": [
+      "Đã thêm hỗ trợ chỉ báo cho iOS 11 và 12.",
+      "Đã thêm hỗ trợ mở rộng cho iOS 11 và 12."
+    ],
     "1.5": [
       "Đã thêm tất cả Mô-đun Power mới.",
       "Thêm tùy chọn để trao đổi âm lượng và độ sáng.",

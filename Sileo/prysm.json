@@ -72,7 +72,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.5",
+          "text": "1.5.2K",
           "title": "Phiên bản"
         },
         {
@@ -87,7 +87,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "427 KB",
+          "text": "433 KB",
           "title": "Dung lượng"
         },
         {
@@ -128,7 +128,7 @@
           "spacing": 40
         },
         {
-          "URL": "https://tqm-store.github.io/CydiaIcon.png",
+          "URL": "https://minhhi-store.github.io/CydiaIcon.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
@@ -146,6 +146,22 @@
       "tabname": "Lịch sử",
       "tintColor": "#1182c4",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.5.2k",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm hỗ trợ chỉ báo cho iOS 11 và 12.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm hỗ trợ mở rộng cho iOS 11 và 12.</li>\n</ul>",
+          "useRawFormat": true
+        },
        {
           "class": "DepictionSubheaderView",
           "title": "1.5",

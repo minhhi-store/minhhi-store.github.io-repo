@@ -1,0 +1,29 @@
+{
+  "name": "Magma Evo",
+  "package": "com.tqm-store.magmaevo",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1..2.3",
+  "dependency": "N/A",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Xác định lại Trung tâm điều khiển của bạn.<br><br><br><br>• Magma Evo là một tinh chỉnh tùy chỉnh được đóng gói tính năng cho Trung tâm điều khiển của bạn.Từ việc thay đổi màu sắc của mọi mô-đun qua việc sắp xếp lại các kết nối của bạn cho đến việc loại bỏ nền chứa tối xung quanh các mô-đun - hầu như mọi thứ đều có thể!Đây là sự kế thừa chính thức của Magma Pro, với nhiều tính năng hơn, sửa lỗi và tăng tính thân thiện với người dùng.Nó hỗ trợ tất cả các mô-đun chứng khoán trên iOS 12 và 13, cùng với tất cả các mô-đun từ cả CCModules và PowerModule.<br><br><br><br>• Connectivity toggles •<br><br><br><br>• Sắp xếp lại thứ tự (không hoạt động cho Prysm).<br><br>• Thay đổi màu được bật / tắt.<br><br>• Chế độ chỉ dành cho Glyph để xóa lớp phủ tròn xung quanh bật / tắt.<br><br><br><br>• Launchers & Toggles •<br><br><br><br>• Thay đổi màu được bật / tắt cho mỗi mô-đun.<br><br>• Chọn giữa ba cách để hiển thị bật / tắt: stock, loại bỏ nền trắng hoặc nền màu.<br><br>• Media Controls •<br><br>• Tiêu đề màu, nghệ sĩ, nút điều khiển và thanh tiến trình.<br><br>• Tùy chọn để tô màu các widget trên màn hình khóa là tốt.<br><br><br><br>• Sliders •<br><br><br><br>• Tô màu cả nền và biểu tượng riêng.<br><br><br><br>• Miscellaneous •<br><br><br><br>• Tô màu nền của Trung tâm điều khiển Căn chỉnh Trung tâm điều khiển xuống dưới thay vì trên cùng.<br><br>• Ẩn thanh trạng thái.<br><br>• Tô màu thanh trạng thái.<br><br><br><br>• Overall •<br><br><br><br>• Tô màu hoặc ẩn nền chứa tối xung quanh mỗi mô-đun.<br><br>• Magma Evo cũng có một tính năng cài sẵn mở rộng cho phép bạn dễ dàng lưu thiết lập hiện tại của mình, thử các cài đặt khác nhau và thay đổi lại sau.  Bạn cũng có thể dễ dàng nhập cài đặt từ những người dùng khác và chuyển đổi giữa họ hoặc xuất một trong các cài đặt trước của bạn để chia sẻ nó với mọi người.<br><br>• Tương thích với BetterCCXI và Prysm.  Không tương thích với BetterCCIcons, Togglow hoặc Gesto.</div>",
+  "changelog": {
+  "1.2.3": [
+      "Đã thêm chế độ thanh công cụ mới (BETA).",
+      "Thêm hỗ trợ để tô màu các thùng chứa Prysm Artwork Preview và AirPlay.",
+      "Cho phép tô màu riêng cho nhãn phần trăm thanh trượt Prysm.",
+      "Khắc phục nút phát Prysm Media Controls có màu sai khi không có phương tiện đang phát.",
+      "Khắc phục nhãn NextUp trên màn hình khóa bị tô màu khi tắt màu màn hình khóa.",
+      "Cải thiện độ tin cậy của màu Điều khiển phương tiện (cũng khắc phục sự cố với trình phát phương tiện BetterCCXI 3x2 / 4x2)a.",
+      "Cho phép tất cả các màu Điều khiển phương tiện có độ trong suốt.",
+      "Khắc phục lớp phủ chuyển đổi màu bị ẩn khi sử dụng tùy chọn Giảm chuyển động / Giảm độ trong suốt."
+    ]
+  },
+  "screenshots": {
+    "magmaevo1.png": "",
+    "magmaevo2.png": "",
+    "magmaevo3.png": ""
+  },
+  "links": {}
+}
