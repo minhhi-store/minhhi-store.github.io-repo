@@ -94,6 +94,63 @@ SHA1: 88c8c400fffe841c8e95e06337c00eb663ce898b
 SHA256: ba23d151c175e87752e9331a882821c3ceac93b2df5acbeb8ed7b3a9b136b3e1
 
 
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.5.2k
+Description: Thiết kế lại trung tâm kiểm soát !
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 1973
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.5.2k_iphoneos-arm.deb
+Size: 443928
+MD5sum: 47bcd5b28b00f85b5d2f633e3b9a45a7
+SHA1: df07bd3f5648457b9d2b34626c838b19e69dea2f
+SHA256: 6f2a4f2f499b9e1758f0e72a8909fa009a57a9e1b8e60d38349dd478e33fcade
+
+
+Package: com.minhhi-store.magmaevo
+Name: Magma Evo
+Version: 1.2.3
+Description: Thêm màu sắc vào trung tâm kiểm soát !
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Installed-Size: 504
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer:
+Icon: https://minhhi-store.github.io/packages_info/screenshots/magmaevo1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/magmaevo.json
+Depiction: https://minhhi-store.github.io/packages_info/magmaevo/?p=info
+Filename: ./debs/com.minhhi-store.magmaevo_1.2.3_iphoneos-arm.deb
+Size: 152984
+MD5sum: 3a40a33c88da49b3a67672a1d0eec028
+SHA1: a60968caaf607301a3f30720cf0a033332909db2
+SHA256: 2b302d55e49f74f59609b1c5a31039ba85760816ac52e403b7f964f8e4ed2fac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Package: com.tqm-store.carnival2
 Name: Carnival2
 Author: @tqmmos <anhminh311105@gmail.com>
