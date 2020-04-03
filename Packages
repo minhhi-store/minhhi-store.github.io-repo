@@ -37,6 +37,51 @@ SHA1: c6a8e988b2b43816bca843f7e44f9f266398ff20
 SHA256: 1bd0575b43d67d3166a9fcb5db7ce326501db086d92dd5246f43facd94f1f143
 
 
+Package: com.minhhi-store.xenhtml
+Name: Xen HTML
+Version: 1.1.4~release
+Section: System
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Author: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Description: Unified HTML rendering; lockscreen and homescreen
+dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/xenhtml.json
+Depiction: https://minhhi-store.github.io/packages_info/xenhtml/?p=info
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.xenhtml_1.1.4~release_iphoneos-arm.deb
+Size: 3695910
+MD5sum: e93043289aba6314f63a4ca594b30847
+SHA1: d53ba507f8a0e76dc88902db3a728b5ad5937f5b
+SHA256: 8fe16810321a5ee09820e6779055a54b8abce0ebcb21e2e8bc81c6e54436722a
+
+
+Package: com.minhhi-store.xeninfo
+Name: XenInfo
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: org.bigboss.datameter, cydia.kiiimo.org.datameter, com.repo.xarold.com.datameter, re.rejail.datameter, org.coolstar.ventana-modern, com.repo.xarold.com.ventana, cydia.kiiimo.org.ventana
+Architecture: iphoneos-arm
+Description: Music, Weather, and battery info for XenHTML
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: JunesIphone & Matchstic <junesgraphics@gmail.com>
+Section: Utilities
+Version: 2.2.9
+Installed-Size: 1072
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/xeninfo.json
+Depiction: https://minhhi-store.github.io/packages_info/xeninfo/?p=info
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.xeninfo_2.2.9_iphoneos-arm.deb
+Size: 269584
+MD5sum: 387c16c2086169c3b362b21ddb10bafa
+SHA1: 6e61517ca2832c0234bbb5cc59eb147a78199985
+SHA256: 5018689fd681814a2a790b946c1db4445180b35c0576ace1eb9446c9d7c5bd2c
+
+
 Package: com.minhhi-store.novacc
 Name: Nova CC
 Version: 1.2

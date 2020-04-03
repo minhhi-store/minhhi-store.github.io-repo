@@ -1,0 +1,22 @@
+{
+  "name": "XenInfo",
+  "package": "com.minhhi-store.xeninfo",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "2.2.9",
+  "dependency": "N/A",
+  "minOSVersion": "9.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Tinh chỉnh này đã bị ngưng!  Không có cập nhật hoặc hỗ trợ trong tương lai sẽ được tư nhân.<br><br>• XenInfo cung cấp thông tin vật dụng như pin, âm nhạc và thời tiết.<br><br>• Bạn PHẢI vô hiệu hóa legacy Mode trong XenHTML để XenInfo hoạt động với tiện ích đó.<br><br>• XenInfo hoạt động với XenHTML và các widget được mã hóa cho XenInfo, bạn có thể tìm thấy các widget này trong phần XenHTML của repo của tôi.( Https://tqm-mos.github.io ).<br><br>• Không có ứng dụng thời tiết trên iPad, do đó bạn phải có tiện ích thời tiết trong Trung tâm thông báo hoặc bất cứ nơi nào các tiện ích được hiển thị trên chương trình cơ sở của bạn.<br><br>• Bạn phải cho phép tiện ích này tải ít nhất một lần.<br><br>• Dịch vụ định vị cần phải có thời tiết kích hoạt luôn.<br><br>• Nếu bạn nhận được một popup yêu cầu cho phép trên springboard bấm có.</div>",
+  "changelog": {
+  "2.2.9": [
+      "Cải tiến và sửa lỗi.",
+      "Thêm hỗ trợ từ IOS9 Đến IOS13.",
+      "Các thiết bị A9 - A12 - A13 , đều được hỗ trợ."
+    ]
+  },
+  "screenshots": {
+    "xeninfo.png": ""
+  },
+  "links": {}
+}

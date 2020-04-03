@@ -1,0 +1,171 @@
+
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://minhhi-store.github.io/icons/logosileo.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Thông tin",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:15pt;\">Tinh chỉnh này đã bị ngưng!  Không có cập nhật hoặc hỗ trợ trong tương lai sẽ được tư nhân.</p>\n<p style=\"font-size:10pt;\"> * XenInfo cung cấp thông tin vật dụng như pin, âm nhạc và thời tiết.  Bạn PHẢI bị vô hiệu hóa di sản trong XenHTML để XenInfo hoạt động với tiện ích đó.</p>\n<p style=\"font-size:10pt;\"> * XenInfo hoạt động với XenHTML và các widget được mã hóa cho XenInfo, bạn có thể tìm thấy các widget này trong phần XenHTML của repo của tôi.</p>\n<p style=\"font-size:10pt;\"> * Không có ứng dụng thời tiết trên iPad, do đó bạn phải có tiện ích thời tiết trong Trung tâm thông báo hoặc bất cứ nơi nào các tiện ích được hiển thị trên chương trình cơ sở của bạn.  Bạn phải cho phép tiện ích này tải ít nhất một lần.  Dịch vụ định vị cần phải có thời tiết kích hoạt luôn.  Nếu bạn nhận được một popup yêu cầu cho phép trên springboard bấm có.</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hình ảnh",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, 586}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/xeninfo.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Mở rộng",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "JunesIphone & Matchstic <junesgraphics@gmail.com>",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2.2.9",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS9.0 - 13.4",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Việt Nam",
+          "title": "Ngôn ngữ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "263 KB",
+          "title": "Dung lượng"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://www.facebook.com/quangminhdx",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Facebook (@minhhí)",
+          "openExternal": true
+        },
+        {
+          "action": "https://twitter.com/tqmmos",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Twitter (@tqmmos)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Trợ giúp & Hỗ Trợ"
+        },
+        {
+          "action": "https://paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://minhhi-store.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.2.9",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Cải tiến và sửa lỗi.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Hỗ trợ từ IOS9 Đến IOS13.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Các thiết bị A9 - A12 - A13 , đều được hỗ trợ.</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

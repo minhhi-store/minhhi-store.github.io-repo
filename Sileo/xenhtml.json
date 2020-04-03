@@ -1,0 +1,179 @@
+
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://minhhi-store.github.io/icons/logosileo.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Thông tin",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:15pt;\">Giới thiệu vê XenHTML.</p>\n<p style=\"font-size:10pt;\"> * Xen HTML cho phép phân lớp lượt xem web:</p>\n<p style=\"font-size:10pt;\"> • Trên nền và tiền cảnh của Lockscreen.</p>\n<p style=\"font-size:10pt;\"> • Trên nền của Màn hình chính.</p>\n<p style=\"font-size:10pt;\"> • Có thể cuộn cùng với các biểu tượng ứng dụng.</p>\n<p style=\"font-size:10pt;\"> * Các tính năng được cung cấp.</p>\n<p style=\"font-size:10pt;\"> * Lớp nền màn hình chính.</p>\n<p style=\"font-size:10pt;\"> * Thêm hỗ trợ để kết xuất các widget phía sau các biểu tượng..</p>\n<p style=\"font-size:10pt;\"> * Lớp này có hỗ trợ cảm ứng đầy đủ..</p>\n<p style=\"font-size:10pt;\"> * Lớp biểu tượng màn hình chính.</p>\n<p style=\"font-size:10pt;\"> * Thêm hỗ trợ cho các widget được thêm vào cùng với các biểu tượng ứng dụng.</p>\n<p style=\"font-size:10pt;\"> * Các vật dụng này có thể được định vị trên bất kỳ trang Màn hình chính.</p>\n<p style=\"font-size:10pt;\"> * Lớp màn hình khóa.</p>\n<p style=\"font-size:10pt;\"> * Thêm cả lớp nền đứng sau màn hình khóa và lớp nền trước di chuyển cho các vật dụng.</p>\n<p style=\"font-size:10pt;\"> * Trình chỉnh sửa cài đặt widget tích hợp.</p>\n<p style=\"font-size:10pt;\"> * Cả Options.plist và config.js đều có thể dễ dàng sửa đổi trong khi cài đặt..</p>\n<p style=\"font-size:10pt;\"> * WidgetInfo.plist.</p>\n<p style=\"font-size:10pt;\"> * Cung cấp hỗ trợ cho một nhà phát triển tiện ích tệp mới có thể sử dụng, có thể cung cấp siêu dữ liệu bổ sung cho Xen HTML.</p>\n<p style=\"font-size:10pt;\"> * Nó cũng cho phép sử dụng Options.plist trong bất kỳ widget nào và hoàn toàn tương thích ngược..</p>\n<p style=\"font-size:10pt;\"> * Xem Tài liệu để biết thêm thông tin.</p>\n<p style=\"font-size:10pt;\"> * Cải thiện hiệu suất và sự ổn định.</p>\n<p style=\"font-size:10pt;\"> * Xen HTML sử dụng API WebKit mới từ Apple để giúp cải thiện hiệu suất và để tối ưu hóa việc sử dụng pin.</p>\n<p style=\"font-size:10pt;\"> * Điều chỉnh vị trí widget.</p>\n<p style=\"font-size:10pt;\"> * Cung cấp hỗ trợ kéo và thả để di chuyển xung quanh các vật dụng trong khi Cài đặt..</p>\n<p style=\"font-size:10pt;\"> * Xem trước trong cài đặt.</p>\n<p style=\"font-size:10pt;\"> * Tất cả các cài đặt có thể được xem trước mà không cần rời khỏi Cài đặt..</p>\n<p style=\"font-size:10pt;\"> * Mẹo & Cảnh báo.</p>\n<p style=\"font-size:10pt;\"> * Nhập biểu tượng ứng dụng 'chế độ lắc' để thêm widget trên bất kỳ trang Màn hình chính nào..</p>\n<p style=\"font-size:10pt;\"> * Kéo và thả các widget trong trình chỉnh sửa widget để di chuyển chúng xung quanh..</p>\n<p style=\"font-size:10pt;\"> * Các widget có thể được cấu hình dễ dàng bằng cách nhấn Cài đặt widget khi trong trình chỉnh sửa.</p>\n<p style=\"font-size:10pt;\"> * Vui lòng báo cáo các vấn đề mới bằng cách nhấn Tác giả ở trên.</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hình ảnh",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, 586}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/xenhtml1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/xenhtml2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/xenhtml3.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Mở rộng",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Matt Clarke <matt@incendo.ws>",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.1.4~release",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS9.0 - 13.4",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Việt Nam",
+          "title": "Ngôn ngữ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "3.52 MB",
+          "title": "Dung lượng"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://www.facebook.com/quangminhdx",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Facebook (@minhhí)",
+          "openExternal": true
+        },
+        {
+          "action": "https://twitter.com/tqmmos",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Twitter (@tqmmos)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Trợ giúp & Hỗ Trợ"
+        },
+        {
+          "action": "https://paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://minhhi-store.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1.4~release9",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Cải tiến và sửa lỗi.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Hỗ trợ từ IOS9 Đến IOS13.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Các thiết bị A9 - A12 - A13 , đều được hỗ trợ.</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}
