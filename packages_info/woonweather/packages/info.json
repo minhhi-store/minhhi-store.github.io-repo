@@ -1,6 +1,6 @@
 {
   "name": "LS Woon Weather",
-  "package": "com.tqm-store.weatherstack",
+  "package": "com.minhhi-store.weatherstack",
   "author": "Tqm-Mos (@tqmmos)",
   "version": "1.0",
   "dependency": "N/A",

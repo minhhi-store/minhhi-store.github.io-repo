@@ -37,6 +37,101 @@ SHA1: c6a8e988b2b43816bca843f7e44f9f266398ff20
 SHA256: 1bd0575b43d67d3166a9fcb5db7ce326501db086d92dd5246f43facd94f1f143
 
 
+Package: com.minhhi-store.Latte
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Latte
+Description: Need To install SnowBoard
+Section: TQM Themes
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/Latte.json
+Depiction: https://minhhi-store.github.io/packages_info/Latte/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/Latte.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.Latte_1.0_iphoneos-arm.deb
+Size: 4441228
+MD5sum: fc5b289567e113764a639c23e92d0f77
+SHA1: 82cffa61bd9a13f92d5c368804c4383950319516
+SHA256: 59232cbcde110539a4d08010c1891d77f52bdbde81ce1cd2a2a7b24a3dbbcb9e
+
+
+Package: com.minhhi-store.biesdi
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Biesdi
+Description: Need To install SnowBoard
+Section: TQM Themes
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/biesdi.json
+Depiction: https://minhhi-store.github.io/packages_info/biesdi/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/biesdi.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.biesdi_1.0_iphoneos-arm.deb
+Size: 4441228
+MD5sum: 498e7190c1442dfeb56ef857a76e432a
+SHA1: a08b2c1d9aed4ab97fc23bb30d04dc563ae79e2f
+SHA256: 196f154cd93ee9d2c8e31d20b3a77966b0c2723150d53e572ed1438fdbff02de
+
+
+Package: com.minhhi-store.hazardous
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Hazardous
+Description: Need To install SnowBoard or iThemer
+Section: TQM Themes
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/hazardous.json
+Depiction: https://minhhi-store.github.io/packages_info/hazardous/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/hazardous.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.hazardous_1.0_iphoneos-arm.deb
+Size: 9339644
+MD5sum: 83af9365bb62ae2a6870b2466106aad4
+SHA1: ce036e0a0833eeac2b4797556e9ac52b5d40c81f
+SHA256: 6ad47b98403a29af014de818500e03d635c13f78b4d613d15613458fe4bc044d
+
+
+Package: com.minhhi-store.paradigmhift10
+Name: Paradigm Shift 10
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Description: A paradigm shift to what all other themes resembled.
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/paradigmhift10.json
+Depiction: https://minhhi-store.github.io/packages_info/paradigmhift10/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/paradigmhift10.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.paradigmhift10_1.0_iphoneos-arm.deb
+Size: 36200282
+MD5sum: fa5a679111c5ed238af6fbd1392da61c
+SHA1: e1261c3c9f90dc9935465eae1018bed6240a5470
+SHA256: 091b9a446362fc9637b819e944c99b7fb77255eaa5b2cf1a073717f4cafd9879
+
+
+Package: com.minhhi-store.pixy
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Pixy
+Description: Need To install SnowBoard or iThemer
+Section: TQM Themes
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/pixy.json
+Depiction: https://minhhi-store.github.io/packages_info/pixy/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/pixy1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.pixy_1.0_iphoneos-arm.deb
+Size: 4104354
+MD5sum: 7822c025a2cc60acddb2830eafd3c35c
+SHA1: 7d6c8bc5b2f19f3fbbfd6d32a91ba80378329148
+SHA256: 1bb24398709f5c83f82fcb79cbd26c8ff5f459b4675269fe32bcd0ee3e862caf
+
+
 Package: com.minhhi-store.woonweather
 Name: LS Woon Weather
 Version: 1.0
