@@ -36,7 +36,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/aiircc.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/novacc.png"
             }
           ]
         },
@@ -68,7 +68,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.4",
+          "text": "1.2",
           "title": "Phiên bản"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.56 MB",
+          "text": "598 KB",
           "title": "Dung lượng"
         },
         {
@@ -144,18 +144,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Cải tiến & Sửa lỗi</li>\n</ul>",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.4",
+          "title": "1.2",
           "useBoldText": true,
           "useBottomMargin": false
         },

@@ -37,6 +37,44 @@ SHA1: c6a8e988b2b43816bca843f7e44f9f266398ff20
 SHA256: 1bd0575b43d67d3166a9fcb5db7ce326501db086d92dd5246f43facd94f1f143
 
 
+Package: com.minhhi-store.novacc
+Name: Nova CC
+Version: 1.2
+Section: TQM CC
+Architecture: iphoneos-arm
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Description: Redesign your control center with a new style.
+Sileodepiction: https://minhhi-store.github.io/Sileo/novacc.json
+Depiction: https://minhhi-store.github.io/packages_info/novacc/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/novacc.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.novacc_1.2_iphoneos-arm.deb
+Size: 612538
+MD5sum: 54201c175f9860e702d0c8e929a3abb8
+SHA1: 06d76c66b3da3090ce944409d25b69d36c1cc1dd
+SHA256: d43d1ee565623dd8c6c7c60ac3a5f53a9066cbed4c905a387f2e37bba37ddaab
+
+
+Package: com.minhhi-store.ellanewage
+Name: NewAge CC STT
+Version: 1.0.2
+Section: TQM CC
+Architecture: iphoneos-arm
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Description: Prysm theme and respring logo and statusbar theme
+Sileodepiction: https://minhhi-store.github.io/Sileo/ellanewage.json
+Depiction: https://minhhi-store.github.io/packages_info/ellanewage/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/ellanewage1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.ellanewage_1.0.2_iphoneos-arm.deb
+Size: 499526
+MD5sum: 1c9943d3b70c41f4366a66822c6c8cf2
+SHA1: 6e6440b5ab6eb1a139edc71ddbcdeb420e56cea6
+SHA256: 9fd85c53ee2d43ee3dffa082382732ca641984f28cc8bdfd052fb75f48c96716
+
+
 Package: com.minhhi-store.Latte
 Version: 1.0
 Architecture: iphoneos-arm
