@@ -72,7 +72,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.5.2K",
+          "text": "1.6.1",
           "title": "Phiên bản"
         },
         {
@@ -87,7 +87,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "433 KB",
+          "text": "982 KB",
           "title": "Dung lượng"
         },
         {
@@ -146,6 +146,63 @@
       "tabname": "Lịch sử",
       "tintColor": "#1182c4",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.6.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm ẩn pin cho mô-đun pin.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Thêm tùy chọn cho các thiết bị pin trung tâm.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm bỏ CC trên nút home đôi.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.6",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm mô-đun pin.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm xem vòng tròn tiến độ.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã thêm xem vòng tròn tiến độ.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Thêm tùy chọn để ẩn Grabber.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Thêm tùy chọn nút haptic.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Đã khắc phục sự cố trong đó các toggles sẽ không xuất hiện trên iOS 11.</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.5.2k",

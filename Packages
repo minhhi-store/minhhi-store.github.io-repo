@@ -315,18 +315,83 @@ SHA1: a60968caaf607301a3f30720cf0a033332909db2
 SHA256: 2b302d55e49f74f59609b1c5a31039ba85760816ac52e403b7f964f8e4ed2fac
 
 
+Package: com.minhhi-store.magmaevo
+Name: Magma Evo
+Version: 1.2.4
+Description: Tô màu trung tâm kiểm soát
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Installed-Size: 511
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/magmaevo1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/magmaevo.json
+Depiction: https://minhhi-store.github.io/packages_info/magmaevo/?p=info
+Filename: ./debs/com.minhhi-store.magmaevo_1.2.4_iphoneos-arm.deb
+Size: 160888
+MD5sum: a71d80305cf8bff7c1fcbc01b82af5ac
+SHA1: c5ab94f27cf8366f1cc169d953c0bf5ba8b6dc04
+SHA256: 68f7c727cb8de272616d2db83e6f1951ff911c1ad18c41bb8adafccda957b9f1
 
 
+Package: com.minhhi-store.boldenedgylphs
+Name: BoldenedGylphs
+Version: 1.08
+Architecture: iphoneos-arm
+Description: A primary color theme with bold, black outlines
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Icon: https://minhhi-store.github.io/packages_info/screenshots/boldenedgylphs1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/boldenedgylphs.json
+Depiction: https://minhhi-store.github.io/packages_info/boldenedgylphs/?p=info
+Filename: ./debs/com.minhhi-store.boldenedgylphs_1.08_iphoneos-arm.deb
+Size: 9163536
+MD5sum: f61e5cf32879f1058459d830daa40666
+SHA1: e4f45ff3628999d9c9ffaab06b6e9242d84e2e20
+SHA256: 78e5dcccba7beef961a1fd055ba97f5ecf898345275c355ea1ebce8e5d87967c
 
 
+Package: com.minhhi-store.miayotlan
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Amanecer(Dawn)
+Description: Need To install SnowBoard or iThemer
+Section: TQM Themes
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/miayotlan1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/miayotlan.json
+Depiction: https://minhhi-store.github.io/packages_info/miayotlan/?p=info
+Filename: ./debs/com.minhhi-store.miayotlan_1.0_iphoneos-arm.deb
+Size: 58722828
+MD5sum: 28ad18d08e1740fb32ebf71dc1255bbd
+SHA1: e10e95f36e7b3d95e150e8a8d17c01e632513f52
+SHA256: 8fe17d183c9c8550d19b8438eeca92db814ebb8f542311d55d2a700a3179112d
 
 
-
-
-
-
-
-
+Package: com.minhhi-store.joker
+Name: Joker
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: enjoy with joker theme
+Icon: https://minhhi-store.github.io/packages_info/screenshots/joker.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/joker.json
+Depiction: https://minhhi-store.github.io/packages_info/joker/?p=info
+Filename: ./debs/com.minhhi-store.joker_1.0_iphoneos-arm.deb
+Size: 5017106
+MD5sum: f378d059182010fa85da2bcc0c398958
+SHA1: 1cf51aa9a848cf5b8057faffd571885829447fcb
+SHA256: a7c7a624086c14bef294e0f127362f9b6d12478ab42a5715bb0e6513f641fd81
 
 
 Package: com.tqm-store.carnival2
@@ -1118,3 +1183,53 @@ Size: 437762
 MD5sum: bba29faa604de8e80168f4fe8a25f832
 SHA1: ce56c037226d24f174cc0a0fd3966219a28574f3
 SHA256: b415e66c75248a8628fde1071434c57bf90efefafd3aaaa8cf6aa18e18efcb5f
+
+
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.6k
+Description: Thiết lập lại trung tâm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 2775
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.6k_iphoneos-arm.deb
+Size: 1004380
+MD5sum: 8f218d37b1ec61e2f1c238f9c9974278
+SHA1: 80e1f1b5d54152bd47edf5ad71adb911627002d2
+SHA256: 3983f0c19c60fc8a762a52374a7ff45bcd9d8c6e9d435bac4ed0c34f349bfbe5
+
+
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.6.1
+Description: Thiết kế lại trung tâm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 2775
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.6.1_iphoneos-arm.deb
+Size: 1006344
+MD5sum: 507578af73534f185cfdc6637ae5fe3b
+SHA1: 50925cd15011e898a883873e0ddfba72bdb0238f
+SHA256: 7befc200c5c3602e02542038e38ee9c3a602ceb9df2aaa9231cb851a4949289c
+
+
+
+
+
+
+
+

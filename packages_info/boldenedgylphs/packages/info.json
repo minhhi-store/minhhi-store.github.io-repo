@@ -1,0 +1,23 @@
+{
+  "name": "BoldenedGylphs",
+  "package": "com.minhhi-store.boldenedgylphs",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "1.0": [
+      "Phiên bản đầu tiên"
+    ]
+  },
+  "screenshots": {
+    "boldenedgylphs1.png": "",
+    "boldenedgylphs2.png": "",
+    "boldenedgylphs3.png": "",
+    "boldenedgylphs4.png": ""
+  },
+  "links": {}
+}

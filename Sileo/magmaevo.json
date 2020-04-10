@@ -80,7 +80,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.2.3",
+          "text": "1.2.4",
           "title": "Phiên bản"
         },
         {
@@ -95,7 +95,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "149 KB",
+          "text": "157 KB",
           "title": "Dung lượng"
         },
         {
@@ -154,6 +154,22 @@
       "tabname": "Lịch sử",
       "tintColor": "#1182c4",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.2.4",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Thêm hỗ trợ cho mô-đun Prysm Pin.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Di chuyển cài đặt mô-đun Prysm sang trang riêng của họ.</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.2.3",

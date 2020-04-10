@@ -1,0 +1,23 @@
+{
+  "name": "Amanecer(Dawn)",
+  "package": "com.minhhi-store.miayotlan",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "1.0": [
+      "Phiên bản đầu tiên"
+    ]
+  },
+  "screenshots": {
+    "miayotlan1.png": "",
+    "miayotlan2.png": "",
+    "miayotlan3.png": "",
+    "miayotlan4.png": ""
+  },
+  "links": {}
+}
