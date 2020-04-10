@@ -37,7 +37,15 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/weatherstack.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/woon1.mp4"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/woon2.mp4"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/woon3.mp4"
             }
           ]
         },
