@@ -1,0 +1,21 @@
+{
+  "name": "LS Woon Weather",
+  "package": "com.minhhi-store.sbdockyweatherx2",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "9.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Gói Tiện ích (Widgets).<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Xen HTML và Xeninfo).<br><br>* Trang trí cho thiết bị của bạn thêm phần xinh động.<br><br>* Xem ảnh bên dưới để biết rõ. ( Mod by Tqm) .<br><br>* Hiển thị thời tiết , pin , sóng , wifi , nền dock có thể thay đổi tùy ý.<br><br>* Muốn hiển thị ảnh nền Dock hãy làm như sau (Coppy 1 ảnh bất kì , sau đó đổi tên ( dock.png ).<br><br>* Đường dẫn dán ảnh ( /var/mobile/Documents ).<br><br> * SB phù hợp với tất cả các loại màn hình ( ip6 - ipProMax).</div>",
+  "changelog": {
+    "0.1": [
+      "Phiên bản đầu tiên"
+    ]
+  },
+  "screenshots": {
+    "sbdockyweatherx21.png": "",
+    "sbdockyweatherx22.png": ""
+  },
+  "links": {}
+}

@@ -1227,9 +1227,62 @@ SHA1: 50925cd15011e898a883873e0ddfba72bdb0238f
 SHA256: 7befc200c5c3602e02542038e38ee9c3a602ceb9df2aaa9231cb851a4949289c
 
 
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.6.2k
+Description: thiết kế lại trung tâm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 2918
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.6.2k_iphoneos-arm.deb
+Size: 1036598
+MD5sum: 8475a809f22e7faffffa4c9d6a088d53
+SHA1: 3b5f384656521ce7dbfa35ea80767c803dce88a3
+SHA256: 17e57d4f2744c01a000d0ed10eba3c4edef105f7a53303bc404d86e81f6c3868
 
 
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.7k
+Description: Thiết kế lại trung tâm điều khiển
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 2918
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.7k_iphoneos-arm.deb
+Size: 1042526
+MD5sum: 2b1fa718520faf6a800eb9b8015f8cd6
+SHA1: e231d4c5dd0ea15f1b2e32ebabe9e540e45aebf4
+SHA256: 12363b20ff5f9772207991d51b1786def24cd556e0b42c7849fad80ad84329c3
 
 
-
-
+Package: com.minhhi-store.sbdockyweatherx2
+Name: SB Docky Weather X2
+Description: Widget  by Tqm-Mos .sử dụng qua XenHTML cho màn hình chính !
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com> 
+Section: Widgets
+Version: 0.1
+Icon: https://minhhi-store.github.io/packages_info/screenshots/sbdockyweatherx21.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/sbdockyweatherx2.json
+Depiction: https://minhhi-store.github.io/packages_info/sbdockyweatherx2/?p=info
+Filename: ./debs/com.minhhi-store.sbdockyweatherx2_0.1_iphoneos-arm.deb
+Size: 725936
+MD5sum: 46ebcafe5770f4c4923d7d6daed59f2f
+SHA1: b45a659feb79ab5733d5d25a2254ead0cc6bcba7
+SHA256: 96fe28e0afa957b41640e8253b48f547f75009ab026a959723ce56b61912c945
