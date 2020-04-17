@@ -1,0 +1,20 @@
+{
+  "name": "Apricity",
+  "package": "com.minhhi-store.apricity",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "0.1",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "13.4",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "0.1": [
+      "Phiên bản đầu tiên"
+    ]
+  },
+  "screenshots": {
+    "apricity.png": ""
+  },
+  "links": {}
+}

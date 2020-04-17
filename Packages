@@ -1286,3 +1286,151 @@ Size: 725936
 MD5sum: 46ebcafe5770f4c4923d7d6daed59f2f
 SHA1: b45a659feb79ab5733d5d25a2254ead0cc6bcba7
 SHA256: 96fe28e0afa957b41640e8253b48f547f75009ab026a959723ce56b61912c945
+
+
+Package: com.minhhi-store.holaweather
+Name: Hola Weather
+Description: Widget 
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Author: @tqmmos <anhminh311105@gmail.com> 
+Section: Widgets
+Version: 0.1
+Icon: https://minhhi-store.github.io/packages_info/screenshots/holaweather.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/holaweather.json
+Depiction: https://minhhi-store.github.io/packages_info/holaweather/?p=info
+Filename: ./debs/com.minhhi-store.holaweather_0.1_iphoneos-arm.deb
+Size: 24917356
+MD5sum: db7118519ef3877027144036c97770cb
+SHA1: 63289cf01650c1e1e1fa0e18c9a50439ec7479d2
+SHA256: 8a33831860c5d71bb88494f9912acf4d44f7f5f7ba7afc96d9a356e862fb7028
+
+
+Package: com.minhhi-store.lineweather
+Name: Line Weather
+Description: Widget 
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Author: @tqmmos <anhminh311105@gmail.com> 
+Section: Widgets
+Version: 0.1
+Icon: https://minhhi-store.github.io/packages_info/screenshots/lineweather.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/lineweather.json
+Depiction: https://minhhi-store.github.io/packages_info/lineweather/?p=info
+Filename: ./debs/com.minhhi-store.lineweather_0.1_iphoneos-arm.deb
+Size: 23368350
+MD5sum: 783804987f9ebb5cb834b85901a7f09e
+SHA1: 356be9c530472a6319ab106bc12dea9790b359a8
+SHA256: 7e60e552bfb0f6f9b92be4e53e2392a5a29dacd0465ecacb3596dd205ff27d9d
+
+
+Package: com.minhhi-store.skyweather
+Name: Sky Weather
+Description: Widget 
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Author: @tqmmos <anhminh311105@gmail.com> 
+Section: Widgets
+Version: 0.1
+Icon: https://minhhi-store.github.io/packages_info/screenshots/skyweather.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/skyweather.json
+Depiction: https://minhhi-store.github.io/packages_info/skyweather/?p=info
+Filename: ./debs/com.minhhi-store.skyweather_0.1_iphoneos-arm.deb
+Size: 5772764
+MD5sum: 605f2859964a8e677a04b22205036320
+SHA1: 47d0bd26808bf4eb1683c6cfaa8a8e75e3e9ad5b
+SHA256: 99984b129d81c861ef2f4825dededa66e98d51fb288472d9a6f293fc4f276d44
+
+
+Package: com.minhhi-store.apricity
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>   
+Section: TQM Themes 
+Description: Themes mod by Tqm-Mos . Android for IOS
+Author: @tqmmos <anhminh311105@gmail.com>   
+Name: Apricity
+Icon: https://minhhi-store.github.io/packages_info/screenshots/apricity1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/apricity.json
+Depiction: https://minhhi-store.github.io/packages_info/apricity/?p=info
+Filename: ./debs/com.minhhi-store.apricity_0.1_iphoneos-arm.deb
+Size: 16327492
+MD5sum: c175fc544ba1854f8713cb4f937aac4d
+SHA1: 0d3792e14a4548db1cf561a23bc886d6b99edf7d
+SHA256: 20c8e1372c0ef74fe48b8e13f7f06230d2ef8c77dae2a3984ecce29be4fe5d48
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
