@@ -337,6 +337,28 @@ SHA1: c5ab94f27cf8366f1cc169d953c0bf5ba8b6dc04
 SHA256: 68f7c727cb8de272616d2db83e6f1951ff911c1ad18c41bb8adafccda957b9f1
 
 
+Package: com.minhhi-store.magmaevo
+Name: Magma Evo
+Version: 2.0.0
+Description: Tô màu trung tâm kiểm soát
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, com.spark.libsparkcolourpicker
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Installed-Size: 1892
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/magmaevo1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/magmaevo.json
+Depiction: https://minhhi-store.github.io/packages_info/magmaevo/?p=info
+Filename: ./debs/com.minhhi-store.magmaevo_2.0.0_iphoneos-arm.deb
+Size: 1455578
+MD5sum: 694b49c371fe2abd09c12dca50a26765
+SHA1: 6f4279548b75074dd9f21191c0e01e71b7f294dc
+SHA256: 450fb84b7492a26ee7b260f859808dcda5c4380a9c74b2c88910bb54d524ca49
+
+
 Package: com.minhhi-store.boldenedgylphs
 Name: BoldenedGylphs
 Version: 1.08

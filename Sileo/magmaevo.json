@@ -80,7 +80,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.2.4",
+          "text": "2.0.0",
           "title": "Phiên bản"
         },
         {
@@ -95,7 +95,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "157 KB",
+          "text": "1.38 MB",
           "title": "Dung lượng"
         },
         {
@@ -154,6 +154,47 @@
       "tabname": "Lịch sử",
       "tintColor": "#1182c4",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.0.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Hỗ trợ chuyển đổi cài đặt trước tự động cho chế độ sáng / tối.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Tất cả các ưu tiên áp dụng ngay lập tức mà không cần respring.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Sử dụng libSparkColourPicker thay vì libcolorpicker (khắc phục sự cố iOS 13.4).</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Hoàn thành thiết kế lại tùy chọn với rất nhiều cải tiến.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Cải thiện quản lý cài sẵn.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Hỗ trợ cho chế độ sáng / tối Prysm mới.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Khắc phục nền mô-đun mặc định của iOS 12.</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.2.4",
