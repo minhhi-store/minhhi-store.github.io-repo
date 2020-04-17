@@ -37,7 +37,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/apricity.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/apricity1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/apricity2.png"
             }
           ]
         },
