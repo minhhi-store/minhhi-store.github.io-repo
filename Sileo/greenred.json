@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Gói Chủ Đề (Themes).</p>\n<p style=\"font-size:10pt;\"> * Hiển thị thay đổi cho màn hình chính.</p>\n<p style=\"font-size:10pt;\"> * Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Gói Chủ Đề (Themes).</p>\n<p style=\"font-size:10pt;\"> * Hiển thị thay đổi cho màn hình chính.</p>\n<p style=\"font-size:10pt;\"> * Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).</p>\n<p style=\"font-size:10pt;\"> • 11 gói AE.</p>\n<p style=\"font-size:10pt;\"> • 1 gói icon setting.</p>\n<p style=\"font-size:10pt;\"> • 3 gói dock.</p>\n<p style=\"font-size:10pt;\"> • 4 gói badger.</p>\n<p style=\"font-size:10pt;\">  • 1 gói icon telephone.</p>\n<p style=\"font-size:10pt;\"> • 2 gói UIswitch.</p>\n<p style=\"font-size:10pt;\"> • 1 gói pagedots. /p>\n<p style=\"font-size:13pt;\"> • Với 170 icon hiển thị ứng dụng.</p>\n<p style=\"font-size:15pt;\"> * Mod by @Tqm-Mos.</p>",
           "useRawFormat": true
         },
         {
@@ -37,28 +37,24 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/blacksoul1.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/greenred1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/blacksoul2.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/greenred2.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/blacksoul3.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/greenred3.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/blacksoul4.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/greenred.4png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/blacksoul5.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/blacksoul6.png"
-            },
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/greenred.5png"
+           },
           ]
         },
         {
@@ -84,7 +80,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Tqm-Mos (@tqmmos)",
+          "text": "BQH (@hungbui2110)",
           "title": "Tác giả"
         },
         {
@@ -94,7 +90,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS7.0 - 13.4",
+          "text": "iOS7.0 - All IOS",
           "title": "Hỗ trợ"
         },
         {
@@ -104,7 +100,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "8.81 MB",
+          "text": "13.2 MB",
           "title": "Dung lượng"
         },
         {
@@ -119,7 +115,7 @@
           "spacing": 16
         },
         {
-          "action": "https://www.facebook.com/quangminhdx",
+          "action": "https://www.facebook.com/profile.php?id=100052119013281",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Facebook (@minhhí)",
           "openExternal": true
