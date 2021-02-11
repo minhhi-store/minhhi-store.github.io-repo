@@ -1,7 +1,7 @@
 
 {
   "class": "DepictionTabView",
-  "headerImage": "https://minhhi-store.github.io/icons/greenredlogo.png",
+  "headerImage": "https://minhhi-store.github.io/icons/logosileo.png",
   "minVersion": "0.3",
   "itemSize": "{330, 110}",
   "tabs": [
@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Gói Chủ Đề (Themes).</p>\n<p style=\"font-size:10pt;\"> * Hiển thị thay đổi cho màn hình chính.</p>\n<p style=\"font-size:10pt;\"> * Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).</p>\n<p style=\"font-size:10pt;\"> • 11 gói AE.</p>\n<p style=\"font-size:10pt;\"> • 1 gói icon setting.</p>\n<p style=\"font-size:10pt;\"> • 3 gói dock.</p>\n<p style=\"font-size:10pt;\"> • 4 gói badger.</p>\n<p style=\"font-size:10pt;\">  • 1 gói icon telephone.</p>\n<p style=\"font-size:10pt;\"> • 2 gói UIswitch.</p>\n<p style=\"font-size:10pt;\"> • 1 gói pagedots.</p>\n<p style=\"font-size:13pt;\"> • Với 170 icon hiển thị ứng dụng.</p>\n<p style=\"font-size:15pt;\"> * Mod by @Tqm-Mos, @hungbui2110.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Gói Chủ Đề (Themes).</p>\n<p style=\"font-size:10pt;\"> * Hiển thị thay đổi cho màn hình chính.</p>\n<p style=\"font-size:10pt;\"> * Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).</p>",
           "useRawFormat": true
         },
         {
@@ -37,24 +37,20 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/greenred1.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/landah1.JPG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/greenred2.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/landah2.JPG"
             },
-            {
+           {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/greenred3.png"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/landah3.JPG"
             },
-            {
+           {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/greenred4.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/greenred5.png"
-           },
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/landah4.JPG"
+            }
           ]
         },
         {
@@ -80,7 +76,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "TQM-Mos , BQH",
+          "text": "Tqm-Mos (@tqmmos)",
           "title": "Tác giả"
         },
         {
@@ -90,7 +86,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS7.0 - All IOS",
+          "text": "iOS7.0 - ALL IOS",
           "title": "Hỗ trợ"
         },
         {
@@ -100,7 +96,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "13.2 MB",
+          "text": "60.1 MB",
           "title": "Dung lượng"
         },
         {
@@ -115,7 +111,7 @@
           "spacing": 16
         },
         {
-          "action": "https://www.facebook.com/profile.php?id=100052119013281",
+          "action": "https://www.facebook.com/quangminhdx",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Facebook (@minhhí)",
           "openExternal": true
@@ -167,7 +163,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Phiên bản đầu tiên</li>\n</ul>",
+          "markdown": "<ul>\n<li>Cải tiến & Sửa lỗi</li>\n</ul>",
           "useRawFormat": true
         }
       ]
