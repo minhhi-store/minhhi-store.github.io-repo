@@ -77,12 +77,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1.4~release",
+          "text": "2.0~beta6",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS9.0 - 13.4",
+          "text": "iOS9.0 - 14.3",
           "title": "Hỗ trợ"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "3.52 MB",
+          "text": "7.25 MB",
           "title": "Dung lượng"
         },
         {
@@ -170,6 +170,17 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "<ul>\n<li>Các thiết bị A9 - A12 - A13 , đều được hỗ trợ.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.0~beta6",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Hỗ trợ thêm ios 14 trở nên đến 14.3.</li>\n</ul>",
           "useRawFormat": true
         }
       ]
