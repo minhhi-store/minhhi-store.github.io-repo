@@ -37,11 +37,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/aono1.JPG"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/anno1.JPG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/aono2.JPG"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/anno2.JPG"
             }
           ]
         },
@@ -129,7 +129,7 @@
           "spacing": 40
         },
         {
-          "URL": "https://minhhi-store.github.io/CydiaIcon.png",
+          "URL": "https://minhhi-store.github.io/logo.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
