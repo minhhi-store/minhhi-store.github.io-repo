@@ -159,7 +159,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Cải tiến & Sửa lỗi</li>\n</ul>",
+          "markdown": "<ul>\n<li>Tải thêm một số icon bổ xung</li>\n</ul>",
           "useRawFormat": true
         }
       ]

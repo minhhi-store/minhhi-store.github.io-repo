@@ -81,7 +81,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.3",
           "title": "Phiên bản"
         },
         {
@@ -157,13 +157,13 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.0",
+          "title": "1.3",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Cải tiến & Sửa lỗi</li>\n</ul>",
+          "markdown": "<ul>\n<li>Tải thêm một số icon bổ xung</li>\n</ul>",
           "useRawFormat": true
         }
       ]

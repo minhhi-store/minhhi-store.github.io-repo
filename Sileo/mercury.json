@@ -163,7 +163,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Cải tiến & Sửa lỗi</li>\n</ul>",
+          "markdown": "<ul>\n<li>Phiên bản đầu tiên</li>\n</ul>",
           "useRawFormat": true
         }
       ]
