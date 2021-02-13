@@ -1,0 +1,22 @@
+{
+  "name": "ARC JARVIS",
+  "package": "com.minhhi-store.arcjarvis",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "2.0",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "100",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "2.0": [
+      "2.0 - Tải nên một số icon bổ xung."
+    ]
+  },
+  "screenshots": {
+    "arcjarvis1.JPG": "",
+    "arcjarvis2.JPG": "",
+    "arcjarvis3.JPG": ""
+  },
+  "links": {
+}

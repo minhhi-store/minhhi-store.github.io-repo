@@ -89,12 +89,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "2.0",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS7.0 - 13.4",
+          "text": "iOS7.0 - ALL IOS",
           "title": "Hỗ trợ"
         },
         {
@@ -104,7 +104,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "8.81 MB",
+          "text": "10.6 MB",
           "title": "Dung lượng"
         },
         {
@@ -119,7 +119,7 @@
           "spacing": 16
         },
         {
-          "action": "https://www.facebook.com/quangminhdx",
+          "action": "https://https://www.facebook.com/profile.php?id=100052119013281",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Facebook (@minhhí)",
           "openExternal": true
@@ -172,6 +172,17 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "<ul>\n<li>Phiên bản đầu tiên</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Tải nên một số icon bổ xung.</li>\n</ul>",
           "useRawFormat": true
         }
       ]
