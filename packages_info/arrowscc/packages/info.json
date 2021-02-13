@@ -5,7 +5,7 @@
   "version": "1.3.4",
   "dependency": "N/A",
   "minOSVersion": "11.0",
-  "maxOSVersion": "13.4",
+  "maxOSVersion": "100",
   "otheriOS": "untested",
   "description": "<div>Gói Chủ Đề (Themes).<br><br>* Hiển thị thay đổi icon trung tâm kiểm soát.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
   "changelog": {
