@@ -5,7 +5,7 @@
   "version": "1.0",
   "dependency": "N/A",
   "minOSVersion": "7.0",
-  "maxOSVersion": "13.4",
+  "maxOSVersion": "100",
   "otheriOS": "untested",
   "description": "<div>Gói Icon hiểm thị danh sách .<br><br>Ứng dụng ( Application ).<br><br><strong>Chủ đề ( Themes ).</strong> Tinh chỉnh ( Tweaks ).</div>",
   "changelog": {
