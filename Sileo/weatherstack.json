@@ -3,7 +3,7 @@
   "class": "DepictionTabView",
   "headerImage": "https://minhhi-store.github.io/icons/logosileo.png",
   "minVersion": "0.3",
-  "itemSize": "{330, 110}",
+  "itemSize": "{320, 110}",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Gói Tiện ích (Widgets).</p>\n<p style=\"font-size:10pt;\"> * Hiển thị thay đổi cho màn hình khóa.</p>\n<p style=\"font-size:10pt;\"> * Hoạt động qua (Xen HTML và Xeninfo).</p>\n<p style=\"font-size:10pt;\"> * Trang trí cho thiết bị của bạn thêm phần xinh động.</p>\n<p style=\"font-size:10pt;\"> * Xem video bên dưới để biết rõ. ( Mod by Tqm) </p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Gói Tiện ích (Widgets).</p>\n<p style=\"font-size:10pt;\"> * Hiển thị thay đổi cho màn hình khóa.</p>\n<p style=\"font-size:10pt;\"> * Hoạt động qua (Xen HTML và Xeninfo).</p>\n<p style=\"font-size:10pt;\"> * Trang trí cho thiết bị của bạn thêm phần xinh động.</p>\n<p style=\"font-size:10pt;\"> * Xem ảnh bên dưới để biết rõ. ( Mod by Tqm) </p>",
           "useRawFormat": true
         },
         {
@@ -33,19 +33,11 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 586}",
+          "itemSize": "{320, 386}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/woon1.mp4"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/woon2.mp4"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/woon3.mp4"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/weatherstack.png"
             }
           ]
         },
