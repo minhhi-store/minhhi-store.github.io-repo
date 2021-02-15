@@ -37,19 +37,19 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/bluray1.JPG"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/bluray3.JPG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/bluray2.JPG"
-            },
-           {
-              "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/bluray3.JPG"
-            },
-           {
-              "accessibilityText": "Screenshot",
               "url": "https://minhhi-store.github.io/packages_info/screenshots/bluray4.JPG"
+            },
+           {
+              "accessibilityText": "Screenshot",
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/bluray1.JPG"
+            },
+           {
+              "accessibilityText": "Screenshot",
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/bluray2.JPG"
             }
           ]
         },

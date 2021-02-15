@@ -33,7 +33,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 586}",
+          "itemSize": "{330, 386}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
