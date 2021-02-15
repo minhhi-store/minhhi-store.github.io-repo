@@ -37,15 +37,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/sbwoonweather1.mp4"
-            },
-             {
-              "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/sbwoonweather2.mp4"
-            },
-             {
-              "accessibilityText": "Screenshot",
-              "url": "https://minhhi-store.github.io/packages_info/screenshots/sbwoonweather3.mp4"
+              "url": "https://minhhi-store.github.io/packages_info/screenshots/sbwoonweather.png"
             }
 
           ]
