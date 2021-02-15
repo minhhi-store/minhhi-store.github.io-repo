@@ -1,0 +1,20 @@
+{
+  "name": "De5",
+  "package": "com.minhhi-store.de5",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "100",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "1.0": [
+      "1.0 - Phiên bản đầu tiên."
+    ]
+  },
+  "screenshots": {
+    "de5.JPG": ""
+  },
+  "links": {}
+}
