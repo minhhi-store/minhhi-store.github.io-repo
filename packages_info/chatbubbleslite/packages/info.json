@@ -1,0 +1,20 @@
+{
+  "name": "Chat Bong Bong",
+  "package": "com.minhhi-store.chatbubbleslite",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "Null",
+  "dependency": "N/A",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "14.5",
+  "otheriOS": "untested",
+  "description": "<div>• Tinh chỉnh này cho phép bạn nhắn tin trên thiết bị ios chát dạng bong bóng cửa sổ như trên Android.<br><br>• Hiện tại tinh chỉnh hộ trợ từ ios 10 đến ios 14.5.<br><br>• Lưu ý những thiết bị ios 12 trở xuống nên cài bản ver 4.0 trở xuống.<br><br>• Đây là tinh chỉnh miễn phí nên sẽ có nhiều lỗi không thể chánh , nó không thể giống hoàn toàn và mượt mà như trên Android.<br><br>• Hãy cài và tận hưởng thôi nào.</div>",
+  "changelog": {
+  "Null": [
+      "Cải tiến và sửa lỗi."
+    ]
+  },
+  "screenshots": {
+    "xeninfo.png": ""
+  },
+  "links": {}
+}
