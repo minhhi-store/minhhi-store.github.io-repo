@@ -1,0 +1,23 @@
+{
+  "name": "Worst EnvyDark",
+  "package": "com.minhhi-store.worstenvydark",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "4.0",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "100",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "1.0": [
+      "1.0 - Phiên bản đầu tiên."
+    ],
+    "1.8": [
+      "4.0 - Tải nên một số icon bổ xung."
+    ]
+  },
+  "screenshots": {
+    "worstenvydark.JPG": ""
+  },
+  "links": {}
+}

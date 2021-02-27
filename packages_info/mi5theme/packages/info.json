@@ -1,0 +1,25 @@
+{
+  "name": "Mi5Theme",
+  "package": "com.minhhi-store.mi5theme",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "2.7",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "100",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "1.0": [
+      "1.0 - Phiên bản đầu tiên."
+    ],
+    "1.8": [
+      "2.7 - Tải nên một số icon bổ xung."
+    ]
+  },
+  "screenshots": {
+    "mi5theme1.JPG": "",
+    "mi5theme2.JPG": "",
+    "mi5theme3.JPG": ""
+  },
+  "links": {}
+}

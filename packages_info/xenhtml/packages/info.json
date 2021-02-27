@@ -2,10 +2,10 @@
   "name": "Xen HTML",
   "package": "com.minhhi-store.xenhtml",
   "author": "Tqm-Mos (@tqmmos)",
-  "version": "2.0~beta6",
+  "version": "2.0~beta7",
   "dependency": "N/A",
   "minOSVersion": "9.0",
-  "maxOSVersion": "14.3",
+  "maxOSVersion": "14.5",
   "otheriOS": "untested",
   "description": "<div>Giới thiệu vê XenHTML.<br><br>• Xen HTML cho phép phân lớp lượt xem web:<br><br>• Trên nền và tiền cảnh của Lockscreen<br><br>• Trên nền của Màn hình chính.<br><br>• Có thể cuộn cùng với các biểu tượng ứng dụng.<br><br>• Các tính năng được cung cấp.<br><br>• Lớp nền màn hình chính.<br><br>• Thêm hỗ trợ để kết xuất các widget phía sau các biểu tượng.<br><br>• Lớp này có hỗ trợ cảm ứng đầy đủ.<br><br>• Lớp biểu tượng màn hình chính.<br><br>• Thêm hỗ trợ cho các widget được thêm vào cùng với các biểu tượng ứng dụng.<br><br>• Các vật dụng này có thể được định vị trên bất kỳ trang Màn hình chính.<br><br>• Lớp màn hình khóa.<br><br>• Thêm cả lớp nền đứng sau màn hình khóa và lớp nền trước di chuyển cho các vật dụng.<br><br>• Trình chỉnh sửa cài đặt widget tích hợp.<br><br>• Cả Options.plist và config.js đều có thể dễ dàng sửa đổi trong khi cài đặt.<br><br>• WidgetInfo.plist.<br><br>• Cung cấp hỗ trợ cho một nhà phát triển tiện ích tệp mới có thể sử dụng, có thể cung cấp siêu dữ liệu bổ sung cho Xen HTML.<br><br>•Nó cũng cho phép sử dụng Options.plist trong bất kỳ widget nào và hoàn toàn tương thích ngược.<br><br>• Xem Tài liệu để biết thêm thông tin.<br><br>• Cải thiện hiệu suất và sự ổn định.<br><br>• Xen HTML sử dụng API WebKit mới từ Apple để giúp cải thiện hiệu suất và để tối ưu hóa việc sử dụng pin.<br><br>• Điều chỉnh vị trí widget.<br><br>• Cung cấp hỗ trợ kéo và thả để di chuyển xung quanh các vật dụng trong khi Cài đặt.<br><br>• Xem trước trong cài đặt.<br><br>• Tất cả các cài đặt có thể được xem trước mà không cần rời khỏi Cài đặt.<br><br>• Mẹo & Cảnh báo.<br><br>• Nhập biểu tượng ứng dụng 'chế độ lắc' để thêm widget trên bất kỳ trang Màn hình chính nào.<br><br>• Kéo và thả các widget trong trình chỉnh sửa widget để di chuyển chúng xung quanh.<br><br>• Các widget có thể được cấu hình dễ dàng bằng cách nhấn Cài đặt widget khi trong trình chỉnh sửa.<br><br>• Vui lòng báo cáo các vấn đề mới bằng cách nhấn Tác giả ở trên.</div>",
   "changelog": {
@@ -16,6 +16,9 @@
     ],
     "2.0~beta6": [
       "Hỗ trợ thêm ios 14 trở nên đến 14.3"
+    ],
+    "2.0~beta7": [
+      "Hỗ trợ hoàn toàn ios 14 trở nên đến 14.5"
     ]
   },
   "screenshots": {

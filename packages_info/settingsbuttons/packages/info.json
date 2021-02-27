@@ -1,0 +1,21 @@
+{
+  "name": "SettingsButtons",
+  "package": "com.minhhi-store.settingsbuttons",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.1",
+  "dependency": "N/A",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.2",
+  "otheriOS": "untested",
+  "description": "<div>• Tinh chỉnh này Thêm các nút hữu ích vào Thanh điều hướng trong ứng dụng Cài đặt.<br><br>• SettingsButtons tương thích với iOS 13 và iOS 14.<br><br>• SettingsButtons cung cấp một cách hữu ích để chuyển đổi chế độ tối, chế độ an toàn hoặc phản hồi ngay từ cài đặt, với giao diện rất rõ ràng.</div>",
+  "changelog": {
+  "1.1": [
+      "Cải tiến và sửa lỗi."
+    ]
+  },
+  "screenshots": {
+    "settingsbuttons.png": "",
+    "settingsbuttons1.png": ""
+  },
+  "links": {}
+}
