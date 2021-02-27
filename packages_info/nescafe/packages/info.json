@@ -1,0 +1,21 @@
+{
+  "name": "NesCafe",
+  "package": "com.minhhi-store.nescafe",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "10.0",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "100",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Tải về và cảm nhận.</div>",
+  "changelog": {
+    "10.0": [
+      "10.0 - Tải nên một số icon bổ xung."
+    ]
+  },
+  "screenshots": {
+    "nescafe1.JPG": "",
+    "nescafe2.JPG": ""
+  },
+  "links": {}
+}
