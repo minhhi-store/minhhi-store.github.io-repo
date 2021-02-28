@@ -1,0 +1,29 @@
+{
+  "name": "SnowBoard",
+  "package": "com.minhhi-store.snowboard",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "Null",
+  "dependency": "N/A",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.5",
+  "otheriOS": "untested",
+  "description": "<div>Tinh chỉnh này giúp bạn thay đổi giao diện chủ đề một cách mạnh mẽ.<br><br>• Hãy cài các gói bổ trợ để tweaks hoạt động đầy đủ nhất.<br><br>• Tinh chỉnh bao gồm các chỉnh sửa như ( AE - Mask - Ui - Statusbar - Sound ...).<br><br>• Hỗ trợ hầu hết các thiết bị IOS chạy từ 11.0 đến 14.5 ,có thể sẽ hỗ trợ thêm các phiên bản IOS về sau này.<br><br>• Hãy luôn làm mới nguồn ( Repo ) để cập nhật các tinh chỉnh mới nhất.</div>",
+  "changelog": {
+  "Null": [
+      "Cải tiến và sửa lỗi.",
+      "Hỗ trợ từ IOS11 Đến IOS14.5."
+    ]
+  },
+  "screenshots": {
+    "snow1.png": "",
+    "snow2.png": "",
+    "snow3.png": "",
+    "snow4.png": "",
+    "snow5.png": "",
+    "snow6.png": "",
+    "snow7.png": "",
+    "snow8.png": "",
+    "snow9.png": ""
+  },
+  "links": {}
+}
