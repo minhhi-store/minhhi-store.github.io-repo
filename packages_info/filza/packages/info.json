@@ -1,0 +1,21 @@
+{
+  "name": "Filza File Manager",
+  "package": "com.minhhi-store.filza",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "3.8.1-24",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "14.5",
+  "otheriOS": "untested",
+  "description": "<div>Ứng dụng Filza cung cấp cho bạn khả năng truy cập vào hệ thống tệp của iPhone và thêm hoặc xóa các tệp trên thiết bị của bạn.</div>",
+  "changelog": {
+  "3.8.1-24": [
+      "Cải tiến và sửa lỗi.",
+      "Thêm hỗ trợ từ IOS7 Đến IOS14."
+    ]
+  },
+  "screenshots": {
+    "filza.png": ""
+  },
+  "links": {}
+}

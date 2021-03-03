@@ -1,0 +1,22 @@
+{
+  "name": "iCleaner Pro",
+  "package": "com.minhhi-store.icleanerpro",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "7.9.1",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "14.5",
+  "otheriOS": "untested",
+  "description": "<div>Đối với những bạn chưa từng biết về iCleaner Pro thì đây là một trong những tweak “dọn rác” cho iPhone/iPad ngon lành nhất, nó giúp cho người dùng kiểm soát được nhiều hơn những thứ được lưu trên thiết bị của họ, chẳng hạn như tin nhắn, cache Safari, các bản cập nhật OTA,… và nó cho phép bạn dọn dẹp hệ thống một cách nhanh nhất có thể. Điều này đặc biệt hữu ích trong trường hợp người dùng đang sử dụng những chiếc iPhone có dung lượng chỉ 16GB.</div>",
+  "changelog": {
+  "7.9.1": [
+      "Cải tiến và sửa lỗi.",
+      "Thêm hỗ trợ từ IOS7 Đến IOS14."
+    ]
+  },
+  "screenshots": {
+    "icleanerpro1.png": "",
+    "icleanerpro2.png": ""
+  },
+  "links": {}
+}
