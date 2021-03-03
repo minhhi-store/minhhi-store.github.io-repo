@@ -1,0 +1,21 @@
+{
+  "name": "XenInfo",
+  "package": "com.minhhi-store.xeninfo",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "Null",
+  "dependency": "N/A",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.5",
+  "otheriOS": "untested",
+  "description": "<div>AltStore là công cụ hỗ trợ cài đặt ứng dụng có thể thay thế được cho App Store. Cho phép bạn tải những ứng dụng IPA mà không cần thông qua Apple. AltStore là ngôi nhà mà Testut đã tạo ra trình giả lập Delta, cho phép bạn chơi những tựa game cổ điển Game Boy, Super Nintendo, Nintendo 64 và một số trò chơi khác trên iOS.<br><br>• AltStore sử dụng chính Apple ID để công nhận những ứng dụng chưa được cho phép cài đặt trên thiết bị của bạn. Điều hoàn toàn hợp pháp và bạn sẽ không phải lo lắng việc chứng nhận bị Apple thu hồi, điều này xảy ra khá thường xuyên khi sử dụng một dịch vụ chỉ dựa trên các công nhận từ nhà phát triển ứng dụng đó.<br><br>• Duy chỉ có điểm yếu là ứng dụng trong AltStore phải tái chứng nhận sau mỗi 7 ngày. Nếu không có những chứng nhận này, ứng dụng của bạn sẽ hết hạn và không hoạt động được cho đến khi chứng nhận được làm mới. Tuy nhiên, AltStore Server bạn cài đặt trong máy sẽ tự động giúp bạn làm công việc này.</div>",
+  "changelog": {
+  "Null": [
+      "Cải tiến và sửa lỗi."
+    ]
+  },
+  "screenshots": {
+    "alt1.png": "",
+    "alt2.png": ""
+  },
+  "links": {}
+}
