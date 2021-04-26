@@ -1,0 +1,20 @@
+{
+  "name": "Weather Aniwe TQM",
+  "package": "com.minhhi-store.weatheraniwetqm",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "9.0",
+  "maxOSVersion": "100",
+  "otheriOS": "untested",
+  "description": "<div>Gói Tiện ích (Widgets).<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Xen HTML và Xeninfo).<br><br>* Trang trí cho thiết bị của bạn thêm phần xinh động.<br><br>* Xem ảnh bên dưới để biết rõ. ( Mod by Tqm) .<br><br>* Widgets phù hợp với các loại màn hình ( ip6 - ipProMax).</div>",
+  "changelog": {
+    "1.0": [
+      "Phiên bản đầu tiên"
+    ]
+  },
+  "screenshots": {
+    "weatheraniw.png": ""
+  },
+  "links": {}
+}
