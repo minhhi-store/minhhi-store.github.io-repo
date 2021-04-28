@@ -2,7 +2,7 @@
   "name": "Xen HTML",
   "package": "com.minhhi-store.xenhtml",
   "author": "Tqm-Mos (@tqmmos)",
-  "version": "2.0~beta7.1",
+  "version": "2.0~release",
   "dependency": "N/A",
   "minOSVersion": "9.0",
   "maxOSVersion": "14.5",
