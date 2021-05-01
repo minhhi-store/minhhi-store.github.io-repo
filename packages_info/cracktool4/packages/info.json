@@ -1,0 +1,23 @@
+{
+  "name": "CrackTool4 (iOS 12/13/14)",
+  "package": "com.minhhi-store.cracktool4",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "4.0~beta9ez",
+  "dependency": "N/A",
+  "minOSVersion": "8.0",
+  "maxOSVersion": "14.5",
+  "otheriOS": "untested",
+  "description": "<div>Đúng như tên gọi Crack.<br><br>• Tính Năng: bẻ khoá 1 số tweak bản quyền ... như #Filza, #iCleanerPro. . . <br><br>• Công cụ bẻ khóa Tweaks trả phí tuyệt vời.</div>",
+  "changelog": {
+  "4.0~beta9ez": [
+      "Cải tiến và sửa lỗi.",
+      "Thêm hỗ trợ từ IOS9 Đến IOS13.",
+      "Các thiết bị A7 - A8 - A9 - A12 - A13. . ., đều được hỗ trợ."
+    ]
+  },
+  "screenshots": {
+    "cracktool1.jpg": "",
+    "cracktool2.jpg": ""
+  },
+  "links": {}
+}

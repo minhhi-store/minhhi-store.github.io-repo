@@ -1,0 +1,25 @@
+{
+  "name": "ReProvision Reborn",
+  "package": "com.minhhi-store.reprovision",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "0.6.2~release",
+  "dependency": "N/A",
+  "minOSVersion": "9.0",
+  "maxOSVersion": "100",
+  "otheriOS": "untested",
+  "description": "<div>Việc cấp phép được thực hiện thông qua thông tin đăng nhập Apple ID của người dùng và hỗ trợ cả tài khoản phát triển trả phí và miễn phí. Các thông tin xác thực này được lưu trữ trong Chuỗi khóa của người dùng để sử dụng lại sau này và chỉ được gửi đến API Kết nối iTunes của Apple để xác thực.<br><br>• Tự động ký lại các ứng dụng được cấp phép cục bộ.<br><br>• Cài đặt cơ bản để định cấu hình cảnh báo được hiển thị bằng tính năng tự động ký lại.<br><br>• Khả năng cài đặt bất kỳ .ipa tệp nào được  tải xuống thông qua Safari từ thiết bị.<br><br>• Hỗ trợ ký lại các ứng dụng Apple Watch.<br><br>• Menu 3D Touch để bắt đầu quy trình ký lại mới trực tiếp từ Màn hình chính.</div>",
+  "changelog": {
+  "0.6.2~release": [
+      "Sửa lỗi trong đó các ứng dụng được ký bằng tài khoản nhà phát triển sẽ hiển thị là đã hết hạn.",
+      "Sửa lỗi kết nối mạng trên iOS13 +.",
+      "Đã sửa lỗi khiến các ứng dụng bị trùng lặp khi được ký lại bằng ID khác.",
+      "Thay đổi để tự động đóng chế độ xem chi tiết sau khi ký thành công.",
+      "Thay đổi cách lấy hình ảnh biểu tượng từ ipa.",
+      "Thêm kiểm tra cho Isser_name_hash để chọn chứng chỉ trung gian phù hợp."      
+    ]
+  },
+  "screenshots": {
+    "reprovision.jpg": ""
+  },
+  "links": {}
+}
