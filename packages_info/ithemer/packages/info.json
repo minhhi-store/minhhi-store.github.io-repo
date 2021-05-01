@@ -1,0 +1,27 @@
+{
+  "name": "iThemer",
+  "package": "com.minhhi-store.ithemer",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "2.0.0-3",
+  "dependency": "N/A",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "13.5",
+  "otheriOS": "untested",
+  "description": "<div>iThemer là một công cụ chủ đề đơn giản nhưng mạnh mẽ cho phép bạn tạo chủ đề cho hầu hết các thiết bị của mình.<br><br>• iThemer hiện hỗ trợ những điều sau:<br><br>• Chủ đề các biểu tượng màn hình chính bằng cách sử dụng các phương pháp lớn IconBundles @ 2x / 3x / ~.<br><br>• Giao diện người dùng toàn hệ thống (tệp .car / .artwork) cho giao diện người dùng trong ứng dụng / StatusBar / Trung tâm điều khiển, v.v.<br><br>• Chủ đề gói / thư mục cho giao diện người dùng APP / Các biểu tượng cài đặt tinh chỉnh, v.v.<br><br>• Dấu chấm trang (sử dụng ANEMPageDots hoặc MagicDots).<br><br>• Hỗ trợ ClassicDock (đế cắm kiểu SBDockBG).<br><br>• Huy hiệu tùy chỉnh.<br><br>• Chủ đề Lịch và Đồng hồ.<br><br>• Kim đồng hồ.<br><br>• Biểu tượng cài đặt.<br><br>• UISounds.<br><br>• Hệ thống phông chữ rộng và hỗ trợ biểu tượng cảm xúc.<br><br>• Lớp phủ và bóng (tương thích với các chủ đề AnemoneEffects hoặc IconOmatic).<br><br>• Mặt nạ biểu tượng<br><br>• Dock phản chiếu.<br><br>• Tùy chỉnh thư mục (tương thích với ANEMFolderIconBG và ANEMFolderBackground).<br><br>• FolderIcons dựa trên tên thư mục.<br><br>• Sắp phát hành trong tương lai gần:<br><br>• Hỗ trợ lại dock cho người dùng iPad và iPhone đang chạy các chỉnh sửa dock nổi (FloatyDock, v.v.).<br><br>• Có thể là một ứng dụng độc lập và phương pháp ứng dụng chủ đề tốt hơn<br><br>• Tôi vẫn đang xem xét iThemer là một phiên bản beta và tôi hy vọng sẽ tiếp tục bổ sung thêm nhiều tính năng hơn khi thời gian trôi qua. Tôi dự định áp dụng phương pháp áp dụng chủ đề thân thiện với người dùng hơn khi có thời gian (nếu ai đó quen thuộc với việc tạo Ứng dụng muốn giúp một tay, vui lòng cho tôi biết).</div>",
+  "changelog": {
+  "2.0.0-3": [
+      "Đã sửa lỗi được báo cáo.",
+      "Một số cải tiến về hiệu suất.",
+      "Đã thêm lại UISounds với hỗ trợ arm64 / e.",
+      "Bản phát hành này không có gì mới, chỉ có lỗi và hiệu suất. Bản phát hành tiếp theo sẽ có các tính năng mới bao gồm phát wifi / tín hiệu iOS 13, một phương pháp ứng dụng tốt hơn và hơn thế nữa."      
+    ]
+  },
+  "screenshots": {
+    "ithemer1.png": "",
+    "ithemer2.png": "",
+    "ithemer3.png": "",
+    "ithemer4.png": "",
+    "ithemer5.png": ""                
+  },
+  "links": {}
+}
