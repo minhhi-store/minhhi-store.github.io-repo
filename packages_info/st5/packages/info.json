@@ -1,0 +1,30 @@
+{
+  "name": "Springtomize 5",
+  "package": "com.minhhi-store.st5",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "5.1.9",
+  "dependency": "N/A",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.4",
+  "otheriOS": "untested",
+  "description": "<div>*** Springtomize số 5 cho iOS 13/14! ***<br><br>• Tùy chỉnh thiết bị của bạn hơn bao giờ hết.<br><br>• Springtomize 5 là tinh chỉnh duy nhất bạn cần để tùy chỉnh thiết bị của mình theo cách bạn muốn. Với hơn 100 tùy chọn khác nhau, từ số lượng và kích thước của các biểu tượng trên màn hình chính, hình ảnh động, thậm chí là khía cạnh từ xa nhất của iOS, cuối cùng bạn sẽ có toàn quyền kiểm soát cách thiết bị của mình trông và hoạt động.<br><br>• Sửa đổi và áp dụng cài đặt trong vài giây.<br><br>• Chúng tôi đã làm việc thực sự chăm chỉ để mang đến cho bạn trải nghiệm người dùng tốt nhất và đây là lý do tại sao hầu hết các tùy chọn trong Springtomize 5 không còn yêu cầu hồi âm nữa và có thể được áp dụng trong thời gian thực. Hơn nữa, đối với rất ít tùy chọn yêu cầu hồi âm, Springtomize sẽ hiển thị cho bạn một thông báo Thanh trạng thái tuyệt đẹp.<br><br>• Bộ chọn màu mới.<br><br>• Springtomize 5 có một cách hoàn toàn mới để đặt màu thành giá trị chính xác mà bạn muốn.<br><br>• Hồ sơ.<br><br>• Hồ sơ là một tính năng đột phá để bạn trải nghiệm Springtomize theo cách tốt hơn bao giờ hết. Với Hồ sơ, bạn có thể duy trì số lượng không giới hạn các cấu hình khác nhau và chuyển đổi qua lại giữa chúng. Ví dụ: điều này cho phép bạn giữ một hồ sơ [Sạch sẽ], với các nhãn biểu tượng ẩn và một số tùy chọn tối giản khác, cũng như một hồ sơ [Vui vẻ] với hàng chục hoạt ảnh thú vị, phông chữ tùy chỉnh, v.v.Bạn có thể thêm, sao chép và xóa hồ sơ bằng dễ dàng trong phần dành riêng của nó trong Cài đặt.<br><br>• Hiệu suất và hiệu quả chưa từng có.<br><br>• Chúng tôi đã viết lại Springtomize 5 từ đầu với sự chú ý cho iOS 13, có nghĩa là nó nhanh hơn, tiết kiệm năng lượng hơn và thân thiện hơn với người dùng.Nó được cung cấp bởi một công cụ cài đặt mạnh mẽ, về mặt kỹ thuật vượt trội hơn bất kỳ công cụ quản lý cấu hình nào khác mà bạn có thể đã sử dụng trước đây.<br><br>• Cảm thấy tự do để liên lạc.<br><br>• Nếu bạn cho rằng có điều gì đó không ổn với cách Springtomize 5 hoạt động, thì bạn sẽ rất vui khi biết rằng chúng tôi đã đưa vào bảng điều khiển Báo cáo lỗi. Hơn nữa, nếu bạn muốn xem một tính năng mới được triển khai trong Springtomize 5, chỉ cần cho chúng tôi biết thông qua bảng [Yêu cầu tính năng] từ trong Cài đặt.<br><br>• Lượt của bạn.<br><br>• Từ ngữ có thể mô tả rất nhiều, nhưng chúng không thể mang lại cho bạn cảm giác khi sử dụng Springtomize và chúng không thể khiến bạn trải nghiệm sức mạnh thực sự của Hồ sơ, vậy tại sao bạn không thử? Tải xuống Springtomize 5 ngay hôm nay và bắt đầu tùy chỉnh lại thiết bị của bạn.</div>",
+  "changelog": {
+  "5.1.9": [
+      "Cải tiến và sửa lỗi.",
+      "Thêm hỗ trợ cho 13.6.",
+      "Khả năng tương thích với Runaway.",
+      "Sửa bản dịch tiếng Nga."
+    ]
+  },
+  "screenshots": {
+    "st51.png": "",
+    "st52.png": "",
+    "st53.png": "",
+    "st54.png": "",
+    "st55.png": "",
+    "st56.png": "",
+    "st57.png": "",
+    "st58.png": ""
+  },
+  "links": {}
+}

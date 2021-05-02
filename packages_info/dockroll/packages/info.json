@@ -1,0 +1,24 @@
+{
+  "name": "Dock & Roll",
+  "package": "com.minhhi-store.dockroll",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "0.0.2-20",
+  "dependency": "N/A",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "13.8",
+  "otheriOS": "untested",
+  "description": "<div>DNR DockNRoll BETA đang ở đây! Đây là một bản phát hành hơi sớm so với những gì tôi mong muốn nhưng nó chắc chắn hoạt động tốt. Nó chưa thể xóa / thêm các biểu tượng một cách trơn tru hoặc thêm các biểu tượng bổ sung trong Dock, vì vậy tôi khuyên bạn chỉ nên sử dụng 4 biểu tượng hoặc sử dụng HomePlusBeta hoặc simular để thiết lập thanh dock của bạn TRƯỚC khi cài đặt hoặc bật DockNRoll. Ví dụ: bạn thường sử dụng 5 biểu tượng trong thanh công cụ của mình hoặc muốn có 10 biểu tượng trong DockNRoll của bạn, chỉ cần thiết lập thêm các biểu tượng đó trong thanh công cụ bằng trình quản lý màn hình chính, sau đó cài đặt hoặc bật DNR và nó sẽ lấy các biểu tượng đó để sử dụng.<br><br>• Sắp có nhiều gói hơn với cái này, tôi chỉ muốn phát hành để tất cả Patreon VIP và $ 5tier của tôi có thể chơi xung quanh và thử nghiệm Bản phát hành Beta đầu tiên.</div>",
+  "changelog": {
+  "0.0.2-20": [
+      "Cải tiến và sửa lỗi.",
+      "Đã thêm abiltiy để cung cấp thêm khoảng cách biểu tượng và phối cảnh.",
+      "Đã xóa bảng tùy chọn.",
+      "Đã thêm Khả năng cung cấp chiều cao cho dock."
+    ]
+  },
+  "screenshots": {
+    "dockroll.png": ""
+
+  },
+  "links": {}
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Boxy 4 (iOS 13 - 14)",
+  "package": "com.minhhi-store.boxy4",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "4.2.6-1",
+  "dependency": "N/A",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.5",
+  "otheriOS": "untested",
+  "description": "<div>MỘT HỘP MỚI THƯƠNG HIỆU! HỖ TRỢ NGAY BÂY GIỜ VỚI MỖI TRANG MỖI TRANG! Bạn có thể DỄ DÀNG kiểm soát bố cục biểu tượng của mình bằng cách vuốt nhanh lên trên màn hình chính. Bạn có thể kéo hộp bố cục xung quanh để điều chỉnh bố cục của các biểu tượng. Bạn cũng có thể chụm để điều chỉnh kích thước biểu tượng! Nó thực sự dễ dàng và trực quan!<br><br>• Nếu bạn có bất kỳ vấn đề nào với Boxy 4, vui lòng liên hệ với tôi trên twitter tại @wvabrinskas.<br><br>• Hoàn toàn tùy chỉnh bố cục biểu tượng của bạn! Bạn đã bao giờ gặp sự cố với dung lượng trong SpringBoard của mình hoặc bạn cảm thấy nhàm chán với bố cục mặc định của các biểu tượng? Chà, Boxy có thể khắc phục cả hai vấn đề đó. Bố cục biểu tượng của bạn hoàn toàn có thể tùy chỉnh với nhiều tùy chọn có thể định cấu hình trong ngăn cài đặt. Bạn có thể điều chỉnh khoảng cách của mỗi biểu tượng so với mỗi cạnh của màn hình và khoảng cách giữa mỗi biểu tượng với nhau. Những kết hợp này có thể cung cấp một số bố cục khá thú vị. Nếu bạn không phải là người thích quảng cáo hoặc không muốn bị làm phiền với việc thử nghiệm từng cài đặt, có sẵn các cài đặt trước cho bạn lựa chọn. Bạn có thể căn chỉnh các biểu tượng của mình ở nửa trên của màn hình hoặc nửa dưới hoặc thậm chí ở các góc trên cùng của màn hình. Bất cứ điều gì là thực sự có thể. Boxy cũng cho phép nhiều không gian hơn cho các tiện ích con của Bảng điều khiển X. Bạn không còn phải thỏa hiệp với những ứng dụng nào bạn muốn trên trang chủ của SpringBoard, giờ đây bạn có thể có tất cả chúng trên màn hình cùng với các tiện ích yêu thích của mình! Sử dụng nó theo cách bạn thích, nếu bạn thấy cách sử dụng nó mà tôi không đề cập đến, vui lòng liên hệ với tôi và cho tôi biết, tôi rất thích nghe phản hồi về các chỉnh sửa của mình. Boxy hoàn toàn tương thích với mọi thiết bị hiện nay!.</div>",
+  "changelog": {
+  "4.2.6-1": [
+      "Cải tiến và sửa lỗi.",
+      "Sửa lỗi nhị phân không tải trên thiết bị arm64e iOS 13."
+    ]
+  },
+  "screenshots": {
+    "boxy41.png": "",
+    "boxy42.png": "",
+    "boxy43.png": "",
+    "boxy44.png": "",
+    "boxy45.png": "",
+    "boxy46.png": "",
+    "boxy47.png": "",
+    "boxy48.png": "",
+    "boxy49.png": ""
+  },
+  "links": {}
+}

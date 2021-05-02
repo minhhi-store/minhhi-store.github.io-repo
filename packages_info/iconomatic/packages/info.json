@@ -1,0 +1,21 @@
+{
+  "name": "IconOmatic",
+  "package": "com.minhhi-store.iconomatic",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "2.4.9-1",
+  "dependency": "N/A",
+  "minOSVersion": "12.0",
+  "maxOSVersion": "13.8",
+  "otheriOS": "untested",
+  "description": "<div>Iconomatic 2.0 Một công cụ chủ đề iOS hoàn chỉnh. Sắp xếp gọn gàng các chủ đề và chủ đề phụ của bạn với iconomatic bao gồm giao diện người dùng được phát triển đẹp mắt dành riêng cho thiết bị của bạn. Iconomatic cũng bao gồm Trình quản lý phông chữ và Tùy chọn người dùng mạnh mẽ để kích hoạt một lĩnh vực hoàn toàn mới về khả năng tạo chủ đề. Các chủ đề kinh tế hầu như mọi thứ từ Biểu tượng đến Giao diện người dùng, Âm thanh, Phông chữ và hơn thế nữa. Tương thích với hầu hết các tinh chỉnh phổ biến hiện có của bạn, Iconomatic sẽ cung cấp và trải nghiệm người dùng mà không Engine nào khác có thể cung cấp. APP hoàn toàn mới đang phát triển và sẽ trở thành một nơi tuyệt vời để không chỉ xem và áp dụng các chủ đề mà còn hoàn toàn kiểm soát giao diện thiết bị của bạn. Hãy tận hưởng Iconomatic 2.0 BETA và là một phần của phong trào đang phát triển !.</div>",
+  "changelog": {
+  "2.4.9-1": [
+      "Cải tiến và sửa lỗi.",
+      "Đã khắc phục một số sự cố gặp sự cố khi chọn chủ đề, cài đặt ứng dụng và TẤT CẢ (trong ứng dụng) xảy ra sự cố do các yếu tố giao diện người dùng.Cập nhật Ứng dụng mà bây giờ có thể được sử dụng entirley để thay đổi chủ đề và chọn phông chữ."
+    ]
+  },
+  "screenshots": {
+    "iconomatic.png": ""
+  },
+  "links": {}
+}

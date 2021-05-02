@@ -1,0 +1,25 @@
+{
+  "name": "Nougat",
+  "package": "com.minhhi-store.nougat",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.3.1",
+  "dependency": "N/A",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "14.4",
+  "otheriOS": "untested",
+  "description": "<div>Trải nghiệm Android ngay trên thiết bị iOS của bạn! Nougat mang đến Bảng thông báo từ Android Nougat và Oreo. Nougat được xây dựng từ đầu để tích hợp liền mạch vào iOS và hoạt động giống như cách bạn mong đợi một tính năng chứng khoán.<br><br>• Để gọi Nougat, chỉ cần vuốt xuống từ trên cùng giữa thiết bị, như thể bạn đang gọi Trung tâm thông báo. Vuốt xuống từ góc trên cùng bên trái sẽ gọi Trung tâm thông báo của hệ thống trong trường hợp bạn vẫn cần truy cập vào nó. Trong lần khởi chạy đầu tiên, bạn sẽ được nhắc truy cập hướng dẫn sử dụng để tự làm quen với các cử chỉ.<br><br>• Bảng điều khiển chính bao gồm bốn mô-đun để cung cấp các phím tắt thuận tiện chỉ bằng một cái vuốt:<br><br>• Thanh trạng thái: Xem nhanh thời gian hiện tại và phần trăm pin của bạn.<br><br>• Độ sáng: Dễ dàng kiểm soát độ sáng của thiết bị của bạn.<br><br>• Chuyển đổi: Có thể tùy chỉnh chuyển đổi để điều khiển thiết bị của bạn.<br><br>• Cài đặt: Truy cập cài đặt của Nougat để nhanh chóng thay đổi bố cục hoặc chủ đề chuyển đổi.<br><br>• Bên dưới Bảng điều khiển chính, Nougat cũng cung cấp quyền truy cập thuận tiện vào các thông báo của bạn. Nhanh chóng khởi chạy và quản lý thông báo của bạn chỉ bằng một lần vuốt.<br><br>• Danh sách thông báo cũng cung cấp MiniPlayer khi nhạc đang phát, vì vậy bạn có thể tạm dừng, phát hoặc bỏ qua bản nhạc hiện tại của mình một cách dễ dàng. Nougat cũng có thể tích hợp với ColorFlow.<br><br>• Nougat đi kèm với ba chủ đề màu sắc được tích hợp sẵn để bạn lựa chọn. Nó cũng đi kèm với tùy chọn để thay đổi chủ đề của nó dựa trên giao diện hệ thống hiện tại của bạn. Bạn cũng có thể thêm, xóa hoặc sắp xếp lại các công tắc có trên bảng điều khiển chính.</div>",
+  "changelog": {
+  "1.3.1": [
+      "Cải tiến và sửa lỗi."
+    ]
+  },
+  "screenshots": {
+    "nougat.png": "",
+    "nougat1.png": "",
+    "nougat2.png": "",
+    "nougat3.png": "",
+    "nougat4.png": "",
+    "nougat5.png": ""
+  },
+  "links": {}
+}
