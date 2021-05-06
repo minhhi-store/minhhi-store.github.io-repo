@@ -1,0 +1,4031 @@
+Package: com.tqm-store.iconrepo
+Name: Icon Repo
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: yes
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Section: System
+Description: Gói icon cho source TQM-Store,hiển thị danh sách icon gói cài đặt!
+Sileodepiction: https://minhhi-store.github.io/Sileo/tqm-store.json
+Depiction: https://minhhi-store.github.io/packages_info/tqm-store/?p=info
+Icon: file:///Applications/Cydia.app/Sections/mos.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.iconrepo_1.0_iphoneos-arm.deb
+Size: 109432
+MD5sum: 58d3434c92b73b31548ae8f178d1f8eb
+SHA1: 05a41055a3f59be5f76e2fc64e064d6ab59f12df
+SHA256: 99e5ee8ad4b496ffd1e09dc8808b9d154d6feae1845f806fa99a1a4337337c43
+
+
+Package: com.minhhi-store.stash933
+Name: Stashing for iOS 9.2 - 10.2
+Depends: firmware (>= 9.2), firmware (<= 10.2), org.coolstar.cctools
+Version: 1.5.0
+Conflicts: com.tigisoftware.filza (<= 3.1.0-16)
+Architecture: iphoneos-arm
+Description: Stash 3rd party components to make more space for them!
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: CoolStar <coolstarorganization@gmail.com>
+Section: System
+Sileodepiction: https://minhhi-store.github.io/Sileo/stash933.json
+Depiction: https://minhhi-store.github.io/packages_info/stash933/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/stash933.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281pp
+Filename: ./debs/com.minhhi-store.stash933_1.5.0_iphoneos-arm.deb
+Size: 30326
+MD5sum: 0fde9a8942a0a45b9b205beff528f559
+SHA1: 5de72085d0b9f3c09e3d50f13ee0754a7bd7ae5a
+SHA256: bc988b563294ef2dd33f6dfedd6fd78a7832716e259ed0b5d739d86f79008403
+
+
+Package: com.minhhi-store.stash1033
+Name: Stashing for iOS 9.2 - 10.3.3 (32bit)
+Depends: firmware (>= 9.2), firmware (>= 10.3), org.coolstar.cctools
+Version: 1.5.0
+Conflicts: com.tigisoftware.filza (<= 3.1.0-16)
+Architecture: iphoneos-arm
+Description: Stash 3rd party components for iOS 10.3.3 (32bit)
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: CoolStar <coolstarorganization@gmail.com>
+Section: System
+Sileodepiction: https://minhhi-store.github.io/Sileo/stash1033.json
+Depiction: https://minhhi-store.github.io/packages_info/stash1033/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/stash1033.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281pp
+Filename: ./debs/com.minhhi-store.stash1033_1.5.0_iphoneos-arm.deb
+Size: 30320
+MD5sum: fd9d29219cd4577c554ee72993c53bf9
+SHA1: 62515a47d855b5c38fa89e7dbe8c2a23209d8b52
+SHA256: 4bb9907ce0dd07900cd731a590c81e73f5dc49e9cafb9884f7cb1f459e34f100
+
+
+Package: dev.midn1ght.copylog
+Name: CopyLog Cracked
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Author: TomT000
+Maintainer: TomT000
+Description: Clipboard history manager for iOS!
+Version: 1.5.3k
+Installed-Size: 4604
+Icon: https://repo.midn1ght.dev/public/dev.midn1ght.copylog/icon.png
+Depiction: https://repo.midn1ght.dev/package/dev.midn1ght.copylog
+SileoDepiction: https://repo.midn1ght.dev/package/dev.midn1ght.copylog.json
+Filename: ./debs/copylogcrack.deb
+Size: 2122360
+MD5sum: d9cae7a1646843eccd3bdb7de84306db
+SHA1: 7fa42503a9b39168ab5341735bd878d6e2fbb542
+SHA256: 1d3e78fce6362f5bcbf317a919e673bbbee41d10db8fe0a89b6aa308bbe7ea3c
+
+
+Package: com.minhhi-store.weatheraniwetqm
+Name: Weather Aniwe TQM
+Version: 1.0
+Architecture: iphoneos-arm
+Description: XenHTML Widget SB by @tqmmos ( Minh hí )
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Widgets
+Sileodepiction: https://minhhi-store.github.io/Sileo/weatheraniwetqm.json
+Depiction: https://minhhi-store.github.io/packages_info/weatheraniwetqm/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/weatheraniw.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281pp
+Filename: ./debs/com.minhhi-store.weatheraniwetqm_1.0_iphoneos-arm.deb
+Size: 61188030
+MD5sum: 5416f671d62362c243dcc660a36c2e82
+SHA1: 176697c219d16729130ae605f437de63d3839b74
+SHA256: 7d6924633488f0ac9ced9ced0d98cafb24a375a8295ce6bbb666b70fd79c6690
+
+
+Package: com.minhhi-store.PullOverPro14
+Version: 2.1.1
+Priority: optional
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Cửa sổ đa nhiệm hoàn hảo cho thiết bị của bạn!
+Depends: com.minhhi-store.cracktool4 | com.julioverne.cracktool4, firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist, com.minhhi-store.pulloverproapappview, com.minhhi-store.libapappview
+Conflicts: net.kenhtao.PullOverPro, com.minhhi-store.pulloverpro, net.kenhtao.cracktool4
+Architecture: iphoneos-arm
+Name: PullOver Pro (iOS 14) Key
+Author: c1d3r
+Sileodepiction: https://minhhi-store.github.io/Sileo/PullOverPro14.json
+Depiction: https://minhhi-store.github.io/packages_info/PullOverPro14/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/PullOverPro1.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281pp
+Filename: ./debs/com.minhhi-store.PullOverPro14_2.1.1_iphoneos-arm.deb
+Size: 1562180
+MD5sum: f8db25b3f2fd289f37998f9802a880bb
+SHA1: 942c35c2655e52bb63ccbed2194b0e9a8f57e250
+SHA256: 906d2b2fafda819b377b5b7449ccd09a636db255d6359a3cf9152f668f201342
+
+
+Package: com.minhhi-store.xenhtml
+Name: Xen HTML
+Version: 2.0~release
+Section: System
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Author: Matt Clarke <matt@incendo.ws>
+Maintainer: @tqmmos
+Description: Run HTML widgets on the Lockscreen and Homescreen
+dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/IconPackageManager.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/xenhtml.json
+Depiction: https://minhhi-store.github.io/packages_info/xenhtml/?p=info
+Homepage: https://www.facebook.com/profile.php?id=100052119013281pp
+Filename: ./debs/com.minhhi-store.xenhtml_2.0~release_iphoneos-arm.deb
+Size: 8499946
+MD5sum: 17299bf5b5c04bf6e61a0946f5864ccd
+SHA1: 77ccf7fcccdfe01defd5f5c77505f05e63819813
+SHA256: 0d185bc746a82b4bc4bb7ae42d08d977d47e1257f0477bc807c0767cb61466f0
+
+
+Package: com.minhhi-store.cracktool4
+Version: 4.0~beta9ez
+Section: Utilities
+Maintainer: @tqmmos
+Description: Crack tinh chỉnh chỉ cần một lần chạm
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Architecture: iphoneos-arm
+Name: CrackTool4 (iOS 12/13/14)
+Author: julioverne
+Sileodepiction: https://minhhi-store.github.io/Sileo/cracktool4.json
+Depiction: https://minhhi-store.github.io/packages_info/cracktool4/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/cracktool1.jpg
+Homepage: https://www.facebook.com/profile.php?id=100052119013281pp
+Filename: ./debs/com.minhhi-store.cracktool4_4.0~beta9ez_iphoneos-arm.deb
+Size: 729480
+MD5sum: 18692e52b42572952d14184a403a57d7
+SHA1: ccd8be0acbb59eaf93b8e32809d507cdde85d0e5
+SHA256: 0442db74ac82faa18c4a7193f350ba2ac15be1d31b710c6a66c40e6a652eb5f5
+
+
+Package: com.minhhi-store.reprovision
+Name: ReProvision Reborn
+Version: 0.6.2~release
+Section: System
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0)
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Author: Soh Satoh, Matt Clarke
+Maintainer: @tqmmos
+Description: Re-sign applications on your device
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/reprovision.json
+Depiction: https://minhhi-store.github.io/packages_info/reprovision/?p=info
+Homepage: https://www.facebook.com/profile.php?id=100052119013281pp
+Filename: ./debs/com.minhhi-store.reprovision_0.6.2~release_iphoneos-arm.deb
+Size: 15957180
+MD5sum: bc324bb2beb12459eb1d1af40176a20c
+SHA1: 60e356bb08ac1e89e41eebe3653d1bba80096073
+SHA256: 03abd267d2240faa3a2d08d56bbb3d4f8b6b8154c3dc4e6758fc5126265b8430
+
+
+Package: com.minhhi-store.reprovision
+Name: ReProvision Reborn
+Version: 0.6.1~release
+Section: System
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0)
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Author: Soh Satoh, Matt Clarke
+Maintainer: @tqmmos
+Description: Re-sign applications on your device
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/reprovision.json
+Depiction: https://minhhi-store.github.io/packages_info/reprovision/?p=info
+Homepage: https://www.facebook.com/profile.php?id=100052119013281pp
+Filename: ./debs/com.minhhi-store.reprovision_0.6.1~release_iphoneos-arm.deb
+Size: 15950506
+MD5sum: ed2aa7773061b3db713cc515089e62b3
+SHA1: 3bce738d4269b880ea2a428175739557b639a09d
+SHA256: aebb1447d3e385d87d3cd90e0c3851fd947e32af8fe432bb54fe47237a5c696a
+
+
+Package: com.minhhi-store.pulloverproapappview
+Name: PullOver Pro Keyboard Fix
+Architecture: iphoneos-arm
+Description: PullOver Pro Keyboard Fix
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.minhhi-store.PullOverPro14, com.minhhi-store.libapappview
+Version: 1.0
+Installed-Size: 136
+Sileodepiction: https://minhhi-store.github.io/Sileo/pulloverproapappview.json
+Depiction: https://minhhi-store.github.io/packages_info/pulloverproapappview/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/pulloverproapappview.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281pp
+Filename: ./debs/com.minhhi-store.pulloverproapappview_1.0_iphoneos-arm.deb
+Size: 7606
+MD5sum: d5c654954e7c636c2eabfdcce7d25828
+SHA1: a8f018e847455261874e9fcb6321e8f598329108
+SHA256: efa8833fb735229c2e30c8faa25e0968eba3017ba640fec2b851337634de989e
+
+
+Package: com.minhhi-store.libapappview
+Name: libAPAppView
+Architecture: iphoneos-arm
+Description: Get Application View on SpringBoard.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: System
+Tag: role::developer
+Version: 1.0
+Installed-Size: 196
+Sileodepiction: https://minhhi-store.github.io/Sileo/libapappview.json
+Depiction: https://minhhi-store.github.io/packages_info/libapappview/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/libapappview.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281pp
+Filename: ./debs/com.minhhi-store.libapappview_1.0_iphoneos-arm.deb
+Size: 32626
+MD5sum: b1fea637eaeb93fea2e1bf939c85124e
+SHA1: 0e4861f93fb19075c16f4c8ea7658019fc3ea814
+SHA256: 61ca8e27c482e4e7e7b620f1b47b8f6848478ec9a897dd69520f8a6dc2e58f6e
+
+
+Package: com.minhhi-store.altdaemon
+Name: AltDaemon
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Maintainer: @tqmmos
+Author: Riley Testut
+Section: System
+Sileodepiction: https://minhhi-store.github.io/Sileo/altstore.json
+Depiction: https://minhhi-store.github.io/packages_info/altstore/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/alt1.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.altdaemon_1.0_iphoneos-arm.deb
+Size: 833918
+MD5sum: 54eaa1b566c3d409699f59404a002db9
+SHA1: 47337e1c9b01393e37f267a6bbc94a296cfc1a4e
+SHA256: 70bf3866da6f5104c8cba70597b29e67f642717786cdd37499ff38550de12b26
+
+
+Package: com.minhhi-store.altstore.alpha.jailbroken
+Maintainer: @tqmmos
+Section: Tweaks
+Depends: firmware (>=8), com.minhhi-store.altdaemon, com.minhhi-store.appsyncunified
+Architecture: iphoneos-arm
+Version: 1.4
+Description: Jailbroken version of AltStore with on device signing feauture.
+Name: AltStore
+Author: Riley Testut
+Sileodepiction: https://minhhi-store.github.io/Sileo/altstore.json
+Depiction: https://minhhi-store.github.io/packages_info/altstore/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/alt1.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.altstore.alpha.jailbroken_1.4_iphoneos-arm.deb
+Size: 4578734
+MD5sum: 9afe1cf587a14dfe11b9dc79ea3f2dd5
+SHA1: c52928c51584982a2c996b7c831801ede0b21837
+SHA256: 43286ec69db7dc781380bd909fb28ec6acfda252f2fdc3a7187a4ce71aa0e0d7
+
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute, net.angelxwind.appsyncunified, net.kenhtao.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.4.1)
+Maintainer: @tqmmos
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: com.minhhi-store.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: System
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Version: 90.0
+Installed-Size: 732
+Sileodepiction: https://minhhi-store.github.io/Sileo/appsyncunified.json
+Depiction: https://minhhi-store.github.io/packages_info/appsyncunified/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/appsyncunified.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.appsyncunified_90.0_iphoneos-arm.deb
+Size: 88460
+MD5sum: 73f9a516d500428efccbd71db636e573
+SHA1: 7b4a12809e648ff686a77a618f24a529558ac8ec
+SHA256: 40bf86ad8e12390482bc681d5fc3d9a7db70291721e711773527213cbbb45f76
+
+
+Package: com.minhhi-store.pullOverpro
+Name: PullOver Pro
+Version: 2.1.1
+Description: A better way to multitask!
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Priority: optional
+Architecture: iphoneos-arm
+Author: c1d3r
+dev: c1d3r
+Maintainer: @tqmmos <devmos388373@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/pullOverpro.json
+Depiction: https://minhhi-store.github.io/packages_info/pullOverpro/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/PullOverPro1.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.pullOverpro_2.1.1_iphoneos-arm.deb
+Size: 1522168
+MD5sum: 139229e89fc5d0ccd78983297facda62
+SHA1: df3ebebbd6743fde9325587da282c306197eca30
+SHA256: 44f4c8dfb90adc0353aed7789d472590f0478d449557082b676bf688e29bdd41
+
+
+Package: com.minhhi-store.xenhtml
+Name: Xen HTML
+Version: 2.0~beta7.1
+Description: Run HTML widgets on the Lockscreen and Homescreen
+Section: System
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: @tqmmos
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/IconPackageManager.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/xenhtml.json
+Depiction: https://minhhi-store.github.io/packages_info/xenhtml/?p=info
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.xenhtml_2.0~beta7.1_iphoneos-arm.deb
+Size: 7760258
+MD5sum: 7acbeaf4df27e04559bc98fc69ddd4ae
+SHA1: eb2b2f172e3fd44a674616c205ada8c7049532ee
+SHA256: f3fb6886b08866463268e7e699ab88cf1bb348113e56113f876dd97b3098938c
+
+
+Package: com.minhhi-store.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: @tqmmos
+Version: 7.9.1
+Architecture: iphoneos-arm
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/icleanerpro.json
+Depiction: https://minhhi-store.github.io/packages_info/icleanerpro/?p=info
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 6756158
+MD5sum: c3cfab66b114fc93d24c7b8659889fcb
+SHA1: 75f64760919491359f0c8271ea3d3e8d28c15104
+SHA256: 311dc48ddeb5e316d453ff6b2e274617f36e3258a18111f9171cfa10c348ede5
+
+
+Package: com.minhhi-store.icleanerpro
+Version: 7.9.1N
+Section: Utilities
+Maintainer: @tqmmos
+Description: Trình dọn dẹp và tối ưu hóa hệ thống iOS tốt nhất.
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Name: iCleaner Pro
+Author: Ivano Bilenchi
+Icon: file:///Applications/iCleaner.app/Icon.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/icleanerpro.json
+Depiction: https://minhhi-store.github.io/packages_info/icleanerpro/?p=info
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.icleanerpro_7.9.1N_iphoneos-arm.deb
+Size: 6756282
+MD5sum: 6c5f28eddd0daee5fa2ca71de93b0957
+SHA1: c6012013fbcc5402543165513d99a7e2bf110f1a
+SHA256: d8f31c5c884db4e1ad33ac2782416d891d530f4f6061dc268b7eaf7445c17068
+
+
+Package: com.minhhi-store.st4
+Version: 4.1.0
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Một tinh chỉnh tuyệt vời cho thiết bị của bạn.
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Conflicts: net.kenhtao.sb4, net.kenhtao.st4
+Replaces: com.springtomize.st4
+Architecture: iphoneos-arm
+Installed-Size: 3352
+Name: Springtomize 4
+Author: sharedRoutine
+Sileodepiction: https://minhhi-store.github.io/Sileo/st4.json
+Depiction: https://minhhi-store.github.io/packages_info/st4/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/st41.jpg
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.st4_4.1.0_iphoneos-arm.deb
+Size: 922586
+MD5sum: e4ebd531f7448dd53dc2165727a34991
+SHA1: 6e1523ac1ddcb0658c21cfdcb48055496c69d90c
+SHA256: 2b8576ab320b2cdc10abe36c438dbf4b010861379dc3af9506a841f6a1319b7d
+
+
+Package: com.minhhi-store.cylinder
+Version: 1.0.1
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader, liblua5.4-0
+Conflicts: net.kenhtao.cylinder
+Architecture: iphoneos-arm
+Installed-Size: 1212
+Name: Cylinder
+Author: Reed Weichler
+Sileodepiction: https://minhhi-store.github.io/Sileo/cylinder.json
+Depiction: https://minhhi-store.github.io/packages_info/cylinder/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/cylinder.jpg
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.cylinder_1.0.1_iphoneos-arm.deb
+Size: 233056
+MD5sum: f40dfad2a472ea0caba963b36a810d14
+SHA1: 55d926ff5bcf91aed279fa171b625866c167a04e
+SHA256: 9240d9b902ba703d2b898247e3698812d2f8d40f672d6a84268b5bec7d5f424f
+
+
+Package: xyz.willy.zebra
+Name: Zebra
+Architecture: iphoneos-arm
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Description: A Useful Package Manager
+Maintainer: Wilson Styres <wilson@styres.me>
+Author: Wilson Styres <wilson@styres.me>
+Section: Packaging
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Tag: compatible::9.0-14.2
+Version: 1.1.15
+Installed-Size: 58328
+Sileodepiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Icon: https://minhhi-store.github.io/packages_info/screenshots/zebra.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/xyz.willy.zebra_1.1.15_iphoneos-arm.deb
+Size: 19159146
+MD5sum: 26b417d613852bf95d310eac1399da48
+SHA1: 4ef3620b5f7ceb8b8401cb35800338bc6efb9293
+SHA256: 490c5c21af2a1a9e0352b7492cfc49707d2ef39933293229c565b156d695867b
+
+
+Package: com.minhhi-store.dockroll
+Version: 0.0.2-20
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Thanh Dock theo kiểu hoàn toàn mới!
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 500
+Name: Dock & Roll
+Author: freeappl3
+Sileodepiction: https://minhhi-store.github.io/Sileo/dockroll.json
+Depiction: https://minhhi-store.github.io/packages_info/dockroll/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/dockroll.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.dockroll_0.0.2-20_iphoneos-arm.deb
+Size: 150070
+MD5sum: c6b54b656bcbe1893d5495383d151450
+SHA1: 3c7c42ace5b76053380e00ce9bca294a51686b22
+SHA256: f59eff37148f8579d9338d0952fc3664ad5c05144b8aba7f9da63e17996d0db5
+
+
+Package: com.minhhi-store.nougat
+Version: 1.3.1
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Trải nghiệm Android ngay trên thiết bị iOS của bạn!
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.a3tweaks.flipswitch, com.shade.libpalette
+Architecture: iphoneos-arm
+Installed-Size: 10112
+Name: Nougat
+Author: Shade Zepheri
+Sileodepiction: https://minhhi-store.github.io/Sileo/nougat.json
+Depiction: https://minhhi-store.github.io/packages_info/nougat/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/nougat.jpg
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.nougat_1.3.1_iphoneos-arm.deb
+Size: 1490680
+MD5sum: d79ccbd2472845ec734421027f9c3bf9
+SHA1: 3898441a025a7779a104bf65d783db03732ede91
+SHA256: d0b79b082fce870ce798d6efe5bc35eb524b5406e46862bdcdb80e5cc33d09ac
+
+
+Package: com.minhhi-store.filza
+Name: Filza File Manager
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Maintainer: @tqmmos
+Author: TIGI Software
+Section: Utilities
+Version: 3.8.1-22
+Installed-Size: 32112
+Sileodepiction: https://minhhi-store.github.io/Sileo/filza.json
+Depiction: https://minhhi-store.github.io/packages_info/filza/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/filza.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.filza_3.8.1-22_iphoneos-arm.deb
+Size: 12944386
+MD5sum: e432d21220b0b03912cc57eb55aad955
+SHA1: 016e50ababdd1579e8c009b8a0ae42ee2edfe2a7
+SHA256: d09f64e5d4fa958a33189f7e7f2e6d3c877bc1aa9dbcd403c0b2178e630621f2
+
+
+Package: com.minhhi-store.filza
+Version: 3.8.1-24
+Priority: optional
+Section: Utilities
+Maintainer: @tqmmos
+Description: Trình quản lý tập tin cho iOS của bạn!
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, net.kenhtao.filza64bit
+Architecture: iphoneos-arm
+Installed-Size: 31996
+Name: Filza File Manager
+Author: TIGI Software
+Sileodepiction: https://minhhi-store.github.io/Sileo/filza.json
+Depiction: https://minhhi-store.github.io/packages_info/filza/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/filza.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.filza_3.8.1-24_iphoneos-arm.deb
+Size: 12978716
+MD5sum: 3f8a231f2844d25dc98d159514506805
+SHA1: 6a1c7745e9b5c5a839926fc204a99febe32abe8e
+SHA256: 5bb0ff2c98f4a4fe5e5a0607a9cdd617b427946a06f6283368d6324ae21dbb44
+
+
+Package: com.minhhi-store.filza64bit
+Name: Filza File Manager 64-bit
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Maintainer: @tqmmos
+Author: TIGI Software
+Section: Utilities
+Version: 3.8.1-22
+Installed-Size: 21768
+Sileodepiction: https://minhhi-store.github.io/Sileo/filza.json
+Depiction: https://minhhi-store.github.io/packages_info/filza/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/filza.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.filza64bit_3.8.1-22_iphoneos-arm.deb
+Size: 8380146
+MD5sum: 70eb25522023740b4be64495caacc318
+SHA1: ca642505377ffa86c45cd4847f99c785be4590eb
+SHA256: cc6a4bd7ee38d977e53bbf051e112e9d9a80c19803bb862dd1005bc40ac7bc1f
+
+
+Package: com.minhhi-store.filza64bit
+Version: 3.8.1-24
+Section: Utilities
+Maintainer: @tqmmos
+Description: Trình quản lý tập tin cho iOS của bạn!
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, net.kenhtao.filza
+Architecture: iphoneos-arm
+Installed-Size: 21724
+Name: Filza File Manager (64)
+Author: TIGI Software
+Sileodepiction: https://minhhi-store.github.io/Sileo/filza.json
+Depiction: https://minhhi-store.github.io/packages_info/filza/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/filza.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.filza64bit_3.8.1-24_iphoneos-arm.deb
+Size: 8414598
+MD5sum: f72417f003e6e177769abf0e80d5814b
+SHA1: 3ebd5862085a36cdb9f568f8754405cfa8a8647a
+SHA256: 3dc9d6fe6386d8f05ff295f7b9228c91c02abbac37a85bd012f5d5bcad915c95
+
+
+Package: com.minhhi-store.iconomatic
+Version: 2.4.9-1
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Một tinh chỉnh cho chủ đề trên màn hình chính.
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: IconOmatic
+Author: FreeApple
+Sileodepiction: https://minhhi-store.github.io/Sileo/iconomatic.json
+Depiction: https://minhhi-store.github.io/packages_info/iconomatic/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/iconomatic.jpg
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.iconomatic_2.4.9-1_iphoneos-arm.deb
+Size: 39846672
+MD5sum: 78e5799e1229e77439cc082af1ac9e95
+SHA1: d5404c6a13c7636c765f4debf04fe74297e3786f
+SHA256: 8853acf37af1a0987e42b501ab8f32935f4ba7601782d40898ab986fdd4bee72
+
+
+Package: com.minhhi-store.boxy4
+Version: 4.2.6-1
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Sắp xếp các biểu tượng trên màn hình chính.
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Architecture: iphoneos-arm
+Installed-Size: 3532
+Name: Boxy 4 (iOS 13 - 14)
+Author: William Vabrinskas
+Sileodepiction: https://minhhi-store.github.io/Sileo/boxy4.json
+Depiction: https://minhhi-store.github.io/packages_info/boxy4/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/boxy41.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.boxy4_4.2.6-1_iphoneos-arm.deb
+Size: 2854544
+MD5sum: 814a76a2afd80cb5b0f5e5ca0fd520ec
+SHA1: 3dc691139d487d8dde994410aee59dbdfa5486ff
+SHA256: b88b4428dc9af2b57fa7a1bf589ca315f0f7230d2d15deecf4d8252e196a62a7
+
+
+Package: com.minhhi-store.cracktool4
+Version: 4.0~beta9eo
+Section: Utilities
+Maintainer: @tqmmos
+Description: Crack tinh chỉnh chỉ cần một lần chạm
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Architecture: iphoneos-arm
+Name: CrackTool4 (iOS 12/13/14)
+Author: julioverne
+Sileodepiction: https://minhhi-store.github.io/Sileo/cracktool4.json
+Depiction: https://minhhi-store.github.io/packages_info/cracktool4/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/cracktool4.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.cracktool4_4.0~beta9eo_iphoneos-arm.deb
+Size: 729496
+MD5sum: 460cb30047a1a4df08eecf06d085151c
+SHA1: c5fcc04f47415e19cffc966f818231510e37ef18
+SHA256: 6f220f415b4228bf34b076dbc37f6822d69ae4c8d89dfe0de8631eeb2848a892
+
+
+Package: com.minhhi-store.cydown
+Version: 7.1.1
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Trình quản lý nâng cao hơn dành cho Cydia.
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/cydown.json
+Depiction: https://minhhi-store.github.io/packages_info/cydown/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/cydown.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.cydown_7.1.1_iphoneos-arm.deb
+Size: 4358160
+MD5sum: b7a20e074cdb082b33f9e8929e284f36
+SHA1: 7e821d72d664d720f15185ea07ebb4408db7b28f
+SHA256: 929fed93bb1d04704a43259c7af41a5ccaf705d31d41546ce15d1e208bda0179
+
+
+Package: com.minhhi-store.ithemer
+Name: iThemer
+Version: 2.0.0-3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Installed-Size: 2112
+Author: DODGraphics <dodgraphics.1010@gmail.com>
+Maintainer: @tqmmos
+Description: An awesome MobileSubstrate tweak!
+Sileodepiction: https://minhhi-store.github.io/Sileo/ithemer.json
+Depiction: https://minhhi-store.github.io/packages_info/ithemer/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/ithemer1.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.ithemer_2.0.0-3_iphoneos-arm.deb
+Size: 399668
+MD5sum: 7eaf3b891ed3d91b45af8466111de942
+SHA1: b9d9fcd46c0de066dab49b293e1fcb3c6280e928
+SHA256: 2e24cc81cc14537e04f6a60ee1c2ce4b80637a9d3a9e2d3d86f5e67ca885f606
+
+
+Package: com.minhhi-store.lynx-2
+Version: 2.0.3-1
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Cấu hình thiết bị theo cách bạn muốn!
+Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader (>= 2.2.3), ws.hbang.common
+Architecture: iphoneos-arm
+Installed-Size: 2948
+Name: Lynx 2
+Author: MTAC <mtactheming@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/lynx-2.json
+Depiction: https://minhhi-store.github.io/packages_info/lynx-2/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/lynx-21.jpg
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.lynx-2_2.0.3-1_iphoneos-arm.deb
+Size: 1592478
+MD5sum: 0d62479e36e19e7ad0fe55e4171c4389
+SHA1: 9df7d35d92c263f5b76d90702a93cf7fbdc26564
+SHA256: b7498cc7d19f0de6ded4c0aa4d38c015601aed2617dd5a08e0d0a0f348c11b9b
+
+
+Package: com.minhhi-store.mywall
+Version: 1.1
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Chèn hình nền ở mọi nơi trên iOS của bạn!
+Depends: mobilesubstrate, com.muirey03.libimagepicker, ws.hbang.common (>= 1.14), applist
+Architecture: iphoneos-arm
+Installed-Size: 2232
+Name: MyWall
+Author: Dylan West
+Sileodepiction: https://minhhi-store.github.io/Sileo/mywall.json
+Depiction: https://minhhi-store.github.io/packages_info/mywall/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/mywall.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.mywall_1.1_iphoneos-arm.deb
+Size: 1873998
+MD5sum: a5f678e750090112158ca38121b170ef
+SHA1: 9d68c3249818c4efedab64cf201e5a48be483f17
+SHA256: 92f9cb4ab1af22030a119114d9ad0f85ea084c997847d9bd6d483868809fe573
+
+
+Package: com.minhhi-store.st5
+Version: 5.1.9
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Một tinh chỉnh tuyệt vời cho thiết bị của bạn.
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Installed-Size: 2408
+Name: Springtomize 5
+Author: sharedRoutine
+Sileodepiction: https://minhhi-store.github.io/Sileo/st5.json
+Depiction: https://minhhi-store.github.io/packages_info/st5/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/st51.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.st5_5.1.9_iphoneos-arm.deb
+Size: 726086
+MD5sum: 875850a0d657218ef0a9617c421a04d5
+SHA1: ae431bc8e431e0c8a97c0e119f6dad68ae4caa8b
+SHA256: 772f90f49cb8e6320919720340187b2f0185f9ff2b240c19fab6b074c5fcf31c
+
+
+Package: com.minhhi-store.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: @tqmmos
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Version: 1.4.4-Beta4
+Installed-Size: 4852
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard_1.4.4-Beta4_iphoneos-arm.deb
+Size: 2343352
+MD5sum: 6011405119c0b3950d02618f0d4e2401
+SHA1: c8c30a25fdca880818d746db79b5e9ff059db547
+SHA256: 3e40e273026f2aacf804bf4cc05fc01786072cf368e44eb0e362f24c74b3709e
+
+
+Package: com.minhhi-store.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: @tqmmos
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Version: 1.4.7~Beta4
+Installed-Size: 4892
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard_1.4.7~Beta4_iphoneos-arm.deb
+Size: 2377230
+MD5sum: b6f74b9aeaef380a04d406a98a6bac37
+SHA1: 43262658fdcee6dee9be1b6344714c818dde6e5c
+SHA256: f967e44a1d7c4926749dce438a9a79881366ed801000df3e86b8c946cd50134d
+
+
+Package: com.minhhi-store.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: @tqmmos
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Version: 1.4.2~Beta4
+Installed-Size: 4884
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard_1.4.2~Beta4_iphoneos-arm.deb
+Size: 2344576
+MD5sum: 4dde429675c8e5e3a3368fb157069f9e
+SHA1: 4936cd637a95405de8ae26ba651004c7642ca9be
+SHA256: fb9742c747187c213926c5e5e58c73d7db6d03a41d00b12c33046a828ed05d50
+
+
+Package: com.minhhi-store.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: @tqmmos
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Version: 1.4.9~Beta4
+Installed-Size: 4648
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard_1.4.9~Beta4_iphoneos-arm.deb
+Size: 2254610
+MD5sum: dbae8927344737bf9d2a8968974b83c7
+SHA1: a7090aa47cb48a09416c218a95518aed7a18e19e
+SHA256: 6ca0bebe1b621730ee747a01d0a8c9ca0735d573cf2de3aa5fc12eb7f2593af7
+
+
+Package: com.minhhi-store.snowboard.ui
+Name: SnowBoard UI Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: UI Extension for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.0.60~Beta3
+Installed-Size: 444
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.ui_1.0.60~Beta3_iphoneos-arm.deb
+Size: 122490
+MD5sum: e7050d300f56cc80afe9b10aa363b6b6
+SHA1: 1975f2a54df7f33c967055d72821352033517720
+SHA256: dc0e8a30ce32fa712e397e39528e9e7107799e8bf81117170b4e55b5b6b0aef6
+
+
+Package: com.minhhi-store.snowboard.statusbar
+Name: SnowBoard StatusBar Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: StatusBar for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.0.10-Beta3
+Installed-Size: 456
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.statusbar_1.0.10-Beta3_iphoneos-arm.deb
+Size: 72940
+MD5sum: 21edd2b9e26d50f2bd1826f1d0dd0f05
+SHA1: 7bc053913064715984dba04d7c6db1b41238d41e
+SHA256: 6ee6ad85db75d1880d0ec75c2cced4d0865f26ff38b498553db0a8ba787d8294
+
+
+Package: com.minhhi-store.snowboard.masks
+Name: SnowBoard Icon Masks Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Icon masks for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.1.0~Beta4
+Installed-Size: 356
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.masks_1.1.0~Beta4_iphoneos-arm.deb
+Size: 55508
+MD5sum: 68d3de3a3d855af1b268787f5fcc11c5
+SHA1: 60a363a97a59974d282cb52575ec5d09c549c0b4
+SHA256: 74b8beabffac421cf20ed8d5525d0feacf1c2c9a94e78f1534b74a59c78c936a
+
+
+Package: com.minhhi-store.snowboard.labels
+Name: SnowBoard Labels Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Labels for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.1.0~Beta4
+Installed-Size: 400
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.labels_1.1.0~Beta4_iphoneos-arm.deb
+Size: 40336
+MD5sum: 38a910689fdc838a2b2350fe30853bde
+SHA1: 4f74ab82fec5e93790305de3992612a07d30fb82
+SHA256: 0bd43316861faf8905755aff16a5a2d1e3f4ea10467beb44285f6e066ff790e7
+
+
+Package: com.minhhi-store.snowboard.blur
+Name: SnowBoard Icon blur Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Icon blur for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 0.0.2~Beta1
+Installed-Size: 468
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.blur_0.0.2~Beta1_iphoneos-arm.deb
+Size: 62928
+MD5sum: 8602342418a67818ea990586387e6951
+SHA1: 1e179859dd3adeb5e4b5ede482061299cbbd85ae
+SHA256: ab2e1c37e65f6d358ba94c6c6bf1e43b6fee4352ac9b40a9b319f552aa5fa8e8
+
+
+Package: com.minhhi-store.snowboardapplication
+Name: SnowBoard
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.0.3~Beta2
+Installed-Size: 1020
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboardapplication_1.0.3~Beta2_iphoneos-arm.deb
+Size: 695360
+MD5sum: 1da16db7d4f11d958529525ee83d082c
+SHA1: a19f83bcf912e068941ebfeed79d732d47766507
+SHA256: 63dfb4817752aba812e92cca8223bf23f1829157532658623a79dedae3c70185
+
+
+Package: com.minhhi-store.snowboard.pagedots
+Name: SnowBoard Page Dots Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Page Dots for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.1.0~Beta4
+Installed-Size: 452
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.pagedots_1.1.0~Beta4_iphoneos-arm.deb
+Size: 62272
+MD5sum: ec552c0c060fa53793794d34a9e6b464
+SHA1: e1eaebdfa5cde13f1b18651e5e4f09ffb44ae17a
+SHA256: 7b90f5acc5891548f1c2f7bc5003eb5a37ddf5d9b437ddb1c16fb44ade281f82
+
+
+Package: com.minhhi-store.snowboard.dock
+Name: SnowBoard Dock Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dock for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.1.0~Beta4
+Installed-Size: 512
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.dock_1.1.0~Beta4_iphoneos-arm.deb
+Size: 90958
+MD5sum: 702b0f62a21116aa440472ad39b90640
+SHA1: bd835d5133dbfcc9ba08e37c7da4790752fc5b4d
+SHA256: f9466beac19eec9ff640631f3096134f795e459f937574444ed6efc9b443a5e4
+
+
+Package: com.minhhi-store.snowboard.respringextension
+Name: SnowBoard Respring Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Respring icon extension for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.0.7~Beta3
+Installed-Size: 596
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm.deb
+Size: 79560
+MD5sum: e1155a083361f52d9cbabba8b50f3526
+SHA1: 47091af72b2addc48d0f94846c0cc93f2c6e0843
+SHA256: 5cc16bbd8c678452f37ea21c86b2b4335615b8864c7013c7ae8dbffae4bf38fd
+
+
+Package: com.minhhi-store.snowboard.effects
+Name: SnowBoard Icon Effects Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Icon Effects for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.1.0~Beta4
+Installed-Size: 408
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.effects_1.1.0~Beta4_iphoneos-arm.deb
+Size: 107132
+MD5sum: 7b673a7d024ec5d58083a248668ebe33
+SHA1: b0e8a95e62ea7a067fb8ef7c6d11148c8cbbd995
+SHA256: 10edd5dfd03e290f277fea7389d6e5eed9a1d0e0b7e7338eba49bfc0f63a00d8
+
+
+Package: com.minhhi-store.snowboard.settingsicons
+Name: SnowBoard Settings Icons Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Settings Icons for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.0.25~Beta3
+Installed-Size: 452
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.settingsicons_1.0.25~Beta3_iphoneos-arm.deb
+Size: 54432
+MD5sum: 5345c2a6396f98022473aaa8c1fa5310
+SHA1: 6ef6f198d7e6126ce5e02be83e5dd2a94ece0231
+SHA256: 2ea05b5cfba2282f8f51527397ca36398f0076f0e000538405befc14edd3c5a3
+
+
+Package: com.minhhi-store.snowboard.fonts
+Name: SnowBoard Fonts Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Fonts for SnowBoard
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 1.0.12~Beta4
+Installed-Size: 400
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.fonts_1.0.12~Beta4_iphoneos-arm.deb
+Size: 37846
+MD5sum: e7a8399815d941f334f1d143b8f31828
+SHA1: cc8eb7a91b87c9f3a1a649db940514d3a57ea192
+SHA256: 11e371469009138834a267375cf193a8bc3af01a063064de431e6d2d9bc9ca32
+
+
+Package: com.minhhi-store.snowboard.sounds
+Name: SnowBoard Sounds Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Sounds for SnowBoard
+Maintainer: @tqmmos
+Author: Spark
+Section: Utilities
+Version: 0.0.3~Beta4
+Installed-Size: 400
+Sileodepiction: https://minhhi-store.github.io/Sileo/snowboard.json
+Depiction: https://minhhi-store.github.io/packages_info/snowboard/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/snowboard.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.snowboard.sounds_0.0.3~Beta4_iphoneos-arm.deb
+Size: 40946
+MD5sum: 8e6cb0d048229d1d896bb4346f212316
+SHA1: fb96f913b2356ab004233529723b6b727436cecb
+SHA256: 86bea63bf288f580495cacae09aedd8d40ef24160866d2f8e4948abf9b2d82a8
+
+
+Package: com.c1d3r.messageheadsxi
+Name: Chat Bong Bóng 
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Chát messager bong bóng như android ,tiện hơn khi bạn là ng hay nt
+Author: C1d3 <anhminh311105@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 10), mobilesubstrate, com.rpetrich.rocketbootstrap, com.minhhi-store.crack, com.minhhi-store.mhfbsupport, com.minhhi-store.mhwasupport, com.minhhi-store.mhsmssupport, com.minhhi-store.mhtelegramsupport
+Conflicts: com.c1d3r.mhfbsupport, com.c1d3r.mhwasupport, com.c1d3r.mhsmssupport
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.c1d3r.messageheadsxi_2.0_iphoneos-arm.deb
+Size: 2045676
+MD5sum: 590380929373f217f5c27e7019f4f364
+SHA1: 264c2e2cb565eda4655fa35fe14c455141375132
+SHA256: d649dddf2b658d9c5dc616569ea4d707b42f5cd0b6ba1521275cf53b86513312
+
+
+Package: com.minhhi-store.crack
+Name: Crack
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Gói phụ chợ tweaks chatxi
+Author: @tqmmos
+Section: Utilities
+Maintainer: @tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.crack_0.1_iphoneos-arm.deb
+Size: 1050
+MD5sum: 09683dbd25b941a1380a68178b061f04
+SHA1: 60ba93f4efde3414bcb22b0295856998f8bbd4a1
+SHA256: 6712e69af3f1beade60c621939f05570e1f5ebe2b1b2608301558a9970732ae2
+
+
+Package: com.minhhi-store.libchatheads13
+Name: libChatHeads13
+Depends: mobilesubstrate, com.c1d3r.messageheadsxi (<=3.0~b2)
+Conflicts: com.rpgfarm.chatheads13, com.rpgfarm.chatbubbleslite
+Architecture: iphoneos-arm
+Description: ChatHeads Support Library
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Version: 1.0.1
+Installed-Size: 168
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.libchatheads13_1.0.1_iphoneos-arm.deb
+Size: 66762
+MD5sum: bf795df132cebfb410ea1c330a0e8278
+SHA1: 3f6b405de34110972fa3047e2a0fd0f19867255a
+SHA256: bd239785975ec630bb733507723fbb0f002dac54cbb4d6e38ab14c344867273c
+
+
+Package: com.minhhi-store.mhfbsupport
+Name: ChatHeads Messenger Support
+Depends: mobilesubstrate, com.minhhi-store.libchatheads13
+Architecture: iphoneos-arm
+Description: ChatHeads Support Library
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Version: 1.0
+Installed-Size: 136
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.mhfbsupport_1.0_iphoneos-arm.deb
+Size: 12068
+MD5sum: d1ea7e022d93a2718d8c720398175087
+SHA1: 3415a1787f2105c08ae1057007bdcf3d5d167d72
+SHA256: c3cf5588bd92509c99ebd711467da68760f9f85d50ff748339567c6d6e191b04
+
+
+Package: com.minhhi-store.mhsmssupport
+Name: ChatHeads SMS/iMessage Support
+Depends: mobilesubstrate, com.minhhi-store.libchatheads13
+Architecture: iphoneos-arm
+Description: ChatHeads Support Library
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Version: 1.0
+Installed-Size: 136
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.mhsmssupport_1.0_iphoneos-arm.deb
+Size: 10816
+MD5sum: 771a5b12ed86845b500f81961a98e662
+SHA1: dd5eb078656fcd782acdd7430c06adc80f7672e1
+SHA256: ba3403cc583888cbc35037199b588b4d1af09c64b5feed3e24a013d023214e7f
+
+
+Package: com.minhhi-store.mhtelegramsupport
+Name: ChatHeads Telegram Support
+Depends: mobilesubstrate, com.minhhi-store.libchatheads13
+Architecture: iphoneos-arm
+Description: ChatHeads Support Library
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Version: 1.0
+Installed-Size: 72
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.mhtelegramsupport_1.0_iphoneos-arm.deb
+Size: 2072
+MD5sum: bec11d4dba7617eaf1c3abce584c0aa8
+SHA1: 05836c4ed7f6ebddead1a0c290dd6e6903e15683
+SHA256: 6ddff5fd401a2eff31fc7654cbb2126217b2fdce0892e2e7c9a50119fdee057b
+
+
+Package: com.minhhi-store.mhwasupport
+Name: ChatHeads WhatsApp Support
+Depends: mobilesubstrate, com.minhhi-store.libchatheads13
+Architecture: iphoneos-arm
+Description: ChatHeads Support Library
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Version: 1.0
+Installed-Size: 136
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.mhwasupport_1.0_iphoneos-arm.deb
+Size: 12942
+MD5sum: 2ff9131bdd9c7f297eb02164fb4dbaf6
+SHA1: ccebba1ba308bd0d7ae07b3fa06e9cabfe58401e
+SHA256: bcc6356029688d162c64ede0bc1de890d98abe3e43572600256e60e583515516
+
+
+Package: com.minhhi-store.settingsbuttons
+Name: SettingsButtons
+Architecture: iphoneos-arm
+Description: Buttons for Settings NavBar!
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Ethan Whited <ethanwhited2208@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.1
+Installed-Size: 168
+Tag: compatible_min::ios13.0, compatible_max::ios14.2
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/settingsbuttons.json
+Depiction: https://minhhi-store.github.io/packages_info/settingsbuttons/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/settingsbuttons.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.settingsbuttons_1.1_iphoneos-arm.deb
+Size: 11348
+MD5sum: 6db4722c33f1480e4c63a534a3a95f86
+SHA1: b277cd59efdc1236c37621de45acbf8326858c9c
+SHA256: 420e1f41a0cb356eecbefba4f9a346fc8a4e93b69031e4749b3913cbb73cb411
+
+
+Package: com.minhhi-store.xenhtml
+Name: Xen HTML
+Version: 2.0~beta7
+Description: Run HTML widgets on the Lockscreen and Homescreen
+Section: System
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: @tqmmos
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/IconPackageManager.png
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/xenhtml.json
+Depiction: https://minhhi-store.github.io/packages_info/xenhtml/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/xenhtml1.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.xenhtml_2.0~beta7_iphoneos-arm.deb
+Size: 7760186
+MD5sum: 9bd0177cbc525e602a15a6ffe62731dc
+SHA1: 159815ddd6189988f55c740d03a6c3290c2989db
+SHA256: f7220052188748214c40481f69e947386a317597524e11aa5cd82c3838fe9855
+
+
+Package: com.minhhi-store.chatbubbleskakaotalk
+Name: ChatBubbles KakaoTalk Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: ChatBubbles KakaoTalk Support.
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Conflicts: com.rpgfarm.kakaoheadsplus, com.minhhi-store.kakaoheadsplus
+Version: 1.0.2
+Installed-Size: 140
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.chatbubbleskakaotalk_1.0.2_iphoneos-arm.deb
+Size: 15682
+MD5sum: 6caf1bd0d42982a1299a9152b069641b
+SHA1: e97365c3947671e5aeb245614ec82e2753d6d310
+SHA256: 02dbdcc6fda3f5f9c06e87b97b12e9ee9628a8d4857049cba621f5d7aedd545b
+
+
+Package: com.minhhi-store.chatbubbleslite
+Name: Chat Bong Bong
+Depends: mobilesubstrate, firmware (>=12), com.minhhi-store.chatbubblesmessenger, com.minhhi-store.chatbubblessms
+Architecture: iphoneos-arm
+Description: Inspired by Android 11 ChatBubble.
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Conflicts: com.rpgfarm.kakaoheadsplus, com.minhhi-store.kakaoheadsplus
+Version: 0.3
+Installed-Size: 1036
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.chatbubbleslite_0.3_iphoneos-arm.deb
+Size: 377358
+MD5sum: 0ef2d6ed6898b24a0543918d111cb235
+SHA1: dc9fe0a4184736ae89ad13d29b357965de509e10
+SHA256: 3c435854a7b3634031bcfc71dd1a7147bc9ff6fbb02e80b767b62411811b9cff
+
+
+Package: com.minhhi-store.chatbubbleslite
+Name: ChatBubbles Lite
+Depends: mobilesubstrate, firmware (>=12), com.minhhi-store.libapappview, com.minhhi-store.chatbubblesmessenger, com.minhhi-store.chatbubblessms
+Architecture: iphoneos-arm
+Description: Inspired by Android 11 ChatBubble.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Conflicts: com.rpgfarm.kakaoheadsplus
+Version: 0.5
+Installed-Size: 1000
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.chatbubbleslite_0.5_iphoneos-arm.deb
+Size: 316936
+MD5sum: 5104e13e0ed002bacaaa8b71ed885cd9
+SHA1: a0ee0d8e816a758312afd8d86dbd459d60234251
+SHA256: 452ff69a957db83216b1e5ec62590766db0cb4e1a0589048e2fce7248d87e7d6
+
+
+Package: com.minhhi-store.chatbubblesmessenger
+Name: ChatBubbles Messenger Extension
+Depends: mobilesubstrate, com.minhhi-store.chatbubbleslite
+Architecture: iphoneos-arm
+Description: ChatBubbles Messenger Support.
+Maintainer: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Conflicts: com.rpgfarm.kakaoheadsplus, com.minhhi-store.kakaoheadsplus
+Version: 1.0.6
+Installed-Size: 136
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.chatbubblesmessenger_1.0.6_iphoneos-arm.deb
+Size: 19742
+MD5sum: b3bd545b8f3a9a8305234ac14237a783
+SHA1: afcc0c9c92c2038b1b40d86a412748e5d23ca3ba
+SHA256: ba105cc11cc291b84ff2128889969c5c9a12c4259627ef3a901946d6dcb169c6
+
+
+Package: com.minhhi-store.chatbubblessms
+Name: ChatBubbles SMS/iMessage Extension
+Depends: mobilesubstrate, com.minhhi-store.chatbubbleslite
+Architecture: iphoneos-arm
+Description: ChatBubbles SMS/iMessage Support.
+Maintainer: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Conflicts: com.rpgfarm.kakaoheadsplus, com.minhhi-store.kakaoheadsplus
+Version: 1.0.1
+Installed-Size: 136
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.chatbubblessms_1.0.1_iphoneos-arm.deb
+Size: 19294
+MD5sum: 28c73c60691c37015e8944603a809336
+SHA1: a10c9ca07d151e48079a9faec5ecbc4039461b30
+SHA256: d2bde5c4af0c4dc1e2fb9867d37952139666aed22f9299c32a7ef9a407948931
+
+
+Package: com.minhhi-store.dropbear
+Version: 1.0
+Name: Dropbear
+Section: System
+Depends: firmware (>= 1.0)
+Architecture: iphoneos-arm
+Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: CoolStar <coolstarorganization@gmail.com>
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/dropbear.json
+Depiction: https://minhhi-store.github.io/packages_info/dropbear/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/dropbear.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.dropbear_1.0_iphoneos-arm.deb
+Size: 1831608
+MD5sum: 5752854bfa26451d1ce87b54830d4be3
+SHA1: 138c64642710316a888fd88c6d1195c2955d9b2c
+SHA256: 35c9070cda35a4067fd9066176ebe77a65567cde47c801b74c87e15a1fe33903
+
+
+Package: com.minhhi-store.chatbubbleslite
+Name: Chat Bong Bong
+Depends: mobilesubstrate, firmware (>=12), com.minhhi-store.chatbubblesmessenger, com.minhhi-store.chatbubblessms
+Architecture: iphoneos-arm
+Description: Inspired by Android 11 ChatBubble.
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Conflicts: com.rpgfarm.kakaoheadsplus, com.minhhi-store.kakaoheadsplus
+Version: 0.4.1
+Installed-Size: 1036
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.chatbubbleslite_0.4.1_iphoneos-arm.deb
+Size: 357286
+MD5sum: 2abe942c6a91f56f649461bddc24bc0d
+SHA1: e5a89699a11c0d63b2968a74e84522a8c1cd7cd2
+SHA256: d5c066612d3ca33d3e49eaa1cd21ce139671b0452a02a377583eee44913846d3
+
+
+Package: com.minhhi-store.chatbubbleslite
+Name: Chat Bong Bong
+Depends: mobilesubstrate, firmware (>=12), com.minhhi-store.chatbubblesmessenger, com.minhhi-store.chatbubblessms
+Architecture: iphoneos-arm
+Description: Inspired by Android 11 ChatBubble.
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Conflicts: com.rpgfarm.kakaoheadsplus, com.minhhi-store.kakaoheadsplus
+Version: 0.4
+Installed-Size: 1016
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.chatbubbleslite_0.4_iphoneos-arm.deb
+Size: 374412
+MD5sum: df2373ffa92b5fd0696b59332ef89739
+SHA1: 5b27c94750f3dd25658719479a32194a8a251ae4
+SHA256: 62b6f57981e8d8cfaf599ae4cc6422e8f19c3ec314fd3bf2003528be42503caa
+
+
+Package: com.minhhi-store.chatbubblesmessenger
+Name: ChatBubbles Messenger Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: ChatBubbles Messenger Support.
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Conflicts: com.rpgfarm.kakaoheadsplus, com.minhhi-store.kakaoheadsplus
+Version: 1.0.4
+Installed-Size: 136
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.chatbubblesmessenger_1.0.4_iphoneos-arm.deb
+Size: 18658
+MD5sum: f71afcb683b01eb3f96e0e9209150a87
+SHA1: 5ac3ffdf6173fe5e437d1fd0d53ab9c1060ff483
+SHA256: f8d99d8e9add0d70398ec8f7417f358092d2719c09ed02683acd673af92df473
+
+
+Package: com.minhhi-store.chatbubblessms
+Name: ChatBubbles SMS/iMessage Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: ChatBubbles SMS/iMessage Support.
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Conflicts: com.rpgfarm.kakaoheadsplus, com.minhhi-store.kakaoheadsplus
+Version: 1.0
+Installed-Size: 136
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.chatbubblessms_1.0_iphoneos-arm.deb
+Size: 18248
+MD5sum: fb4bf3750002f973d0d0cef28bf805aa
+SHA1: a22b0d93793ed1dab1cb3ec3d2bca7ed68b91f27
+SHA256: a69815f9c1cf83e36d8115bf49c7ba5a733635f56840774d88c63461df7c9642
+
+
+Package: com.minhhi-store.chatbubblestelegram
+Name: ChatBubbles Telegram Extension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: ChatBubbles Telegram Support.
+Maintainer: @tqmmos
+Author: Baw Appie <pp121324@gmail.com>
+Section: Utilities
+Conflicts: com.rpgfarm.kakaoheadsplus, com.minhhi-store.kakaoheadsplus
+Version: 1.0
+Installed-Size: 136
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/chatbubbleslite.json
+Depiction: https://minhhi-store.github.io/packages_info/chatbubbleslite/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/chat2.PNG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.chatbubblestelegram_1.0_iphoneos-arm.deb
+Size: 11180
+MD5sum: 67ec3d93be4de5ec9ff440affd2eae70
+SHA1: d3a6d1478881cf09c7d0c0642b891bb6b0e97f56
+SHA256: 3b0630ee235c4cb5b463366b8141dd5cbae5ec44d8d622dd9d4d8f08da217208
+
+
+Package: com.minhhi-store.cuboid
+Version: 3.0.1
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Điều chỉnh bố cục biểu tượng trên màn hình chính như Boxy.
+Depends: mobilesubstrate
+Conflicts: me.kritanta.homeplus
+Architecture: iphoneos-arm
+Installed-Size: 724
+Name: Cuboid
+Author: chilaxan & Nepeta
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/cuboid.json
+Depiction: https://minhhi-store.github.io/packages_info/cuboid/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/cuboid.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.cuboid_3.0.1_iphoneos-arm.deb
+Size: 186944
+MD5sum: 01ffe4d75b6b24a48fefbaad69fb7802
+SHA1: 7089a1911502e781e8a9ecb686c05362ebc999c9
+SHA256: 0999c70cf1bd6b43e11843e3ce1c00782fa700935a765e8e22b7998b5672b44b
+
+
+Package: com.minhhi-store.facebookads
+Name: FB NoAds
+Version: 1.2.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.jacobcxdev.libjcx (>= 1.1.0)
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Maintainer: @tqmmos
+Description: Xoá tất cả các quảng cáo trên Facebook !
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/facebookads.json
+Depiction: https://minhhi-store.github.io/packages_info/facebookads/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/facebookads.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.facebookads_1.2.3_iphoneos-arm.deb
+Size: 11904
+MD5sum: 6acd8ba2051b7aee4ad30cb2f992675a
+SHA1: 0f48b54acd11afaf292e638786852e2424fc360a
+SHA256: 11741651605eb2bf56dc2c79ced0d3002c197bcf196544ae16ecde75e35b56aa
+
+
+Package: com.minhhi-store.instalauncher2
+Name: InstaLauncher 2
+Version: 1.7.1
+Description: Khởi chạy nhanh bất kỳ ứng dụng nào
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist(>=1.5.15), firmware(>=12.1)
+Conflicts: com.jontelang.instalauncher2.beta
+Icon: file:///Library/PreferenceBundles/instalauncher2preferences.bundle/icons/preferences-icon@2x.png
+Installed-Size: 1025
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/instalauncher2.json
+Depiction: https://minhhi-store.github.io/packages_info/instalauncher2/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/instalauncher2.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.instalauncher2_1.7.1_iphoneos-arm.deb
+Size: 348834
+MD5sum: a51ea6f521c804c9d0bc24ee6aec6f5c
+SHA1: 69cde950b1221317139c13c48275b619c8dfefd7
+SHA256: f73130e56f36c1892d6889088d6fa42a6c9f0a3ecd95479aace57e6246e7ca52
+
+
+Package: com.rpgfarm.libapappview
+Name: libAPAppView
+Architecture: iphoneos-arm
+Description: Get Application View on SpringBoard.
+Maintainer: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: System
+Tag: role::developer
+Version: 1.0
+Installed-Size: 196
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/libapappview.json
+Depiction: https://minhhi-store.github.io/packages_info/libapappview/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/libapappview.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.rpgfarm.libapappview_1.0_iphoneos-arm.deb
+Size: 22352
+MD5sum: f57d64c37f8b1e29b4d76591c28896d3
+SHA1: d253d0398819742ba3e7ea8bde6f33354cb11a66
+SHA256: 08438e9482dc5553a8f577b5186705c8272198b8ee2ee35048edcc9453a66564
+
+
+Package: com.minhhi-store.flex3beta
+Name: Flex 3 Beta
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Recommended: com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Maintainer: @tqmmos
+Author: John Coates
+Section: Tweaks
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/flex3beta.json
+Depiction: https://minhhi-store.github.io/packages_info/flex3beta/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/flex3beta.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.flex3beta_1_3~Beta98_iphoneos-arm.deb
+Size: 14346596
+MD5sum: ebf4f4770b0b737d0591e19af8f4f73b
+SHA1: 3801a7139423e0fa50e213f1cef724ab63121798
+SHA256: 664640967173dbab4aa90811d439aa82829e4afc7bb1c66db7ca96d8299e2ea9
+
+
+Package: com.minhhi-store.1luminat1se
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: 1luminat1SE
+Author: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/1luminat1se.json
+Depiction: https://minhhi-store.github.io/packages_info/1luminat1se/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/1luminat1se1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.1luminat1se_1.0_iphoneos-arm.deb
+Size: 6791070
+MD5sum: fa42a94e48c26550d3c9569fd0341d1e
+SHA1: 4183f8136bf338e4e371e7db957a1c32612bef2b
+SHA256: 0671ef1dbec18e6dff5036a517c7b883363d7fffabdbfa0fd9e8b26b0e66bd9e
+
+
+Package: com.minhhi-store.1luminat12.0
+Version: 7.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: 1luminat1 2.0
+Author: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/1luminat12.0.json
+Depiction: https://minhhi-store.github.io/packages_info/1luminat12.0/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/1luminat12.01.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.1luminat12.0_7.0_iphoneos-arm.deb
+Size: 58091162
+MD5sum: 92aa0d79082eb9a3ac4ff5a5bc595fb5
+SHA1: 003d1d7f48713ae31c7071232446f0acacf30479
+SHA256: bb33d2742148c13a8d2101785a306ebc00c3c7766c21ff88f99e842c5b347128
+
+
+Package: com.minhhi-store.de5aurora
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Name: De5 Aurora
+Author: @tqmmos
+Maintainer: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/de5aurora.json
+Depiction: https://minhhi-store.github.io/packages_info/de5aurora/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/de5aurora1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.de5aurora_1.0_iphoneos-arm.deb
+Size: 24651098
+MD5sum: 67dd313034f2aa2c1199e2b081b5a5ad
+SHA1: 8d8b1ffa6a4441f40c49456a61189fc44259ea19
+SHA256: 29c46f8b8c5963cef54586959f1dd775074f70afcfa866d8f8fc21bb84c5ac4f
+
+
+Package: com.minhhi-store.m1a
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: M1A
+Author: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/m1a.json
+Depiction: https://minhhi-store.github.io/packages_info/m1a/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/m1a1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.m1a_1.0_iphoneos-arm.deb
+Size: 7777750
+MD5sum: d13362da704dcc452328815e5e6684c7
+SHA1: a6328e73efc173b1c9e4453658046daa432ed2ea
+SHA256: dfdc1b4acc223adc723647b4e856b9109324d6f33409109fb05df2bf466dda12
+
+
+Package: com.minhhi-store.nescafe
+Version: 10.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: NesCafe
+Author: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/nescafe.json
+Depiction: https://minhhi-store.github.io/packages_info/nescafe/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/nescafe1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.nescafe_10.0_iphoneos-arm.deb
+Size: 76298640
+MD5sum: d8d7a93ff5ccc9320d13cdc7b051563a
+SHA1: bb305f7908a5ad05a4a0808ea7161da2ad79b39b
+SHA256: 5d694528c78354880c0f64ceda038148ebd9f7f2169b56d3733bd8b9363116b2
+
+
+Package: com.minhhi-store.s1r1us
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Name: S1R1US
+Author: @tqmmos
+Maintainer: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/s1r1us.json
+Depiction: https://minhhi-store.github.io/packages_info/s1r1us/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/s1r1us1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.s1r1us_1.0_iphoneos-arm.deb
+Size: 38746638
+MD5sum: ec917b05a99fd9f0bf594c8c524a2cca
+SHA1: f6c08231cb6edc7f03907ff8e8b286c3a9c4874b
+SHA256: 1a5417fb7c181e2e6a039dfed7f586f01ca756311bbaa4aad36e769c2d9324ed
+
+
+Package: com.minhhi-store.sould
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Sould
+Author: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/sould.json
+Depiction: https://minhhi-store.github.io/packages_info/sould/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/sould.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.sould_1.0_iphoneos-arm.deb
+Size: 16912002
+MD5sum: 7ba5f2ab3ff277b7626d7861ac81f741
+SHA1: ea134ca3e18e59be692c3c93e7e07a8ac970acba
+SHA256: 783f021dec28b288e37d85d3daab51c1a60f736c9eb44597e6c2016a2988d499
+
+
+Package: com.tqm-store.stikaz
+Version: 1.0.9
+Section: TQM Themes
+Architecture: iphoneos-arm
+Name: Stikaz
+Author: @tqmmos
+Maintainer: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/stikaz.json
+Depiction: https://minhhi-store.github.io/packages_info/stikaz/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/stikaz1.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.tqm-store.stikaz_1.0.9_iphoneos-arm.deb
+Size: 13206362
+MD5sum: f8b252a216b968b075489db213e1e8f4
+SHA1: 4d9732b7d1ac25d23f3d04c1b5ecd7a45b3a264d
+SHA256: 0c35c9178dd2ab953bf01eba1b7c2f7732e00548a3f7a356302e3951b8599277
+
+
+Package: com.minhhi-store.worstenvydark
+Version: 4.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Worst EnvyDark
+Author: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/worstenvydark.json
+Depiction: https://minhhi-store.github.io/packages_info/worstenvydark/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/worstenvydark.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.worstenvydark_4.0_iphoneos-arm.deb
+Size: 8879958
+MD5sum: 1deed46015037b929d7639fc72634722
+SHA1: e63f3b02c2323bb5dc569bc10784f88edc57e190
+SHA256: ff64c8b79a12ae1a6c961b121f1c9e8d9ebd472173607b3b055da1deb54b8e78
+
+
+Package: com.minhhi-store.mi5theme
+Name: Mi5Theme
+Version: 2.7
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/mi5theme.json
+Depiction: https://minhhi-store.github.io/packages_info/mi5theme/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/mi5theme1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.mi5theme_2.7_iphoneos-arm.deb
+Size: 7777750
+MD5sum: affb4f1cbab246b2c4b394653fba47b7
+SHA1: 3df2d65d5c50a5badb513ae0e7b1629f4bb39656
+SHA256: 9b1e979a81fcb183d8dc2d83622352ddd79920910fdea33b26e365ad0025f536
+
+
+Package: com.minhhi-store.joker
+Name: Joker
+Version: 1.1
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/joker.json
+Depiction: https://minhhi-store.github.io/packages_info/joker/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/joker.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.joker_1.1_iphoneos-arm.deb
+Size: 5999366
+MD5sum: 44518b3259b734f91fa476241ac233d0
+SHA1: f3a42b5c38b8011d1de518688815978be7069514
+SHA256: 1452f4b039a95a90ded9c72183e0251ecc5559817872ac2c57ff6051fd70dde3
+
+
+Package: com.minhhi-store.sbhomeclean
+Name: SB Home Clean
+Version: 1.0
+Section: Widgets
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: SB cho màn hình chính , mod by TQM -Mos
+HomePage: https://twitter.com/tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/sbhomeclean.json
+Depiction: https://minhhi-store.github.io/packages_info/sbhomeclean/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/sbhomeclean1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.sbhomeclean_1.0_iphoneos-arm.deb
+Size: 11480264
+MD5sum: 2e10a6c5f3490b7da0f86bbaf19177f3
+SHA1: 40aefa4788291064596497a78b582c2534ca4cad
+SHA256: 9d24d45f5748dcfe3922aa0bfdaf91cd45cd2ac2f13e017a3acc7b1c48ee98e9
+
+
+Package: com.minhhi-store.amie
+Name: Amie
+Version: 1.8
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/amie.json
+Depiction: https://minhhi-store.github.io/packages_info/amie/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/amie2.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.amie_1.8_iphoneos-arm.deb
+Size: 88338260
+MD5sum: e0f411b235ff667fced8a6ca688824a7
+SHA1: b5b07abf9fda40a98dec8c83938e8583f4265697
+SHA256: f8e3abaff643c0236b19e6dcd0e28f152ab1fa56753194e050aeeebf824c8349
+
+
+Package: com.minhhi-store.echoes
+Name: echoes
+Version: 1.9.7
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+Description: Distant echoes
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/echoes.json
+Depiction: https://minhhi-store.github.io/packages_info/echoes/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/echoes1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.echoes_1.9.7_iphoneos-arm.deb
+Size: 54077012
+MD5sum: 2a9335732b0a6a2dd52412cb6463c7ef
+SHA1: cae8e1179302d9a201eb750cc53876ae618a30db
+SHA256: 72d18b9fa70dcb8eace873a597fb3d46782d5c8c59e0b19f4e25858cfbd476b2
+
+
+Package: com.minhhi-store.auroraos
+Name: AuroraOS
+Version: 2.0.6
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/auroraos.json
+Depiction: https://minhhi-store.github.io/packages_info/auroraos/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/auroraos.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.auroraos_2.0.6_iphoneos-arm.deb
+Size: 85556032
+MD5sum: 0e8851a5a5201c68bae2c7b9af529375
+SHA1: 11ba9a4bac43130e8b6160d1e2cd91aa77fd2248
+SHA256: ee4981d28f1865ae8b6ac48b90ecc0cdcf0332432868905e5e6c1c420ffa943e
+
+
+Package: com.minhhi-store.3me
+Version: 1.1
+Section: TQM Themes
+Architecture: iphoneos-arm
+Name: 3me
+Author: @tqmmos
+Maintainer: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/3me.json
+Depiction: https://minhhi-store.github.io/packages_info/3me/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/3me1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.3me_1.1_iphoneos-arm.deb
+Size: 37442514
+MD5sum: 83e77ba75bfc8a8dd5938230dbc6ffce
+SHA1: 603d2ba0925e9d7cccfbe1ebc6428320b9bc987e
+SHA256: a90c83cf023e589f663f97cc00936ea8d487ad51bc194cf167f1ad63fb19b386
+
+
+Package: com.minhhi-store.de5
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: De5
+Author: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/de5.json
+Depiction: https://minhhi-store.github.io/packages_info/de5/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/de5.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.de5_1.0_iphoneos-arm.deb
+Size: 23395630
+MD5sum: ea8d544a4e729e5dd9d3a5e7d288064e
+SHA1: 68b10f7d574065d83582a0f1d002f6b74cea772d
+SHA256: 918a797607bf2ffefb8a99d459bcc77f4b73b791072ab3fec455ca81b6105e81
+
+
+Package: com.minhhi.gr41ny
+Version: 1.1
+Section: TQM Themes
+Architecture: iphoneos-arm
+Name: GR41NY
+Author: @tqmmos
+Maintainer: @tqmmos
+HomePage: https://twitter.com/tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/gr41ny.json
+Depiction: https://minhhi-store.github.io/packages_info/gr41ny/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/gr41ny1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.z1ba_1.0_iphoneos-arm.deb
+Size: 14049794
+MD5sum: f2b50b5acfad2e0b2b336a4a4b346c23
+SHA1: e076ad9c2ccd6cb93d70e04dc4bd4719c9187e06
+SHA256: 2e6f628226f042020b242027659754e204bee96b2783c483b883e8b3a1ffedfc
+
+
+Package: com.minhhi-store.z1ba
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Z1BA
+Author: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/z1ba.json
+Depiction: https://minhhi-store.github.io/packages_info/z1ba/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/z1ba1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.z1ba_1.0_iphoneos-arm.deb
+Size: 52087988
+MD5sum: 7b5498aed5bc645bfcf83bd668cc8df5
+SHA1: 9eb3582fe0823566cefb238a30951e9ddbcec0eb
+SHA256: 6219212057c8258a9b0f36fc6107de7bd32e2266b4e41faa188cb2047a63aac5
+
+
+Package: com.minhhi-store.pontuz
+Name: Pontuz
+Version: 1.0.1
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+Description: Pontuz neue dark theme
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/pontuz.json
+Depiction: https://minhhi-store.github.io/packages_info/pontuz/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/pontuz1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.pontuz_1.0.1_iphoneos-arm.deb
+Size: 4315610
+MD5sum: 651f95ed220680026b7842edee8110aa
+SHA1: 7dec140c2af31b5cc14efda28ba58bc261e613b1
+SHA256: 221efd676384890878f2b8102519845727111db28f218a015e1ce296cce5c0b9
+
+
+Package: com.minhhi-store.greenred
+Name: Green Red
+Version: 1.0
+Architecture: iphoneos-arm
+Author: @hungbui2110 <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Section: TQM Themes
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/greenred.json
+Depiction: https://minhhi-store.github.io/packages_info/greenred/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/greenred1.png
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.greenred_1.0_iphoneos-arm.deb
+Size: 13225380
+MD5sum: 75ee975a2ff048634ba9a20ccf218831
+SHA1: 9a8013abb612e8e2eda3408bf1158f417e03621b
+SHA256: 4a03c8454517e1175b0093357de3cb4c2fd9c7c3b24fb1bc4ee625c58aede2fa
+
+
+Package: com.minhhi-store.arcjarvis
+Version: 2.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: ARC JARVIS
+Author: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/arcjarvis.json
+Depiction: https://minhhi-store.github.io/packages_info/arcjarvis/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/arcjarvis3.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.arcjarvis_2.0_iphoneos-arm.deb
+Size: 21135340
+MD5sum: 6557a1334a396be0c395199ee6950fba
+SHA1: 6d61ad193046f48d0f710b893a4448baed63a96c
+SHA256: 9312ec0d2e8e71072c065b632807be29fef9fa09758260dc1aeacafb333e8f6a
+
+
+Package: com.minhhi-store.freshair
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: FreshAir
+Author: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/freshair.json
+Depiction: https://minhhi-store.github.io/packages_info/freshair/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/freshair.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.freshair_1.0_iphoneos-arm.deb
+Size: 1130548
+MD5sum: 3d7dbe8dbb91381b9af60326dbc39793
+SHA1: 4d3ba0bae5ea675bc2037429a763accf23bb90a2
+SHA256: e80763ab1b54537ac596dea6a5186bdf6f5f495c79f10e2176bdb8587674bbe8
+
+
+Package: com.minhhi-store.kr8ed
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Kr8ed
+Author: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/kr8ed.json
+Depiction: https://minhhi-store.github.io/packages_info/kr8ed/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/kr8ed.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.kr8ed_1.0_iphoneos-arm.deb
+Size: 98278614
+MD5sum: 9d44b8d8e0be202d5b567984958c62d6
+SHA1: 31f65eed8858dbef81828170db38841311a90586
+SHA256: a8c716decc7e10c04ea78dfce9e9ec883731eccf9d392e783988c14f0e39a68f
+
+
+Package: com.minhhi-store.nightpinkeditionbrightpink
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Night Pink Edition + Bright Pink
+Author: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/nightpinkeditionbrightpink.json
+Depiction: https://minhhi-store.github.io/packages_info/nightpinkeditionbrightpink/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/nightpinkeditionbrightpink1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.nightpinkeditionbrightpink_1.0_iphoneos-arm.deb
+Size: 12341682
+MD5sum: 53c6e85233684178f5c48ac3275153f8
+SHA1: c8539a22b4bbafc94adcf09c8dd2eb97f996288a
+SHA256: 6f1186568000b55511bc89f58bfb06280ebc5ae9b5e2de4efd4bd7dec134b369
+
+
+Package: com.minhhi-store.monarchred
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Monarch Red
+Author: @tqmmos
+Description: Monarch Red icons ;)
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/monarchred.json
+Depiction: https://minhhi-store.github.io/packages_info/monarchred/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/monarchred1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.monarchred_1.0_iphoneos-arm.deb
+Size: 27168724
+MD5sum: 024929436b41fcc427775c35946590e8
+SHA1: 0231905edb533c9583e9a1ea71fc2ee98dd3ba09
+SHA256: f7e795590296fdddb313bc392241d19175b3a8b59aa142dffc3fec0d1938641f
+
+
+Package: com.minhhi-store.gelatine
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Gelatine
+Author: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/gelatine.json
+Depiction: https://minhhi-store.github.io/packages_info/gelatine/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/gelatine.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.gelatine_1.0_iphoneos-arm.deb
+Size: 3241686
+MD5sum: e988f3a06a6bbc9f959d1f2f05eacd2a
+SHA1: 49791f4a404eee63828f08ead58e70ea2f13d78c
+SHA256: 27380722add8b86ec2ff9cc79832e4bedabdcd2237db19e17024273b7840430f
+
+
+Package: com.minhhi-store.zyce
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Zyce
+Author: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/zyce.json
+Depiction: https://minhhi-store.github.io/packages_info/zyce/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/zyce.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.zyce_1.0_iphoneos-arm.deb
+Size: 23389158
+MD5sum: 31d95ad517f75c889c76ce571c2a421e
+SHA1: ab4cb3a6e916624c68f187996229d196746775ee
+SHA256: 34e656e63cf693ee82a28948505c32920f13a519048b39f44c6d45934b4d6de8
+
+
+Package: com.minhhi-store.sleek
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: SLEEK
+Author: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/sleek.json
+Depiction: https://minhhi-store.github.io/packages_info/sleek/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/sleek1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.sleek_1.0_iphoneos-arm.deb
+Size: 22409158
+MD5sum: f9f19000546f145a6286e5ef68753b64
+SHA1: 1473b92c627092cb349133039ad25d774099aff5
+SHA256: aef6114c9232e7adc3f7b2a1e6dab7d3d76fce924e01b3e9b1b86f7a7ef80376
+
+
+Package: com.minhhi-store.blacksnow
+Name: BlackSnow
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/blacksnow.json
+Depiction: https://minhhi-store.github.io/packages_info/blacksnow/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/blacksnow1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.blacksnow_1.0_iphoneos-arm.deb
+Size: 38997944
+MD5sum: bb9727d511fb5e7ac6cead5563fec5aa
+SHA1: b4b0a40626b4ca25470a833ceb218d3844c11855
+SHA256: f3f34463269f9b19a78dc91541b1005d7b6f559d9459036324eff6898a230f68
+
+
+Package: com.minhhi.blacksoul
+Name: BlackSoul
+Version: 2.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Beautiful black theme
+Sileodepiction: https://minhhi-store.github.io/Sileo/blacksoul.json
+Depiction: https://minhhi-store.github.io/packages_info/blacksoul/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/blacksoul1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi.blacksoul_2.0_iphoneos-arm.deb
+Size: 11118052
+MD5sum: 926608b1a3a7a2aeb93fe24e8442b74b
+SHA1: 0f0c49dff8eb40a6fad9b91dd5a6ccce3e82faf8
+SHA256: fd85856b45e8e96fb60186878c5edbf1c4289a3785ea1c142062c0f8591706b6
+
+
+Package: com.minhhi-store.grungy
+Name: Grungy
+Version: 1.1
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/grungy.json
+Depiction: https://minhhi-store.github.io/packages_info/grungy/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/grungy.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.grungy_1.1_iphoneos-arm.deb
+Size: 24383072
+MD5sum: 1ebddb098b91dbba5bee4aee5f0ef927
+SHA1: 6d9af64c0978e946a0171d886d2b59a7903341e8
+SHA256: 088714044b20ab39a29e4f0160cc191ab190f508bf6db449f9b0d0728477f022
+
+
+Package: com.minhhi-store.eesome
+Version: 2.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Name: Eesome
+Author: @tqmmos
+Maintainer: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/eesome.json
+Depiction: https://minhhi-store.github.io/packages_info/eesome/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/eesome1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.eesome_2.0_iphoneos-arm.deb
+Size: 29677378
+MD5sum: b6af9e099fce9b91a65dab8bc8c6cd2f
+SHA1: f9fc4b1a1c1ef6c8fd2f28b0d1e3c5d60dc96cdb
+SHA256: 71e80254171b705039e88d3b70c594442af60c97a9ab8eb0d1a20248fa28c7a7
+
+
+Package: com.minhhi-store.vibrant
+Version: 1.1
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Vibrant
+Author: @tqmmos
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/vibrant.json
+Depiction: https://minhhi-store.github.io/packages_info/vibrant/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/vibrant1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.vibrant_1.1_iphoneos-arm.deb
+Size: 12349684
+MD5sum: b62f4d6e65a6d538adca455e7e4b42c1
+SHA1: 49c99703ff1e26e9671e59d9516c26e49e49eece
+SHA256: 6d23d26ddd3e85df2f05ccfa5dad5c9a01d822be963674cbb35fa2cf04bf57e1
+
+
+Package: com.minhhi-store.softy
+Version: 1.1
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Softy
+Author: @tqmmos
+Description: Thay đổi giao diện màn hình khoá !
+Sileodepiction: https://minhhi-store.github.io/Sileo/softy.json
+Depiction: https://minhhi-store.github.io/packages_info/softy/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/softy1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.softy_1.1_iphoneos-arm.deb
+Size: 13087302
+MD5sum: 9793f8d343e396354db844e0629d8291
+SHA1: 79e3d5fad840a83134d43cf4a0e4f8b669907f71
+SHA256: 3f0eb5d8d30badbbe01cc790cbf293988fed09ae2cf64aa74947808c2116befe
+
+
+Package: com.minhhi-store.flavor
+Name: Flavor
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+Description: Landah icons
+Sileodepiction: https://minhhi-store.github.io/Sileo/flavor.json
+Depiction: https://minhhi-store.github.io/packages_info/flavor/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/flavor1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.flavor_1.0_iphoneos-arm.deb
+Size: 48632762
+MD5sum: c2d60ac61a2a75c421d11566045acffd
+SHA1: 6f53ea2332453a703ca6bb265deeee3a1ed6efab
+SHA256: 0122f6459029919a81a5a42a46c1d844a5cbe2debfc84a42f1547bd54439f4dc
+
+
+Package: com.minhhi-store.landah
+Name: Landah
+Version: 1.3
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+Description: Landah icons
+Sileodepiction: https://minhhi-store.github.io/Sileo/landah.json
+Depiction: https://minhhi-store.github.io/packages_info/landah/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/landah1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.landah_1.3_iphoneos-arm.deb
+Size: 63113484
+MD5sum: 217c2aa207e8581410e7b4021b576ec0
+SHA1: 14d63b0ff5cf9f238b680a8e17c707773885e78f
+SHA256: 17dd784b3e6bdfd55296aa188a3e6b997ee4df26948581e23d06718e7d61e32b
+
+
+Package: com.minhhi-store.mercury
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Mercury
+Author: @tqmmos
+Description: Chủ đề thay đổi giao diện chính ios ( hoạt động qua Snoboard - Anemone 3 - iThemer )
+Sileodepiction: https://minhhi-store.github.io/Sileo/mercury.json
+Depiction: https://minhhi-store.github.io/packages_info/mercury/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/mercury1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.mercury_1.0_iphoneos-arm.deb
+Size: 8947276
+MD5sum: 7359e9d5dc35c8df6a0c6c067a221e05
+SHA1: 500733b363b84b58a8caca1df6ca99b24266c675
+SHA256: cea031f1ece5b097d1601ea837927d4f3fb0b6f45b3c2351efc74870c2d2f3fc
+
+
+Package: com.minhhi-store.blackhole
+Name: Blackhole
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+Description: Thay đổi icon giao diện màn hình chính...
+Sileodepiction: https://minhhi-store.github.io/Sileo/blackhole.json
+Depiction: https://minhhi-store.github.io/packages_info/blackhole/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/blackhole.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.blackhole_1.0_iphoneos-arm.deb
+Size: 36983044
+MD5sum: c6d684b3a0f8a4264f8cd5b763b7cef9
+SHA1: 5fe15a0ca1effc7133f3f85a5f58eaca8fd50cf8
+SHA256: d43bbee669811eaf7fc3d414ab4770ae04d3571c3fa38998cd4ef42fe7dce67e
+
+
+Package: com.minhhi-store.alpha
+Version: 1.12
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Alpha
+Author: @tqmmos
+Description: Thay đổi icon giao diện màn hình chính...
+Sileodepiction: https://minhhi-store.github.io/Sileo/alpha.json
+Depiction: https://minhhi-store.github.io/packages_info/alpha/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/alpha1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.alpha_1.12_iphoneos-arm.deb
+Size: 4610860
+MD5sum: d1bf4ef8807511d8bcb8c4f1589d9fde
+SHA1: 29ee707b94c93b654ec14fe97c7f3612d6126e2b
+SHA256: ec56eb86fba098adffa6314320ccd20a77d33403e8a04a33db26dc59410d0236
+
+
+Package: com.minhhi-store.n1b0r
+Name: N1b0r
+Version: 1.0
+Architecture: iphoneos-arm
+Description: n1b0r is a unique colored theme
+Author: @tqmmos
+Section: TQM Themes
+Maintainer: @tqmmos
+Sileodepiction: https://minhhi-store.github.io/Sileo/n1b0r.json
+Depiction: https://minhhi-store.github.io/packages_info/n1b0r/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/n1b0r1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.n1b0r_1.0_iphoneos-arm.deb
+Size: 2325416
+MD5sum: 43702a217ef598d421abd264d58f9acd
+SHA1: c0d824a08b3ff3f77d95fee4770b6a97edf73dae
+SHA256: d1ada3cb934f745a64b04fbe8246517b37e18295302568b41b9b8bf07be8b84d
+
+
+Package: com.minhhi-store.l3to
+Version: 2.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: L3TO
+Author: @tqmmos
+Description: Thay đổi giao diện màn hình chính !
+Sileodepiction: https://minhhi-store.github.io/Sileo/l3to.json
+Depiction: https://minhhi-store.github.io/packages_info/l3to/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/l3to1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.l3to_2.0_iphoneos-arm.deb
+Size: 34803678
+MD5sum: eda9938a56d0894f9d6de57d1e97c624
+SHA1: 099bfc50c4022f85dca6c2c06bfa1b8bcc2c57fe
+SHA256: b3d39ee3b45f1edbf196dab86272ec030d0a7acaad796545db204f03b7e2e099
+
+
+Package: com.minhhi-store.royalty
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Royalty
+Author: @tqmmos
+Description: Thay đổi giao diện màn hình chính !
+Sileodepiction: https://minhhi-store.github.io/Sileo/royalty.json
+Depiction: https://minhhi-store.github.io/packages_info/royalty/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/royalty1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.royalty_1.0_iphoneos-arm.deb
+Size: 3982358
+MD5sum: a8da56b402f49f6c1c3d8a554c6155c8
+SHA1: 8f17542643fb733f40c5800a96d2d9c6e782334d
+SHA256: a7bbd85855410a2940c9f4528933216c06ebba77a374db0e3626febac9448617
+
+
+Package: com.minhhi-store.shiinyv2
+Version: 1.4
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Sh!!ny V2
+Author: @tqmmos
+Description: Thay đổi giao diện màn hình chính !
+Sileodepiction: https://minhhi-store.github.io/Sileo/shiinyv2.json
+Depiction: https://minhhi-store.github.io/packages_info/shiinyv2/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/shiinyv21.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.shiinyv2_1.4_iphoneos-arm.deb
+Size: 30182918
+MD5sum: 7a331c73ee4dfa9a0b61e21c33c599aa
+SHA1: bfa7aa826c636f020cd7e73ba94c15bb29fd5b12
+SHA256: 93a12d17238a406c582316fa0cdf18ca42c9e7469adc4e913bb5e8f04069e576
+
+
+Package: com.minhhi-store.lee
+Name: Lee
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Thay đổi giao diện màn hình chính !
+Sileodepiction: https://minhhi-store.github.io/Sileo/lee.json
+Depiction: https://minhhi-store.github.io/packages_info/lee/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/lee1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.lee_1.0_iphoneos-arm.deb
+Size: 1545786
+MD5sum: a932810a079d60532265607e633492c9
+SHA1: c296dc016df9b1aae7bba45bd193a5c21d94fce5
+SHA256: 6c8c4a08d7c4165a62f8fdf18f1a137361aa96bea0f53234b3f8b529b39691ca
+
+
+Name: Aono
+Package: com.minhhi-store.aono
+Architecture: iphoneos-arm
+Author: @tqmmos
+Version: 4.1
+Maintainer: @tqmmos
+Section: TQM Themes
+Description: Thay đổi giao diện màn hình chính !
+Sileodepiction: https://minhhi-store.github.io/Sileo/aono.json
+Depiction: https://minhhi-store.github.io/packages_info/aono/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/anno1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.aono_4.1_iphoneos-arm.deb
+Size: 19615932
+MD5sum: 2c3e64b25e9fa2e999424fc6608ea42d
+SHA1: 83f515f9d8b2fa1d47a2918be8c8ab1c3fc8befb
+SHA256: e49ab5a5b0a312578ab9d7b342b889fc352ecb91889406b685b382b980effd89
+
+
+Package: com.minhhi-store.bluray
+Name: BluRay
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Radiant blue icons
+Description: Thay đổi giao diện màn hình chính !
+Sileodepiction: https://minhhi-store.github.io/Sileo/bluray.json
+Depiction: https://minhhi-store.github.io/packages_info/bluray/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/bluray1.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minhhi-store.bluray_1.0_iphoneos-arm.deb
+Size: 16808902
+MD5sum: cb4fd2cf668630ef489327262a67e32f
+SHA1: f495a4bb2504068bfea28ab96b49580d0581e2e5
+SHA256: 139e145c8fce60de9b15cd863758961908d6e6b1600bf7b26e40433b22a0072b
+
+
+Package: com.minh-store.cyclemorphine
+Version: 1.0
+Section: TQM Themes
+Maintainer: @tqmmos
+Architecture: iphoneos-arm
+Name: Cycle Morphine
+Author: @tqmmos
+Description: Thay đổi giao diện màn hình chính !
+Sileodepiction: https://minhhi-store.github.io/Sileo/cyclemorphine.json
+Depiction: https://minhhi-store.github.io/packages_info/cyclemorphine/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/cyclemorphine.JPG
+Homepage: https://www.facebook.com/profile.php?id=100052119013281
+Filename: ./debs/com.minh-store.cyclemorphine_1.0_iphoneos-arm.deb
+Size: 36289122
+MD5sum: 80497b566d36291a46bb4bb390eb4231
+SHA1: 4f6420b145bb7c4d105c863aa86a1816d70fd8cb
+SHA256: 0a7c3d0348a6cfd3005874c7f6f3687e74a1ae3de7fe328b96a8106bbda88dae
+
+
+Package: com.tqm-store.immaterialis
+Name: Immaterialis
+Version: 1.0
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Section: TQM Themes
+Description: Themes hoạt động qua Snowboard - Anemone .....
+Sileodepiction: https://minhhi-store.github.io/Sileo/immaterialis.json
+Depiction: https://minhhi-store.github.io/packages_info/immaterialis/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/immaterialis.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.immaterialis_1.0_iphoneos-arm.deb
+Size: 3662320
+MD5sum: 5a4523fb9905826c7adbafbb36b4bf41
+SHA1: c6a8e988b2b43816bca843f7e44f9f266398ff20
+SHA256: 1bd0575b43d67d3166a9fcb5db7ce326501db086d92dd5246f43facd94f1f143
+
+
+Package: com.minhhi-store.xenhtml
+Name: Xen HTML
+Version: 1.1.4~release
+Section: System
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Author: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Description: Unified HTML rendering; lockscreen and homescreen
+dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/xenhtml.json
+Depiction: https://minhhi-store.github.io/packages_info/xenhtml/?p=info
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.xenhtml_1.1.4~release_iphoneos-arm.deb
+Size: 3695910
+MD5sum: e93043289aba6314f63a4ca594b30847
+SHA1: d53ba507f8a0e76dc88902db3a728b5ad5937f5b
+SHA256: 8fe16810321a5ee09820e6779055a54b8abce0ebcb21e2e8bc81c6e54436722a
+
+Package: com.minhhi-store.xenhtml
+Name: Xen HTML
+Version: 2.0~beta6
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: System
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: @tqmmos
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/IconPackageManager.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/xenhtml.json
+Depiction: https://minhhi-store.github.io/packages_info/xenhtml/?p=info
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.xenhtml_2.0~beta6_iphoneos-arm.deb
+Size: 7608460
+MD5sum: c1fde687d37e0d769e3ffef83e343bf9
+SHA1: 52a315444476379f3a68f2a8f4ed1d745a502694
+SHA256: 70196a14c022ecc5b6f094f7a719b0cf97eda89e91ab7ec6a3c52a6995c3dd8d
+
+
+Package: com.minhhi-store.xeninfo
+Name: XenInfo
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: org.bigboss.datameter, cydia.kiiimo.org.datameter, com.repo.xarold.com.datameter, re.rejail.datameter, org.coolstar.ventana-modern, com.repo.xarold.com.ventana, cydia.kiiimo.org.ventana
+Architecture: iphoneos-arm
+Description: Music, Weather, and battery info for XenHTML
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: JunesIphone & Matchstic <junesgraphics@gmail.com>
+Section: Utilities
+Version: 2.2.9
+Installed-Size: 1072
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/xeninfo.json
+Depiction: https://minhhi-store.github.io/packages_info/xeninfo/?p=info
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.xeninfo_2.2.9_iphoneos-arm.deb
+Size: 269584
+MD5sum: 387c16c2086169c3b362b21ddb10bafa
+SHA1: 6e61517ca2832c0234bbb5cc59eb147a78199985
+SHA256: 5018689fd681814a2a790b946c1db4445180b35c0576ace1eb9446c9d7c5bd2c
+
+
+Package: com.minhhi-store.novacc
+Name: Nova CC
+Version: 1.2
+Section: TQM CC
+Architecture: iphoneos-arm
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Description: Redesign your control center with a new style.
+Sileodepiction: https://minhhi-store.github.io/Sileo/novacc.json
+Depiction: https://minhhi-store.github.io/packages_info/novacc/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/novacc.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.novacc_1.2_iphoneos-arm.deb
+Size: 612538
+MD5sum: 54201c175f9860e702d0c8e929a3abb8
+SHA1: 06d76c66b3da3090ce944409d25b69d36c1cc1dd
+SHA256: d43d1ee565623dd8c6c7c60ac3a5f53a9066cbed4c905a387f2e37bba37ddaab
+
+
+Package: com.minhhi-store.ellanewage
+Name: NewAge CC STT
+Version: 1.0.2
+Section: TQM CC
+Architecture: iphoneos-arm
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Description: Prysm theme and respring logo and statusbar theme
+Sileodepiction: https://minhhi-store.github.io/Sileo/ellanewage.json
+Depiction: https://minhhi-store.github.io/packages_info/ellanewage/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/ellanewage1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.ellanewage_1.0.2_iphoneos-arm.deb
+Size: 499526
+MD5sum: 1c9943d3b70c41f4366a66822c6c8cf2
+SHA1: 6e6440b5ab6eb1a139edc71ddbcdeb420e56cea6
+SHA256: 9fd85c53ee2d43ee3dffa082382732ca641984f28cc8bdfd052fb75f48c96716
+
+
+Package: com.minhhi-store.Latte
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Latte
+Description: Need To install SnowBoard
+Section: TQM Themes
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/Latte.json
+Depiction: https://minhhi-store.github.io/packages_info/Latte/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/Latte.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.Latte_1.0_iphoneos-arm.deb
+Size: 4441228
+MD5sum: fc5b289567e113764a639c23e92d0f77
+SHA1: 82cffa61bd9a13f92d5c368804c4383950319516
+SHA256: 59232cbcde110539a4d08010c1891d77f52bdbde81ce1cd2a2a7b24a3dbbcb9e
+
+
+Package: com.minhhi-store.biesdi
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Biesdi
+Description: Need To install SnowBoard
+Section: TQM Themes
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/biesdi.json
+Depiction: https://minhhi-store.github.io/packages_info/biesdi/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/biesdi.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.biesdi_1.0_iphoneos-arm.deb
+Size: 4441228
+MD5sum: 498e7190c1442dfeb56ef857a76e432a
+SHA1: a08b2c1d9aed4ab97fc23bb30d04dc563ae79e2f
+SHA256: 196f154cd93ee9d2c8e31d20b3a77966b0c2723150d53e572ed1438fdbff02de
+
+
+Package: com.minhhi-store.hazardous
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Hazardous
+Description: Need To install SnowBoard or iThemer
+Section: TQM Themes
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/hazardous.json
+Depiction: https://minhhi-store.github.io/packages_info/hazardous/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/hazardous.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.hazardous_1.0_iphoneos-arm.deb
+Size: 9339644
+MD5sum: 83af9365bb62ae2a6870b2466106aad4
+SHA1: ce036e0a0833eeac2b4797556e9ac52b5d40c81f
+SHA256: 6ad47b98403a29af014de818500e03d635c13f78b4d613d15613458fe4bc044d
+
+
+Package: com.minhhi-store.paradigmhift10
+Name: Paradigm Shift 10
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Description: A paradigm shift to what all other themes resembled.
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/paradigmhift10.json
+Depiction: https://minhhi-store.github.io/packages_info/paradigmhift10/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/paradigmhift10.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.paradigmhift10_1.0_iphoneos-arm.deb
+Size: 36200282
+MD5sum: fa5a679111c5ed238af6fbd1392da61c
+SHA1: e1261c3c9f90dc9935465eae1018bed6240a5470
+SHA256: 091b9a446362fc9637b819e944c99b7fb77255eaa5b2cf1a073717f4cafd9879
+
+
+Package: com.minhhi-store.pixy
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Pixy
+Description: Need To install SnowBoard or iThemer
+Section: TQM Themes
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/pixy.json
+Depiction: https://minhhi-store.github.io/packages_info/pixy/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/pixy1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.pixy_1.0_iphoneos-arm.deb
+Size: 4104354
+MD5sum: 7822c025a2cc60acddb2830eafd3c35c
+SHA1: 7d6c8bc5b2f19f3fbbfd6d32a91ba80378329148
+SHA256: 1bb24398709f5c83f82fcb79cbd26c8ff5f459b4675269fe32bcd0ee3e862caf
+
+
+Package: com.minhhi-store.woonweather
+Name: LS Woon Weather
+Version: 1.0
+Architecture: iphoneos-arm
+Description: LS for XenHTML, mod by TQM
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Widgets
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/woonweather.json
+Depiction: https://minhhi-store.github.io/packages_info/woonweather/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/woonweather.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.woonweather_1.0_iphoneos-arm.deb
+Size: 1083922
+MD5sum: c5f952164740655c7b65d6791473e656
+SHA1: 29f83483cc343fc16dc4c99b4b5b0409e38e7f5c
+SHA256: bbbce6cbcfcaaaec1d51c134049b1b2e6f3ce98d411cb9e57d8545e284d6e765
+
+
+Package: com.minhhi-store.sbwoonweather
+Name: SB Woon Weather
+Version: 1.0
+Section: Widgets
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: SB cho màn hình chính , mod by TQM -Mos
+Sileodepiction: https://minhhi-store.github.io/Sileo/sbwoonweather.json
+Depiction: https://minhhi-store.github.io/packages_info/sbwoonweather/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/sbwoonweather.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi-store.sbwoonweather_1.0_iphoneos-arm.deb
+Size: 1502238
+MD5sum: 9d18d3d38ba8ef6d623060d43aaabbde
+SHA1: 1863b049f8863a35ed5bf6d0481a21af8410793f
+SHA256: f67558f7fb43429c5b2cee783c1fafecb0dbaddeb7f65cb9de508f2bb533a0ae
+
+
+Package: com.minhhi.blacksoul
+Name: BlackSoul
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Beautiful black theme
+Sileodepiction: https://minhhi-store.github.io/Sileo/blacksoul.json
+Depiction: https://minhhi-store.github.io/packages_info/blacksoul/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/blacksoul1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.minhhi.blacksoul_1.0_iphoneos-arm.deb
+Size: 9239854
+MD5sum: 06cdba20ca9c07e1d7cce4d10b47d288
+SHA1: 88c8c400fffe841c8e95e06337c00eb663ce898b
+SHA256: ba23d151c175e87752e9331a882821c3ceac93b2df5acbeb8ed7b3a9b136b3e1
+
+
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.5.2k
+Description: Thiết kế lại trung tâm kiểm soát !
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 1973
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.5.2k_iphoneos-arm.deb
+Size: 443928
+MD5sum: 47bcd5b28b00f85b5d2f633e3b9a45a7
+SHA1: df07bd3f5648457b9d2b34626c838b19e69dea2f
+SHA256: 6f2a4f2f499b9e1758f0e72a8909fa009a57a9e1b8e60d38349dd478e33fcade
+
+
+Package: com.minhhi-store.magmaevo
+Name: Magma Evo
+Version: 1.2.3
+Description: Thêm màu sắc vào trung tâm kiểm soát !
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Installed-Size: 504
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer:
+Icon: https://minhhi-store.github.io/packages_info/screenshots/magmaevo1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/magmaevo.json
+Depiction: https://minhhi-store.github.io/packages_info/magmaevo/?p=info
+Filename: ./debs/com.minhhi-store.magmaevo_1.2.3_iphoneos-arm.deb
+Size: 152984
+MD5sum: 3a40a33c88da49b3a67672a1d0eec028
+SHA1: a60968caaf607301a3f30720cf0a033332909db2
+SHA256: 2b302d55e49f74f59609b1c5a31039ba85760816ac52e403b7f964f8e4ed2fac
+
+
+Package: com.minhhi-store.magmaevo
+Name: Magma Evo
+Version: 1.2.4
+Description: Tô màu trung tâm kiểm soát
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Installed-Size: 511
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/magmaevo1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/magmaevo.json
+Depiction: https://minhhi-store.github.io/packages_info/magmaevo/?p=info
+Filename: ./debs/com.minhhi-store.magmaevo_1.2.4_iphoneos-arm.deb
+Size: 160888
+MD5sum: a71d80305cf8bff7c1fcbc01b82af5ac
+SHA1: c5ab94f27cf8366f1cc169d953c0bf5ba8b6dc04
+SHA256: 68f7c727cb8de272616d2db83e6f1951ff911c1ad18c41bb8adafccda957b9f1
+
+
+Package: com.minhhi-store.magmaevo
+Name: Magma Evo
+Version: 2.0.0
+Description: Tô màu trung tâm kiểm soát
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, com.spark.libsparkcolourpicker
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Installed-Size: 1892
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/magmaevo1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/magmaevo.json
+Depiction: https://minhhi-store.github.io/packages_info/magmaevo/?p=info
+Filename: ./debs/com.minhhi-store.magmaevo_2.0.0_iphoneos-arm.deb
+Size: 1455578
+MD5sum: 694b49c371fe2abd09c12dca50a26765
+SHA1: 6f4279548b75074dd9f21191c0e01e71b7f294dc
+SHA256: 450fb84b7492a26ee7b260f859808dcda5c4380a9c74b2c88910bb54d524ca49
+
+
+Package: com.minhhi-store.boldenedgylphs
+Name: BoldenedGylphs
+Version: 1.08
+Architecture: iphoneos-arm
+Description: A primary color theme with bold, black outlines
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Icon: https://minhhi-store.github.io/packages_info/screenshots/boldenedgylphs1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/boldenedgylphs.json
+Depiction: https://minhhi-store.github.io/packages_info/boldenedgylphs/?p=info
+Filename: ./debs/com.minhhi-store.boldenedgylphs_1.08_iphoneos-arm.deb
+Size: 9163536
+MD5sum: f61e5cf32879f1058459d830daa40666
+SHA1: e4f45ff3628999d9c9ffaab06b6e9242d84e2e20
+SHA256: 78e5dcccba7beef961a1fd055ba97f5ecf898345275c355ea1ebce8e5d87967c
+
+
+Package: com.minhhi-store.miayotlan
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Amanecer(Dawn)
+Description: Need To install SnowBoard or iThemer
+Section: TQM Themes
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/miayotlan1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/miayotlan.json
+Depiction: https://minhhi-store.github.io/packages_info/miayotlan/?p=info
+Filename: ./debs/com.minhhi-store.miayotlan_1.0_iphoneos-arm.deb
+Size: 58722828
+MD5sum: 28ad18d08e1740fb32ebf71dc1255bbd
+SHA1: e10e95f36e7b3d95e150e8a8d17c01e632513f52
+SHA256: 8fe17d183c9c8550d19b8438eeca92db814ebb8f542311d55d2a700a3179112d
+
+
+Package: com.minhhi-store.joker
+Name: Joker
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: enjoy with joker theme
+Icon: https://minhhi-store.github.io/packages_info/screenshots/joker.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/joker.json
+Depiction: https://minhhi-store.github.io/packages_info/joker/?p=info
+Filename: ./debs/com.minhhi-store.joker_1.0_iphoneos-arm.deb
+Size: 5017106
+MD5sum: f378d059182010fa85da2bcc0c398958
+SHA1: 1cf51aa9a848cf5b8057faffd571885829447fcb
+SHA256: a7c7a624086c14bef294e0f127362f9b6d12478ab42a5715bb0e6513f641fd81
+
+
+Package: com.tqm-store.carnival2
+Name: Carnival2
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Sileodepiction: https://minhhi-store.github.io/Sileo/carnival2.json
+Depiction: https://minhhi-store.github.io/packages_info/carnival2/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/carnival21.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.carnival2_1.0_iphoneos-arm.deb
+Size: 18779996
+MD5sum: 29a32069725a8bd163476310c3a78b0d
+SHA1: 16f7723238304666728e9ebf1d69e17bd2f53241
+SHA256: a95b834aa6be4be595c38f057c648513deb190e93f8f728df0b696bdc874e0b2
+
+
+Package: com.tqm-store.kobu
+Name: Kobu
+Version: 1.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Unique theme created with Procreate on my iPad Pro, using an Apple Pencil.
+Sileodepiction: https://minhhi-store.github.io/Sileo/kobu.json
+Depiction: https://minhhi-store.github.io/packages_info/kobu/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/kobu1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.kobu_1.0_iphoneos-arm.deb
+Size: 19054632
+MD5sum: 6e9c44094c66a4d0154afe802544b779
+SHA1: d5499f9291ddaa3fac1a66c53fdbde60849d3196
+SHA256: a3c6b7334dc230285d0c82e22165c7769f58ebd64e9549c78cabe9169d19d3c5
+
+
+Package: com.tqm-store.diddly
+Name: Diddly
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Arrows CC theme with Prysm support
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/diddly.json
+Depiction: https://minhhi-store.github.io/packages_info/diddly/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/diddly.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.diddly_1.0_iphoneos-arm.deb
+Size: 39113646
+MD5sum: 93f2064f5a7c0b6eae18aa5c39701abb
+SHA1: be57133311d72d1aca926f8a7d6d7583ba338ba6
+SHA256: 2205435207f0853d72b1c8ab9724824e65083188d363701d68dd0e60ee939803
+
+
+Package: com.tqm-store.caramel
+Name: Caramel
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes mod by Tqm
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/caramel.json
+Depiction: https://minhhi-store.github.io/packages_info/caramel/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/caramel.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.caramel_1.0_iphoneos-arm.deb
+Size: 10757950
+MD5sum: cac82b3aaeb29627d009194ea94cd38f
+SHA1: fe063edd0a9545f11dfe45c334d43759c6b97665
+SHA256: 069d8b78ee0db9e77f540036749a0aae4b54f12936817f1d4077f13b55a22a3a
+
+
+Package: com.tqm-store.timesskap
+Name: Times Skap
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widgets mod by Tqm
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Widgets
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/timesskap.json
+Depiction: https://minhhi-store.github.io/packages_info/timesskap/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/timesskap.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.timesskap_1.0_iphoneos-arm.deb
+Size: 141320
+MD5sum: d941dc3eadf5c671c1aa1da606215e1f
+SHA1: 215db9f3d88c46244ea472f567936d4fb895d45c
+SHA256: d70ad29f787953692bb7b3b356b77388e0014f6cb8e2d0b6e5d0c9f84f5aae91
+
+
+Package: com.tqm-store.weatherstack
+Name: Weather Stack
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widgets mod by Tqm
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Widgets
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Sileodepiction: https://minhhi-store.github.io/Sileo/weatherstack.json
+Depiction: https://minhhi-store.github.io/packages_info/weatherstack/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/weatherstack.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.weatherstack_1.0_iphoneos-arm.deb
+Size: 1425534
+MD5sum: a28f20fa6a7489962f400b215dc3459b
+SHA1: 20a5a371f63dceb40b0a4c4507227ba067895160
+SHA256: b2dc29da98ac25669722f3cc106b182a845ed694ed2e78446f6c1f326f70f9b5
+
+
+Package: com.tqm-store.aiircc
+Name: Aiir CC
+Version: 1.4
+Architecture: iphoneos-arm
+Description: A Custom Control Centre Theme!
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/aiircc.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/aiircc.json
+Depiction: https://minhhi-store.github.io/packages_info/aiircc/?p=info
+Filename: ./debs/com.tqm-store.aiircc_1.4_iphoneos-arm.deb
+Size: 2692584
+MD5sum: 54dae85bdb0c94396c0384d2a2226dc9
+SHA1: 4a13328c84e15eef0932d309f14e83be77e89a5e
+SHA256: 97edec377a69bbb2ecd6744b347f41a603394d836f73fcb962e461eaef9c0406
+
+
+Package: com.tqm-store.arete
+Name: Arete
+Version: 1.4
+Architecture: iphoneos-arm
+Description: A dope theme with 2000+ icons 🔥🔥🔥
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/arete1.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/arete.json
+Depiction: https://minhhi-store.github.io/packages_info/arete/?p=info
+Filename: ./debs/com.tqm-store.arete_1.4_iphoneos-arm.deb
+Size: 13358724
+MD5sum: f92318665bf579f0ff1a8041f677905b
+SHA1: b81045ce36dc4cf1e4f3e320940a7bb985adf8c3
+SHA256: 2548df8aacd48cec590ae596a8cf00bc62597c3c28da205effa73edec73f78f6
+
+
+Package: com.tqm-store.arrowscc
+Name: Arrows CC
+Version: 1.3.4
+Architecture: iphoneos-arm
+Description: Arrows CC theme with Prysm support
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/arrowscc.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/arrowscc.json
+Depiction: https://minhhi-store.github.io/packages_info/arrowscc/?p=info
+Filename: ./debs/com.tqm-store.arrowscc_1.3.4_iphoneos-arm.deb
+Size: 263302
+MD5sum: 0eadf1514195199550b663d8a534b95b
+SHA1: 81529cb336c17964762fbfa0a7bb26be80a68f07
+SHA256: 2aa61ce65b780111406ffaaa1befec857cdab8c675ea09db0dbf5019001b10e8
+
+
+Package: com.tqm-store.tiktoknowatermark
+Name: TikTok No Watermark
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Download TikTok videos without watermark.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: pxcex
+Section: Tweaks
+Version: 0.0.4
+Installed-Size: 432
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/tiktoknowatermark.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/tiktoknowatermark.json
+Depiction: https://minhhi-store.github.io/packages_info/tiktoknowatermark/?p=info
+Filename: ./debs/com.tqm-store.tiktoknowatermark_0.0.4_iphoneos-arm.deb
+Size: 125216
+MD5sum: 8ebe3e33c9e4797a859daf7a52194abd
+SHA1: 6797dabf9cc9df72a98b0e506eb3d1ad0bb05a3d
+SHA256: 0878fce99d0873e2c3fbc43021566afba118fc38bf4577f36e29e0d59f5bcaba
+
+
+Package: com.tqm-store.funkong
+Name: FunKong
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Sileodepiction: https://minhhi-store.github.io/Sileo/funkong.json
+Depiction: https://minhhi-store.github.io/packages_info/funkong/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/funkong.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.funkong_1.0_iphoneos-arm.deb
+Size: 11315404
+MD5sum: bb447b1ffc72f9310638478a9f694c3e
+SHA1: e511ce2f7fcb1f753d705bb5e68ccdfab6ad911c
+SHA256: 81b32cbc4b9ea466262861219ccbb3d4db3278258509d3a8af804057c39daa49
+
+
+Package: com.tqm-store.retrorika
+Name: Retrorika
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Sileodepiction: https://minhhi-store.github.io/Sileo/retrorika.json
+Depiction: https://minhhi-store.github.io/packages_info/retrorika/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/retrorika.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.retrorika_1.0_iphoneos-arm.deb
+Size: 24181650
+MD5sum: 9bb8a5727bda074c9a372d421aedb53b
+SHA1: e1237cdeb63f66850f7338c28d9c283be95700a7
+SHA256: cbc43255800b56eecd885ea88264b437a9f2d04d43db3571286a629b2c4c3c51
+
+
+Package: com.tqm-store.arete
+Name: Arete
+Version: 1.3
+Architecture: iphoneos-arm
+Description: A dope theme with 2000+ icons 🔥🔥🔥
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Sileodepiction: https://minhhi-store.github.io/Sileo/arete.json
+Depiction: https://minhhi-store.github.io/packages_info/arete/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/arete1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.arete_1.3_iphoneos-arm.deb
+Size: 29303374
+MD5sum: df3c6488565533d75f6848ede4430545
+SHA1: 8436b714e7a0228bf2acb867c7c6b372f6d257e3
+SHA256: 5d1e49ba72373f6342b127fecd7963849d03d580307738f580a941f440b07aef
+
+
+Package: com.tqm-store.bwicons
+Name: BWIcons
+Architecture: iphoneos-arm
+Description: Anemone - Anemone 3 - iThemer - Snowboard - Winterboard
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Version: 1.1.4
+Sileodepiction: https://minhhi-store.github.io/Sileo/bwicons.json
+Depiction: https://minhhi-store.github.io/packages_info/bwicons/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/bwicons1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.bwicons_1.1.4_iphoneos-arm.deb
+Size: 21410938
+MD5sum: 9dbea7dea40685d19d4b8f7bec524df2
+SHA1: a27c9ffa0c0a93daec4efd8bb61c9be87dfad01d
+SHA256: 3bd80a6937735d6802853fc28b2b07d760f51b8adad37c19c8d270b1ce2b70b0
+
+
+Package: com.tqm-store.merlen
+Name: Merlen
+Version: 1.6
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Simple icons with shadow
+Sileodepiction: https://minhhi-store.github.io/Sileo/merlen.json
+Depiction: https://minhhi-store.github.io/packages_info/merlen/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/merlen1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.merlen_1.6_iphoneos-arm.deb
+Size: 5671182
+MD5sum: 652f05c41fa1d875eea2d69e818b957a
+SHA1: 4316c6bbd4b3c7381db76540131946ee783750f5
+SHA256: 21454ccdd23dbc8b7c9d9db962c232715b13d3d96f3e665ab0a361780c95867e
+
+
+Package: com.tqm-store.newglyph
+Name: NewGlyph
+Version: 2.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Glyph color icons
+Sileodepiction: https://minhhi-store.github.io/Sileo/newglyph.json
+Depiction: https://minhhi-store.github.io/packages_info/newglyph/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/newglyph1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.newglyph_2.0_iphoneos-arm.deb
+Size: 11270658
+MD5sum: 8ef6bfdc8050c12f5374ff2a8c44c1a6
+SHA1: 12e565cc8f41defd9aed814f4762280a1a2def5a
+SHA256: e911e4757f54a4107d5662ea9f94970feec390a7f09e7d0e9507f28565bb2905
+
+
+Package: com.tqm-store.reddead
+Name: RedDead
+Version: 1.2.0
+Section: TQM Themes
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Black icons with red logo
+Sileodepiction: https://minhhi-store.github.io/Sileo/reddead.json
+Depiction: https://minhhi-store.github.io/packages_info/reddead/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/reddead1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.reddead_1.2.0_iphoneos-arm.deb
+Size: 4626192
+MD5sum: be79125027a37886660d8edc7250b62c
+SHA1: 43ffa0d85239783350b0617d54f83956d4222d55
+SHA256: 1fe08d29b7a17a7289bdaa5fecdbdbd0a90bb0a258de380b1a0139e6f6656647
+
+
+Package: com.tqm-store.sopaxcc
+Name: Sopax CC
+Version: 1.0
+Architecture: iphoneos-arm
+Description: icon controlcenter for Prysm ( Snowboard - iThemer )
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Sileodepiction: https://minhhi-store.github.io/Sileo/sopaxcc.json
+Depiction: https://minhhi-store.github.io/packages_info/sopaxcc/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/sopaxcc.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.sopaxcc_1.0_iphoneos-arm.deb
+Size: 266376
+MD5sum: 80a09a3c5ae1962423a71077984360e9
+SHA1: 0daff945a78242ba5dfc87fec6c5054a82f31d21
+SHA256: 27fffeeb1a009754e5a2163ea0bd59b88550301697fab1c1af934797da04722d
+
+
+Package: com.tqm-store.calmcc
+Name: Calm CC
+Version: 1.1
+Section: TQM CC
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Unique customization to Your Control Centre.
+Sileodepiction: https://minhhi-store.github.io/Sileo/calmcc.json
+Depiction: https://minhhi-store.github.io/packages_info/calmcc/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/calmcc3.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.calmcc_1.1_iphoneos-arm.deb
+Size: 488732
+MD5sum: 6bd1824f258eef946d7ed8d6cf5aa552
+SHA1: 1ff30c7cdc2142b6469989b9c6442adb95f117a7
+SHA256: 60620e94aa0fa120b7995da888c3ff2ebd4293641478037fe2784f51d822cfb3
+
+
+Package: com.tqm-store.fruitcc
+Name: Fruit CC
+Version: 1.1
+Section: TQM CC
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Bring Fresh Fruits to Your Control Centre.
+Sileodepiction: https://minhhi-store.github.io/Sileo/fruitcc.json
+Depiction: https://minhhi-store.github.io/packages_info/fruitcc/?p=info
+Icon: https://minhhi-store.github.io/packages_info/screenshots/fruitcc1.png
+Homepage: https://www.facebook.com/quangminhdx
+Filename: ./debs/com.tqm-store.fruitcc_1.1_iphoneos-arm.deb
+Size: 524202
+MD5sum: 799496ecaf7e73fb891a8ca8237b7e08
+SHA1: f61e914277d543b183dc79c217729a48a2882b27
+SHA256: bada155a55ffdb0e8459d9b623b0d9da66f68fe7f2a8d29448182f01a4b9f262
+
+
+Package: com.tqm-store.gushicc
+Name: Gushi CC
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Thay đổi icon (biểu tượng) trung tâm kiểm soát,trung tâm điều khiển.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.2
+Section: TQM CC
+Architecture: iphoneos-arm
+Icon: https://www.yourepo.com/images/sections/users/1662.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/gushicc.json
+Depiction: https://minhhi-store.github.io/packages_info/gushicc/?p=info
+Filename: ./debs/com.tqm-store.gushicc_1.2_iphoneos-arm.deb
+Size: 438590
+MD5sum: 18f45425e2e1627184a591c93e8675d7
+SHA1: 02e81c26f71b7a02a9e4e6eec8c55c74a2e673f4
+SHA256: c4496c3aa5ebec82ab444244689a382414716bedcd0307e15b28378acb3e7a3b
+
+
+Package: com.tqm-store.devycc
+Name: Devy CC
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Thay đổi icon (biểu tượng) trung tâm kiểm soát,trung tâm điều khiển.
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.1
+Section: TQM CC
+Architecture: iphoneos-arm
+Icon: https://repo.packix.com/api/Packages/5e60f1e510df79001a18f312/icon/download?size=medium
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/devycc.json
+Depiction: https://minhhi-store.github.io/packages_info/devycc/?p=info
+Filename: ./debs/com.tqm-store.devycc_1.1_iphoneos-arm.deb
+Size: 484822
+MD5sum: 715194319e9f762aa58daca042b90c3a
+SHA1: 39de92cb7bd4ed2ad7d8a1456af8b9b325a00288
+SHA256: ea6ccabd0bfdff58f55b8a0b42198d54c87cfb6df248a9b56fd5644b7d3e9599
+
+
+Package: com.tqm-store.devycc
+Name: Devy CC
+Version: 1.3
+Section: TQM CC
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Reimagine CC with most beautiful style.
+Icon: https://repo.packix.com/api/Packages/5e60f1e510df79001a18f312/icon/download?size=medium
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/devycc.json
+Depiction: https://minhhi-store.github.io/packages_info/devycc/?p=info
+Filename: ./debs/com.tqm-store.devycc_1.3_iphoneos-arm.deb
+Size: 508808
+MD5sum: 475fac7b398b95a35026eb6bad34c27a
+SHA1: cf9520eb6f7664dc896d84b1aa90305b17641fc6
+SHA256: fed89c1de4b2df09a315203620fd3d5919b5e76c30ba595a6bec293e02325ead
+
+
+Package: com.tqm-store.spacecc
+Name: Space CC
+Version: 1.0
+Section: TQM CC
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Most Fav Space Elements for Your Prysm Control Centre.
+Icon: https://minhhi-store.github.io/packages_info/screenshots/spacecc.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/spacecc.json
+Depiction: https://minhhi-store.github.io/packages_info/spacecc/?p=info
+Filename: ./debs/com.tqm-store.spacecc_1.0_iphoneos-arm.deb
+Size: 507690
+MD5sum: c397704b3cb22f2a4a5f387adeaf5145
+SHA1: fe87bab3c76e6b5dd4c73132ea7320687bb79810
+SHA256: 1c1140a3a9ea338ceb7f32a788bb12892fc0402bc74e31f8b64faa666d0c24d4
+
+
+Package: com.tqm-store.inkcc
+Name: Ink CC
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Thay đổi icon (biểu tượng) trung tâm kiểm soát,trung tâm điều khiển.
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/inkcc.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/inkcc.json
+Depiction: https://minhhi-store.github.io/packages_info/inkcc/?p=info
+Filename: ./debs/com.tqm-store.inkcc_1.1_iphoneos-arm.deb
+Size: 230922
+MD5sum: 31ee67ab870964ccef78d59a4571ef2a
+SHA1: dbc4a5ff6950820249691805e22288b9591e7597
+SHA256: e84308398ad23b1bd16c0c2ae447f75d9669a072b48d4b8cae8c2d037350bbaf
+
+
+Package: com.tqm-store.midnight
+Name: Midnight
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes of anemone - snowboard ....
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/midnight2.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/midnight.json
+Depiction: https://minhhi-store.github.io/packages_info/midnight/?p=info
+Filename: ./debs/com.tqm-store.midnight_1.0_iphoneos-arm.deb
+Size: 8233978
+MD5sum: 3ecde42c6d2af4163b77f09d70888365
+SHA1: 949b058a5af2670f8f6f18ed7337f0382b076d18
+SHA256: f521ef0ff16bec70248f54cf8f069adfd517eddbed6b175cdf3bfc75a111d47a
+
+
+Package: com.tqm-store.aiircc
+Name: Aiir CC
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Thay đổi icon (biểu tượng) trung tâm kiểm soát,trung tâm điều khiển.
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/aiircc.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/aiircc.json
+Depiction: https://minhhi-store.github.io/packages_info/aiircc/?p=info
+Filename: ./debs/com.tqm-store.aiircc_1.1_iphoneos-arm.deb
+Size: 2174340
+MD5sum: 80178209f6270ca06b319cb83499063b
+SHA1: 7c24d2c665fc148da9c94c6e2da30716df186e95
+SHA256: 704212d84a175aa86b4c5eb14414394fec811ea6f09059aa4ab4f6c18b131a48
+
+
+Package: com.tqm-store.elate
+Name: Elate
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Homepage: https://www.facebook.com/quangminhdx
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/elate.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/elate.json
+Depiction: https://minhhi-store.github.io/packages_info/elate/?p=info
+Filename: ./debs/com.tqm-store.elate_1.0_iphoneos-arm.deb
+Size: 1336988
+MD5sum: d1bc1e781a3099cd629c3b35e2e921e8
+SHA1: e7ef9970ba98ba3d8acfeda6f94f8cdd34d9988f
+SHA256: 69f50c11e19018503961ba5b4bd04a61746059738e4ce7d1b39dddfc3a263588
+
+
+Package: com.tqm-store.cocaine
+Name: Cocaine
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer - Winterboard
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/cocaine.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/cocaine.json
+Depiction: https://minhhi-store.github.io/packages_info/cocaine/?p=info
+Filename: ./debs/com.tqm-store.cocaine_1.0_iphoneos-arm.deb
+Size: 57309882
+MD5sum: 514744dd9506e2c2d78698bad4522d58
+SHA1: abac3783cc4b8de5860a7d640918303dd75e87ea
+SHA256: 096fd20946289cda48879bcc2f2e994b462d27e9f5907fc945764536274db494
+
+
+Package: com.tqm-store.dai
+Version: 1.0
+Architecture: iphoneos-arm
+Name: Dai
+Description: enjoy Free theme for your iPhone
+Section: TQM Themes
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/dai.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/dai.json
+Depiction: https://minhhi-store.github.io/packages_info/dai/?p=info
+Filename: ./debs/com.tqm-store.dai_1.0_iphoneos-arm.deb
+Size: 50246230
+MD5sum: 38196932a5301f97d589ae135b0db0c7
+SHA1: be613639fbea86d786e494711c4e75f091cb9b72
+SHA256: 7846835388a64672e1d45392b50481ae7eef029a843e96b6f7ff06d455b0007e
+
+
+Package: com.tqm-store.krimy
+Name: Krimy
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Themes - Anemone - Anemone 3 - Snowboard - iThemer
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0.2
+Section: TQM Themes
+Architecture: iphoneos-arm
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/krimy1.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/krimy.json
+Depiction: https://minhhi-store.github.io/packages_info/krimy/?p=info
+Filename: ./debs/com.tqm-store.krimy_1.0.2_iphoneos-arm.deb
+Size: 23506042
+MD5sum: 0ffb435b60843ce1f659fcebdd8235c2
+SHA1: 57acdf83a4f260909fa40b38645817bb026d07e2
+SHA256: 06cd273fa196a394bc29f854b53c50fd92b32124e46bfd1f7d18cc86e0b5c8cd
+
+
+Package: com.tqm-store.liacaglyphs
+Name: Liaca Glyphs
+Version: 1.7
+Description: Тема Liaca Glyphs
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Installed-Size: 9166
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/liacaglyphs1.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/liacaglyphs.json
+Depiction: https://minhhi-store.github.io/packages_info/liacaglyphs/?p=info
+Filename: ./debs/com.tqm-store.liacaglyphs_1.7_iphoneos-arm.deb
+Size: 6367834
+MD5sum: a97dd717e05d44205047985fea9d3bd6
+SHA1: 82b78a1d1c574e2724f85ef643916e98edf3bbe0
+SHA256: 97afb030f077bbb4290609b7140f84ba4ac9693711a9795ccf98dcb2190a7125
+
+
+Package: com.tqm-store.malibu
+Name: Malibu
+Author: @tqmmos <anhminhclub@gmail.com>
+Description: Malibu Sunsets Theme.
+Maintainer: @tqmmos <anhminhclub@gmail.com>
+Version: 1.4
+Section: TQM Themes
+Architecture: iphoneos-arm
+Homepage: https://www.facebook.com/quangminhdx
+Icon: https://minhhi-store.github.io/packages_info/screenshots/malibu1.png
+Sileodepiction: https://minhhi-store.github.io/Sileo/malibu.json
+Depiction: https://minhhi-store.github.io/packages_info/malibu/?p=info
+Filename: ./debs/com.tqm-store.malibu_1.4_iphoneos-arm.deb
+Size: 27063372
+MD5sum: fa341143d00c9c0f1a3ea9244ac16f95
+SHA1: 2b845a0daaa5aa1e6cb3df559022ebdf43bb0189
+SHA256: 2b5308da93d0f35a94f424d4b55dc4492c578b47aca4c0862197a2d6c790bd2d
+
+
+Package: com.tqm-store.utopia
+Name: Utopia
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Utopia
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer:  @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Icon: https://minhhi-store.github.io/packages_info/screenshots/utopia1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/utopia.json
+Depiction: https://minhhi-store.github.io/packages_info/utopia/?p=info
+Filename: ./debs/com.tqm-store.utopia_1.1_iphoneos-arm.deb
+Size: 39644226
+MD5sum: 43c5fa2097ac99cc37b0361ec3fff6ab
+SHA1: 5b10bd9ac571cb53eea2dab73ae53a4196f06dbd
+SHA256: 05bbbcc5991ec88cd5b995c9447db79408252bd414ab53bea41f6be107aaa331
+
+
+Package: com.tqm-store.violaglyphs
+Name: Viola Glyphs
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: The glyph version of Viola! (3 modes)
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0.2
+Section: TQM Themes
+Architecture: iphoneos-arm
+Icon: https://minhhi-store.github.io/packages_info/screenshots/violaglyphs.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/violaglyphs.json
+Depiction: https://minhhi-store.github.io/packages_info/violaglyphs/?p=info
+Filename: ./debs/com.tqm-store.violaglyphs_1.0.2_iphoneos-arm.deb
+Size: 12743576
+MD5sum: 76f710bfb5ed573d250f8ac9821a1373
+SHA1: f00c79ca8982abe6e0e72baa39c96baf1f512800
+SHA256: c7c640ef10f7bab77553b21bdd17a0a5f33c6f02746acc0a1533529e79fa2a20
+
+
+Package: com.tqm-store.sileou0
+Version: 1.0
+Section: Addons
+Maintainer: @tqmmos
+Depends: org.swift.libswift (>=5.0), zsh, curl, cydia (=1.1.32~b19)
+Architecture: iphoneos-arm
+Name: Sileo cho unc0ver
+Author: @tqmmos
+Description: Trình cài đặt Sileo cho unc0ver jailbreak
+Icon: https://minhhi-store.github.io/packages_info/screenshots/sileo.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/sileou0.json
+Depiction: https://minhhi-store.github.io/packages_info/sileou0/?p=info
+Filename: ./debs/com.tqm-store.sileou0_1.0_iphoneos-arm.deb
+Size: 7904
+MD5sum: d81abf9b93663ab1d87ee98137b42752
+SHA1: d5a2e2aceaf094695ae5c0140659602d424ee018
+SHA256: 372ee1b6614defac77409bdfc278e7a94bfcb5096f43cb2a41d8ec5bdcd1dd6f
+
+
+Package: com.tqm-store.unablecc
+Name: Unable CC
+Version: 1.11
+Architecture: iphoneos-arm
+Description: A simple style CC theme.
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM CC
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/unablecc1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/unablecc.json
+Depiction: https://minhhi-store.github.io/packages_info/unablecc/?p=info
+Filename: ./debs/com.tqm-store.unablecc_1.11_iphoneos-arm.deb
+Size: 523508
+MD5sum: 5c038221edf74a5ecd2f27092083a170
+SHA1: 012cefee9b063548098805771f4c70f6a0ef46b6
+SHA256: 8d6f48bbf9b8052a8ac657e2ac13654442559aceeb8fbf7277a236c324026cec
+
+
+Package: com.tqm-store.stikaz
+Name: Stikaz
+Version: 1.0
+Architecture: iphoneos-arm
+Description: stikaz them
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: TQM Themes
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/stikaz1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/stikaz.json
+Depiction: https://minhhi-store.github.io/packages_info/stikaz/?p=info
+Filename: ./debs/com.tqm-store.stikaz_1.0_iphoneos-arm.deb
+Size: 9896958
+MD5sum: a75df5c23917c7d72e3d271685214b39
+SHA1: 574b888a361c4cb2bd2807b7788be131ffa423b9
+SHA256: 9661cf3ed8b6017632de43e74f5caf9a886aee9615156161fdef8df2c2637cc8
+
+
+Package: com.tqm-store.linealcc
+Version: 1.0
+Section: TQM CC
+Architecture: iphoneos-arm
+Name: Lineal CC
+Description: Lineal CC Theme.
+Maintainer: TQM <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/linealcc1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/linealcc.json
+Depiction: https://minhhi-store.github.io/packages_info/linealcc/?p=info
+Filename: ./debs/com.tqm-store.linealcc_1.0_iphoneos-arm.deb
+Size: 1772788
+MD5sum: ba5100f9446fe9f9df304d649c43838a
+SHA1: 9800ad20f814b058e834edca443d7dc800c70790
+SHA256: e2c39af4f8c181fcc8cb502f2c81d13e150bb59573063383424c16f460dd3471
+
+
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.4
+Description: Thiết kế lại điểm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 1823
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.4_iphoneos-arm.deb
+Size: 385708
+MD5sum: e837334ec2ef1d935306aa2af0017f6e
+SHA1: f4bf755b122974ae7a623a42b48f8c54c038b5dd
+SHA256: a7d004b1da0aa1ca31b78d4f073a3605ccfbef6854511706241699327e0b7f77
+
+
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.5k
+Description: Thiết kế lại trung tâm kiểm soát !
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 1972
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311104@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.5k_iphoneos-arm.deb
+Size: 437762
+MD5sum: bba29faa604de8e80168f4fe8a25f832
+SHA1: ce56c037226d24f174cc0a0fd3966219a28574f3
+SHA256: b415e66c75248a8628fde1071434c57bf90efefafd3aaaa8cf6aa18e18efcb5f
+
+
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.6k
+Description: Thiết lập lại trung tâm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 2775
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.6k_iphoneos-arm.deb
+Size: 1004380
+MD5sum: 8f218d37b1ec61e2f1c238f9c9974278
+SHA1: 80e1f1b5d54152bd47edf5ad71adb911627002d2
+SHA256: 3983f0c19c60fc8a762a52374a7ff45bcd9d8c6e9d435bac4ed0c34f349bfbe5
+
+
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.6.1
+Description: Thiết kế lại trung tâm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 2775
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.6.1_iphoneos-arm.deb
+Size: 1006344
+MD5sum: 507578af73534f185cfdc6637ae5fe3b
+SHA1: 50925cd15011e898a883873e0ddfba72bdb0238f
+SHA256: 7befc200c5c3602e02542038e38ee9c3a602ceb9df2aaa9231cb851a4949289c
+
+
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.6.2k
+Description: thiết kế lại trung tâm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 2918
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.6.2k_iphoneos-arm.deb
+Size: 1036598
+MD5sum: 8475a809f22e7faffffa4c9d6a088d53
+SHA1: 3b5f384656521ce7dbfa35ea80767c803dce88a3
+SHA256: 17e57d4f2744c01a000d0ed10eba3c4edef105f7a53303bc404d86e81f6c3868
+
+
+Package: com.minhhi-store.prysm
+Name: Prysm
+Version: 1.7k
+Description: Thiết kế lại trung tâm điều khiển
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 2918
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.minhhi-store.prysm_1.7k_iphoneos-arm.deb
+Size: 1042526
+MD5sum: 2b1fa718520faf6a800eb9b8015f8cd6
+SHA1: e231d4c5dd0ea15f1b2e32ebabe9e540e45aebf4
+SHA256: 12363b20ff5f9772207991d51b1786def24cd556e0b42c7849fad80ad84329c3
+
+
+Package: com.minhhi-store.sbdockyweatherx2
+Name: SB Docky Weather X2
+Description: Widget  by Tqm-Mos .sử dụng qua XenHTML cho màn hình chính !
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: @tqmmos <anhminh311105@gmail.com> 
+Section: Widgets
+Version: 0.1
+Icon: https://minhhi-store.github.io/packages_info/screenshots/sbdockyweatherx21.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/sbdockyweatherx2.json
+Depiction: https://minhhi-store.github.io/packages_info/sbdockyweatherx2/?p=info
+Filename: ./debs/com.minhhi-store.sbdockyweatherx2_0.1_iphoneos-arm.deb
+Size: 725936
+MD5sum: 46ebcafe5770f4c4923d7d6daed59f2f
+SHA1: b45a659feb79ab5733d5d25a2254ead0cc6bcba7
+SHA256: 96fe28e0afa957b41640e8253b48f547f75009ab026a959723ce56b61912c945
+
+
+Package: com.minhhi-store.holaweather
+Name: Hola Weather
+Description: Widget 
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Author: @tqmmos <anhminh311105@gmail.com> 
+Section: Widgets
+Version: 0.1
+Icon: https://minhhi-store.github.io/packages_info/screenshots/holaweather.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/holaweather.json
+Depiction: https://minhhi-store.github.io/packages_info/holaweather/?p=info
+Filename: ./debs/com.minhhi-store.holaweather_0.1_iphoneos-arm.deb
+Size: 24917356
+MD5sum: db7118519ef3877027144036c97770cb
+SHA1: 63289cf01650c1e1e1fa0e18c9a50439ec7479d2
+SHA256: 8a33831860c5d71bb88494f9912acf4d44f7f5f7ba7afc96d9a356e862fb7028
+
+
+Package: com.minhhi-store.lineweather
+Name: Line Weather
+Description: Widget 
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Author: @tqmmos <anhminh311105@gmail.com> 
+Section: Widgets
+Version: 0.1
+Icon: https://minhhi-store.github.io/packages_info/screenshots/lineweather.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/lineweather.json
+Depiction: https://minhhi-store.github.io/packages_info/lineweather/?p=info
+Filename: ./debs/com.minhhi-store.lineweather_0.1_iphoneos-arm.deb
+Size: 23368350
+MD5sum: 783804987f9ebb5cb834b85901a7f09e
+SHA1: 356be9c530472a6319ab106bc12dea9790b359a8
+SHA256: 7e60e552bfb0f6f9b92be4e53e2392a5a29dacd0465ecacb3596dd205ff27d9d
+
+
+Package: com.minhhi-store.skyweather
+Name: Sky Weather
+Description: Widget 
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Author: @tqmmos <anhminh311105@gmail.com> 
+Section: Widgets
+Version: 0.1
+Icon: https://minhhi-store.github.io/packages_info/screenshots/skyweather.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/skyweather.json
+Depiction: https://minhhi-store.github.io/packages_info/skyweather/?p=info
+Filename: ./debs/com.minhhi-store.skyweather_0.1_iphoneos-arm.deb
+Size: 5772764
+MD5sum: 605f2859964a8e677a04b22205036320
+SHA1: 47d0bd26808bf4eb1683c6cfaa8a8e75e3e9ad5b
+SHA256: 99984b129d81c861ef2f4825dededa66e98d51fb288472d9a6f293fc4f276d44
+
+
+Package: com.minhhi-store.apricity
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>   
+Section: TQM Themes 
+Description: Themes mod by Tqm-Mos . Android for IOS
+Author: @tqmmos <anhminh311105@gmail.com>   
+Name: Apricity
+Icon: https://minhhi-store.github.io/packages_info/screenshots/apricity1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/apricity.json
+Depiction: https://minhhi-store.github.io/packages_info/apricity/?p=info
+Filename: ./debs/com.minhhi-store.apricity_0.1_iphoneos-arm.deb
+Size: 16327492
+MD5sum: c175fc544ba1854f8713cb4f937aac4d
+SHA1: 0d3792e14a4548db1cf561a23bc886d6b99edf7d
+SHA256: 20c8e1372c0ef74fe48b8e13f7f06230d2ef8c77dae2a3984ecce29be4fe5d48
+
+
+

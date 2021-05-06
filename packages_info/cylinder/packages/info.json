@@ -1,0 +1,23 @@
+{
+  "name": "Cylinder",
+  "package": "com.minhhi-store.cylinder",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.0.1",
+  "dependency": "N/A",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.4",
+  "otheriOS": "untested",
+  "description": "<div>Cylinder Reborn mang đến hình ảnh động biểu tượng cuộn thú vị cho iOS! Với các công thức tùy chỉnh và kết hợp các hiệu ứng, có hàng nghìn tỷ hiệu ứng biểu tượng có thể có cho thiết bị của bạn.<br><br>• Cylinder Reborn cũng phải tương thích với Apple CarPlay.<br><br>• Hoạt ảnh được viết bằng Lua được lưu trữ trong / Library / Cylinder, cũng có thể được sửa đổi hoặc nơi bạn thậm chí có thể tạo của riêng mình. Yêu cầu tập lệnh cũng có sẵn trên reddit.com/r/cylinder , nơi đôi khi mọi người cũng đăng các kết hợp thú vị ở đó. Tinh chỉnh cũng hoàn toàn là mã nguồn mở và có thể tìm thấy trên Github: github.com/ryannair05/Cylinder-Reborn . Bạn cũng có thể tham gia Máy chủ Discord của tôi để cập nhật hoặc báo cáo lỗi.</div>",
+  "changelog": {
+  "1.0.1": [
+      "Cải tiến và sửa lỗi."
+    ]
+  },
+  "screenshots": {
+    "cylinder.mp4": "",
+    "cylinder.jpg": "",
+    "cylinder1.jpg": "",
+    "cylinder2.jpg": ""
+  },
+  "links": {}
+}
