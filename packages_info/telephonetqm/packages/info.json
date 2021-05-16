@@ -1,0 +1,25 @@
+{
+  "name": "Telephone T.Q.M",
+  "package": "com.minhhi-store.telephonetqm",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "100",
+  "otheriOS": "untested",
+  "description": "<div>Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho icon Passcode icon Telephone.<br><br>* Hoạt động qua (Snowboard - iThemer - iConOmatic).<br><br>* Gồm 6 gói icon.<br><br>* Đối với những IOS 14. Muốn hiển thị nền APP TELEPHONE { ỨNG DỤNG ĐIỆN THOẠI } hãy cài Tweaks MyWall.<br><br>* Nếu bạn yêu thích gói icon này hãy ủng hộ tôi qua.<br><br>* MOMO : 0868.388.373.<br><br>* STK : SACOMBANK / 060250773792 / TRẦN QUANG MINH.<br><br>* CÁM ƠN BẠN ĐÃ QUAN TÂM.</div>",
+  "changelog": {
+    "1.0": [
+      "1.0 - Phiên bản đầu tiên."
+    ]
+  },
+  "screenshots": {
+    "telephone1.png": "",
+    "telephone2.png": "",
+    "telephone3.png": "",
+    "telephone4.png": "",
+    "telephone5.png": "",
+    "telephone6.png": ""
+  },
+  "links": {}
+}
