@@ -1,0 +1,20 @@
+{
+  "name": "Summer",
+  "package": "com.minhhi-store.summer",
+  "author": "Tqm-Mos (@tqmmos)",
+  "version": "1.0",
+  "dependency": "N/A",
+  "minOSVersion": "7.0",
+  "maxOSVersion": "100",
+  "otheriOS": "untested",
+  "description": "<div> Gói Chủ Đề (Themes)<br><br>* Hiển thị thay đổi cho màn hình chính.<br><br>* Hoạt động qua (Anemone - Anemone 3 - Snowboard - iThemer).<br><br>* Đây là bản miễn phí ,vì vầy chỉ có icon mặc của Apple.<br><br>* Nếu bạn yêu thích gói icon này hãy mua gói Full ( 100k ).<br><br>* Sẽ có 350 icon , các gói Badger , icon Setting.<br><br>* Hình thức mua , thanh toán qua các gói bên dưới :<br><br>* MOMO : 0868.388.373.<br><br>* STK : SACOMBANK / 060250773792 / TRẦN QUANG MINH.<br><br>* CÁM ƠN BẠN ĐÃ QUAN TÂM.</div>",
+  "changelog": {
+    "1.0": [
+      "1.0 - Phiên bản đầu tiên."
+    ]
+  },
+  "screenshots": {
+    "summer.png": ""
+  },
+  "links": {}
+}
